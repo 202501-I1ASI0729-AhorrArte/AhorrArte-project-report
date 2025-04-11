@@ -9,14 +9,13 @@ width=50%"/>
 
 <h5 style="text-align: center"> Ingeniería de Software </h5>
 
-<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - SW51 </h5>
+<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - 1ASI0729-2510-4348 </h5>
 
 <h5 style="text-align: center"> Docente: Hugo Allan Mori Paiva </h5>
 
-<h5 style="text-align: center"> Startup: Upecinos-AI </h5>
+<h5 style="text-align: center"> Startup: FinSuma </h5>
 
-<h5 style="text-align: center"> Producto: SAIFU </h5>
-<h5 style="text-align: center"> Agosto - 2024 </h5>
+<h5 style="text-align: center"> Producto: AhorrArte </h5>
 
 
 
