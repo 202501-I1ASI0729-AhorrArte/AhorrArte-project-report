@@ -66,11 +66,11 @@ GitHub también proporciona una visualización detallada del historial de las ra
 
 Los integrantes son:
 
-* Jessica Comettant (Mei0202)
-* Renato German Reyes Valenzuela (Nato0211)
+* NombreIntegrante (NombreUsuario)
+* NombreIntegrante (NombreUsuario)
 * Luis Angel Cisneros Salas (luics341)
-* Marco Antonio Góngora Sanchez (m4rcous)
-* Carlos Andres Rojas Ccama (andres2580)
+* NombreIntegrante (NombreUsuario)
+* NombreIntegrante (NombreUsuario)
 
 Se explican las ramas más prominentes:
 
