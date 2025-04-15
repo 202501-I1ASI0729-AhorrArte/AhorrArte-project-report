@@ -349,5 +349,300 @@ La plataforma está direccionada a dos segmento objetivo: Los jefes de hogar per
 * **Stakelholder Internos:** 
 * **Stakelholder Externos:**
 
+<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
+
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
+
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+
+El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
+
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+
+En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
+
+**Afrontando las fortalezas de nuestros competidores:**
+
+**Comprendemos que las fortalezas de nuestros competidores son:**
+
+-Integración bancaria avanzada (Fintonic, Spendee).
+-Herramientas inteligentes de ahorro (Spendee).
+-Alertas y recomendaciones personalizadas (Fintonic).
+**Estrategias**
+
+-Diferenciar nuestro producto mediante la simplicidad y la facilidad de uso, evitando la complejidad innecesaria.
+
+-Desarrollar una función de integración bancaria básica que se pueda expandir en el futuro.
+**Tácticas**
+
+-Ofrecer un tutorial interactivo al inicio que simplifique el uso de las funciones más avanzadas.
+
+-Lanzar versiones beta de la integración bancaria, recopilando feedback directo de los usuarios para mejorarla continuamente.
+
+**Afrontando las debilidades de nuestros competidores:**
+
+**Comprendemos que la debilidades de nuestros competidores son:**
+
+Complejidad para usuarios que buscan simplicidad (Fintonic).
+Interfaz menos intuitiva para algunos usuarios (Spendee).
+Falta de funciones avanzadas en la versión básica (Monefy).
+
+**Estrategias**
+
+-Enfocarnos en una experiencia de usuario excepcionalmente simple e intuitiva.
+
+-Ofrecer una versión gratuita con suficientes funciones atractivas, pero con incentivos claros para suscribirse a una versión premium.
+
+**Tácticas**
+
+-Realizar pruebas de usabilidad con diferentes perfiles de usuarios para optimizar la interfaz.
+
+-Implementar un sistema de recompensas para los usuarios que refieran a nuevos clientes, motivándolos a optar por versiones premium.
+
+**Afrontando las oportunidades de nuestros competidores:**
+
+**Comprendemos que las oportunidades de nuestros competidores son:**
+
+-Expansión a nuevos mercados con alta demanda de gestión financiera personal.
+
+-Mejora continua de la integración bancaria y servicios financieros adicionales.
+
+-Crecimiento en la adopción de herramientas de ahorro.
+
+**Estrategias**
+
+-Identificar y penetrar nichos de mercado aún no explotados.
+
+-Explorar nuevas funcionalidades centradas en el ahorro automatizado y personalizado.
+
+**Tácticas**
+
+-Realiza estudios de mercado para identificar segmentos desatendidos, como jóvenes profesionales o personas mayores.
+
+-Desarrollar una función que sugiera acciones de ahorro automático basadas en los hábitos de gasto del usuario.
+
+**Afrontando las amenazas de nuestros competidores:**
 
 
+**Comprendemos que las amenazas de nuestros competidores son:**
+
+-Competencia creciente con productos similares en el mercado.
+
+-Cambios regulatorios en la banca digital que podrían afectar las integraciones bancarias.
+
+-Evolución tecnológica que podría cambiar rápidamente las expectativas de los usuarios.
+
+**Estrategias**
+
+-Innovar continuamente para mantenernos competitivos y adelantarnos a los cambios del mercado.
+
+-Establecer un equipo dedicado al cumplimiento normativo y adaptarse rápidamente a los cambios regulatorios.
+
+**Tácticas**
+
+-Fomentar una cultura de innovación interna, alentando la creación de nuevas características y mejoras.
+
+-Colaborar con expertos en regulación para asegurar el cumplimiento y la rápida adaptación a nuevas leyes.
+
+<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
+
+La sección cubre el proceso de investigación de nuestros segmentos objetivo a través de la recopilación de información basada en entrevistas.
+
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
+
+<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
+
+<div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
+
+<div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
+
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
+<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
+
+**2.4 Ubiquitous Language**
+
+<div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
+
+<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+<div id='3.2.'><h3> 3.2. User Stories.</h3></div>
+
+<div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
+<div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
+
+<div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
+
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
+<div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
+
+<div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
+
+<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
+
+<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
+
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
+
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireframes Diagrams.</h4></div>
+
+
+<div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
+
+<div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
+
+
+<div id='4.5'><h4> 4.5. Web Applications Prototyping.</h4></div>
+
+
+<div id='4.6'><h4> 4.6. Domain-Driven Software Architecture</h4></div>
+- Es un enfoque para el diseño de software que se centra en comprender y modelar el núcleo del dominio de una aplicación. 
+
+<div id='4.6.1'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+<div id='4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
+<div id='4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
+
+<div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
+
+<div id='4.7.1'><h4> 4.7.1 Class Diagrams.</h4></div>
+<div id='4.7.2'><h4> 4.7.2 Class Dictionary.</h4></div>
+
+<div id='4.8'><h4> 4.8 Database Design.</h4></div>
+<div id='4.8.1'><h4> 4.8.1 Database Diagram.</h4></div>
+
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management**
+**Product UX/UI Design**
+**Software Testing**
+**Software Development**
+**Software Deployment**
+**Software Documentation and Project Management**
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+**Repositorio de GitHub:**
+**Flujo de trabajo GitFlow:**
+**Estructura de branches (Ramas):**
+1. **Master branch (Rama principal):**
+2. **Develop branch (Rama de desarrollo):**
+3. **Feature branches (Ramas de funcionalidad):**
+4. **Release branches (Ramas de lanzamiento):**
+5. **Hotfix branches (Ramas de corrección):**
+**Versionamiento Semántico:**
+**Convenciones de Commits:**
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+**Gherkin:**
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+**Landing page deployment:**
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+## 5.2 Landing Page, Services & Applications Implementation
+
+<div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
+
+## 5.2 Landing Page, Services & Applications Implementation
+
+<div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+### Evidencia Deployment:
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
+<div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5>
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
+<div id='5.2.3.1.'><h5>5.2.3.1. Sprint Planning 3</h5></div>
+<div id='5.2.3.2.'><h5>5.2.3.2. Sprint Backlog 3</h5></div>
+<div id='5.2.3.3.'><h5>5.2.3.3. Development Evidence for Sprint Review</h5></div>
+<div id='5.2.3.4.'><h5>5.2.3.4. Testing Suite Evidence for Sprint Review</h5></div>
+<div id='5.2.3.5.'><h5>5.2.3.5. Execution Evidence for Sprint Review</h5></div>
+<div id='5.2.3.6.'><h5>5.2.3.6. Services Documentation Evidence for Sprint Review</h5></div>
+<div id='5.2.3.7.'><h5>5.2.3.7. Software Deployment Evidence for Sprint Review</h5></div>
+<div id='5.2.3.8.'><h5>5.2.3.8. Team Collaboration Insights during Sprint</h5></div>
+<div id='5.2.4.'><h5>5.2.4. Sprint 4</h5></div>
+<div id='5.2.4.1.'><h5>5.2.4.1. Sprint Planning 4</h5></div>
+<div id='5.2.4.2.'><h5>5.2.4.2. Sprint Backlog 4</h5></div>
+#### Sprint Backlog 4
+ 
+ <div id='5.2.4.3.'><h5>5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+#### Development Evidence for Sprint 4 Review
+ 
+<div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review</h5></div>
+- A continuación, se presenta una breve descripción de los endpoints que forman parte de la plataforma financiera, que permiten a los usuarios gestionar sus datos, acceder a reportes y realizar configuraciones relacionadas con su economía personal y familiar.
+ 
+<div id='5.2.4.5.'><h5>5.2.4.5. Execution Evidence for Sprint Review</h5></div>
+ 
+<div id='5.2.4.6.'><h5>5.2.4.6. Services Documentation Evidence for Sprint Review</h5></div>
+A continuación, se muestra la documentación exhaustiva de los servicios y endpoints de la API relacionados con los objetivos definidos. Esta documentación utiliza OpenAPI para garantizar claridad, accesibilidad y compatibilidad, proporcionando un recurso invaluable para desarrolladores y equipos de soporte.
+
+# Documentación de Endpoints
+
+<div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
+
+<div id='5.3.'><h5>5.3. Validation Interviews</h5></div>
+<div id='5.3.1.'><h5>5.3.1. Diseño de Entrevistas</h5></div>
+<div id='5.3.2.'><h5>5.3.2. Registro de Entrevistas</h5></div>
+
+<div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
+
+##
+## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
+## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+
+## <a name="_8g2881ripgs6"></a>**TAREAS A EVALUAR:**
+## <a name="_r3fgs33jfsg1"></a>**ESCALA DE SEVERIDAD:**
+<a name="_7ymimqm5hxs5"></a>**TABLA RESUMEN:**
+**Desktop landing page**
+
+<div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
+<div id='6.'><h5>6. Conclusiones.</h5></div>
+<div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+<div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
+<div id='7.'><h5>7. Bibliografía.</h5></div>
+<div id='8.'><h5>8. Anexos.</h5></div>
