@@ -22,7 +22,7 @@ Marzo - 2025
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
-|Nombre|codigoUniversitario|
+|Rivera Ayala, Gabriel Alejandro|U202223279|
 ||codigoUniversitario|
 |Cisneros Salas,Luis Angel|U20211B198|
 |Nombre|codigoUniversitario|
@@ -66,7 +66,7 @@ GitHub también proporciona una visualización detallada del historial de las ra
 
 Los integrantes son:
 
-* NombreIntegrante (NombreUsuario)
+* Gabriel Alejandro Rivera Ayala (guestwhoo)
 * NombreIntegrante (NombreUsuario)
 * Luis Angel Cisneros Salas (luics341)
 * NombreIntegrante (NombreUsuario)
