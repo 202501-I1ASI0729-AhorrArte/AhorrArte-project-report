@@ -385,90 +385,79 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
 
-En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
+A partir del análisis competitivo previamente desarrollado, fue posible determinar con claridad los principales puntos fuertes, áreas de oportunidad, debilidades y riesgos de los productos que compiten en el mismo mercado. Esta información es esencial para diseñar estrategias y acciones concretas que nos permitan posicionarnos de manera sólida una vez que el servicio sea lanzado comercialmente. A continuación, se exponen dichas estrategias y tácticas:
 
-**Afrontando las fortalezas de nuestros competidores:**
+**En respuesta a las fortalezas de los competidores:**
 
-**Comprendemos que las fortalezas de nuestros competidores son:**
+**Se han identificado como fortalezas los siguientes aspectos:**
 
--Integración bancaria avanzada (Fintonic, Spendee).
--Herramientas inteligentes de ahorro (Spendee).
--Alertas y recomendaciones personalizadas (Fintonic).
-**Estrategias**
+- Funcionalidad de integración bancaria completa (Fintonic, Spendee).  
+- Módulos inteligentes de ahorro automático (Spendee).  
+- Alertas y sugerencias financieras personalizadas (Fintonic).
 
--Diferenciar nuestro producto mediante la simplicidad y la facilidad de uso, evitando la complejidad innecesaria.
+**Estrategias:**
 
--Desarrollar una función de integración bancaria básica que se pueda expandir en el futuro.
-**Tácticas**
+- Potenciar la diferenciación de nuestra propuesta destacando su facilidad de uso y una experiencia sencilla para el usuario final.  
+- Incluir desde el inicio una integración bancaria básica, con posibilidad de expansión futura.
 
--Ofrecer un tutorial interactivo al inicio que simplifique el uso de las funciones más avanzadas.
+**Tácticas:**
 
--Lanzar versiones beta de la integración bancaria, recopilando feedback directo de los usuarios para mejorarla continuamente.
+- Implementar un tutorial dinámico que ayude a los usuarios a familiarizarse rápidamente con las funcionalidades clave.  
+- Lanzar una versión preliminar de la integración bancaria para recibir retroalimentación directa y mejorar de forma iterativa.
 
-**Afrontando las debilidades de nuestros competidores:**
+**En respuesta a las debilidades de los competidores:**
 
-**Comprendemos que la debilidades de nuestros competidores son:**
+**Las debilidades más notorias de las soluciones existentes son:**
 
-Complejidad para usuarios que buscan simplicidad (Fintonic).
-Interfaz menos intuitiva para algunos usuarios (Spendee).
-Falta de funciones avanzadas en la versión básica (Monefy).
+- Interfaz compleja y abrumadora para usuarios que valoran la simplicidad (Fintonic).  
+- Dificultades de navegación en el diseño de interfaz (Spendee).  
+- Limitaciones funcionales en versiones gratuitas (Monefy).
 
-**Estrategias**
+**Estrategias:**
 
--Enfocarnos en una experiencia de usuario excepcionalmente simple e intuitiva.
+- Priorizar una interfaz intuitiva y amigable desde el primer contacto con la app.  
+- Garantizar que la versión gratuita ofrezca funciones útiles que motiven a seguir usando el producto, con claras ventajas en la versión premium.
 
--Ofrecer una versión gratuita con suficientes funciones atractivas, pero con incentivos claros para suscribirse a una versión premium.
+**Tácticas:**
 
-**Tácticas**
+- Ejecutar pruebas de experiencia de usuario con públicos diversos para detectar puntos de fricción y mejorar la usabilidad.  
+- Incorporar un sistema de recompensas por referidos que incentive el uso de planes pagos.
 
--Realizar pruebas de usabilidad con diferentes perfiles de usuarios para optimizar la interfaz.
+**En respuesta a las oportunidades de los competidores:**
 
--Implementar un sistema de recompensas para los usuarios que refieran a nuevos clientes, motivándolos a optar por versiones premium.
+**Se reconocen las siguientes oportunidades como comunes en el mercado:**
 
-**Afrontando las oportunidades de nuestros competidores:**
+- Posibilidad de ingresar a nuevos segmentos que demandan control financiero.  
+- Continuar fortaleciendo la integración con entidades financieras.  
+- Mayor aceptación y uso de herramientas digitales para ahorro.
 
-**Comprendemos que las oportunidades de nuestros competidores son:**
+**Estrategias:**
 
--Expansión a nuevos mercados con alta demanda de gestión financiera personal.
+- Analizar y atacar nichos específicos del mercado que aún no han sido cubiertos por otras soluciones.  
+- Crear funcionalidades de ahorro que funcionen de forma autónoma según los hábitos del usuario.
 
--Mejora continua de la integración bancaria y servicios financieros adicionales.
+**Tácticas:**
 
--Crecimiento en la adopción de herramientas de ahorro.
+- Realizar investigaciones de mercado para detectar nuevas audiencias como estudiantes universitarios o adultos mayores.  
+- Diseñar un motor de sugerencias de ahorro que se active automáticamente según el patrón de gastos del usuario.
 
-**Estrategias**
+**En respuesta a las amenazas de los competidores:**
 
--Identificar y penetrar nichos de mercado aún no explotados.
+**Entre las principales amenazas se encuentran:**
 
--Explorar nuevas funcionalidades centradas en el ahorro automatizado y personalizado.
+- Aumento de la cantidad de aplicaciones similares.  
+- Cambios en la normativa bancaria que podrían restringir el acceso a datos financieros.  
+- Innovaciones tecnológicas que alteran las expectativas del consumidor de manera acelerada.
 
-**Tácticas**
+**Estrategias:**
 
--Realiza estudios de mercado para identificar segmentos desatendidos, como jóvenes profesionales o personas mayores.
+- Fomentar la innovación continua dentro del equipo de desarrollo para mantener una ventaja competitiva.  
+- Crear un equipo responsable de monitorear cambios legales y adaptar el producto en función de las normativas emergentes.
 
--Desarrollar una función que sugiera acciones de ahorro automático basadas en los hábitos de gasto del usuario.
+**Tácticas:**
 
-**Afrontando las amenazas de nuestros competidores:**
-
-
-**Comprendemos que las amenazas de nuestros competidores son:**
-
--Competencia creciente con productos similares en el mercado.
-
--Cambios regulatorios en la banca digital que podrían afectar las integraciones bancarias.
-
--Evolución tecnológica que podría cambiar rápidamente las expectativas de los usuarios.
-
-**Estrategias**
-
--Innovar continuamente para mantenernos competitivos y adelantarnos a los cambios del mercado.
-
--Establecer un equipo dedicado al cumplimiento normativo y adaptarse rápidamente a los cambios regulatorios.
-
-**Tácticas**
-
--Fomentar una cultura de innovación interna, alentando la creación de nuevas características y mejoras.
-
--Colaborar con expertos en regulación para asegurar el cumplimiento y la rápida adaptación a nuevas leyes.
+- Establecer rutinas internas de ideación para nuevos módulos o mejoras en funcionalidades existentes.  
+- Generar alianzas con asesores legales para anticiparse a modificaciones regulatorias en el sector financiero digital.
 
 <div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
 
