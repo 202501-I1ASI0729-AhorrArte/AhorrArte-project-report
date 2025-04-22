@@ -207,6 +207,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 <div id='1'><h2>Capítulo I: Introducción</h2></div>
 
 <div id='11'><h3> 1.1 Startup Profile.</h3></div>
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 <div id='111'><h4> 1.1.1. Descripción del startup.</h4></div>
 **Misión:** 
 **Visión:** 
