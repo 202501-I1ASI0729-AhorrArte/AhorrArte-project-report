@@ -220,7 +220,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 | :--------| :--------: |
 | Descripcion del alumno||
 | Descripcion del alumno|
-|Mi nombre es **Luis Angel Cisneros Salas** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/FotoPerfil.jpg)
+|Mi nombre es **Luis Angel Cisneros Salas** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![](./assets/perfil-luis-cisneros.jpg)
 |Descripcion del alumno|
 |Descripcion del alumno |
 
