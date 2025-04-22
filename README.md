@@ -225,7 +225,33 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 |Descripcion del alumno |
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
+
+La propuesta de solución se centra en una aplicación móvil y web que permite a las personas mejorar la gestión de sus finanzas personales mediante el registro constante de gastos e ingresos, el análisis automatizado de estos datos y el acceso a contenido educativo. A través del uso de inteligencia artificial, la plataforma podrá personalizar recomendaciones financieras que ayuden al usuario a ahorrar, organizar sus recursos y tomar mejores decisiones económicas. Esta solución busca ser una guía financiera sencilla, confiable y accesible para quienes más lo necesitan.
+
 <div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+
+**What (Qué)**  
+La problemática detectada radica en la limitada educación financiera que enfrenta la población peruana, lo cual dificulta la administración de sus ingresos y la posibilidad de generar ahorros. Según el estudio de capacidades financieras realizado por la SBS en 2022, solo una minoría comprende cómo calcular un interés simple y menos de la mitad logró ahorrar durante ese año.
+
+**When (Cuándo)**  
+Aunque esta situación tiene raíces antiguas, se profundizó tras la pandemia de COVID-19. La crisis sanitaria y económica generó pérdida de empleo, disminución del valor de activos personales y una sensación de inseguridad financiera generalizada.
+
+**Where (Dónde)**  
+La aplicación se orienta principalmente a usuarios en zonas urbanas con acceso a internet, que tengan dispositivos móviles y que reciban ingresos con frecuencia. Este perfil permitirá una adecuada adopción tecnológica.
+
+**Who (Quién)**  
+El servicio está diseñado para padres, madres y personas económicamente activas que manejan regularmente flujos de dinero y que requieren una herramienta para organizar mejor sus finanzas.
+
+**Why (Por qué)**  
+La raíz del problema está en la escasa presencia de formación financiera en los colegios y universidades, especialmente en aquellas carreras no relacionadas a temas económicos. Esta falta de conocimiento impide que muchas personas desarrollen hábitos de ahorro o planificación.
+
+**¿Cuáles son las 2H?**
+
+**How (Cómo)**  
+La herramienta permitirá llevar un registro regular de los gastos del usuario, ofrecerá visualizaciones automáticas de su comportamiento financiero y pondrá a su disposición contenido educativo y un módulo de consultas.
+
+**How much (Cuánto)**  
+El valor aportado por la aplicación dependerá de qué tan constante sea su uso por parte del usuario. A más interacción, mayor será la precisión del análisis y las recomendaciones.
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
