@@ -20,13 +20,13 @@ width=50%"/>
 Marzo - 2025
 
 ## Team members:
-| Nombre |Código|
-|:-------:|:----------:|
-|Nombre|codigoUniversitario|
-||codigoUniversitario|
-|Cisneros Salas,Luis Angel|U20211B198|
-|Nombre|codigoUniversitario|
-|Nombre|codigoUniversitario|
+|             Nombre              |       Código        |
+|:-------------------------------:|:-------------------:|
+| Rivera Ayala, Gabriel Alejandro |     U202223279      |
+| Reyes Menacho, Camila Asuncion  |     U201921442      |
+|    Cisneros Salas,Luis Angel    |     U20211B198      |
+|             Nombre              | codigoUniversitario |
+|             Nombre              | codigoUniversitario |
 
 Ciclo 2025-01
 
@@ -49,13 +49,13 @@ Enlace de la organización para el reporte del proyecto:
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
-|Integrante|Tareas Asignadas|
-|-|-|
-|----|----|
-|----|----|
-|----|----|
-|----|-----|
-|Luis Angel Cisneros Salas|----|
+| Integrante                |Tareas Asignadas|
+|---------------------------|-|
+| ----                      |----|
+| ----                      |----|
+| ----                      |----|
+| Camila Asuncion Reyes Menacho          |-----|
+| Luis Angel Cisneros Salas |----|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -66,8 +66,8 @@ GitHub también proporciona una visualización detallada del historial de las ra
 
 Los integrantes son:
 
-* NombreIntegrante (NombreUsuario)
-* NombreIntegrante (NombreUsuario)
+* Gabriel Alejandro Rivera Ayala (guestwhoo)
+* Camila Reyes Menacho (dakuma-ai)
 * Luis Angel Cisneros Salas (luics341)
 * NombreIntegrante (NombreUsuario)
 * NombreIntegrante (NombreUsuario)
@@ -218,8 +218,8 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------: |
-| Descripcion del alumno||
-| Descripcion del alumno|
+| Rivera Ayala, Gabriel Alejandro Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.| ![](./assets/Gabriel.jpg) |
+| Reyes Menacho, Camila Asunción, Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.|<img src="/assets/Camila.png" width="300"/>
 |Mi nombre es **Luis Angel Cisneros Salas** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![](./assets/perfil-luis-cisneros.jpg)
 |Descripcion del alumno|
 |Descripcion del alumno |
@@ -660,4 +660,4 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 <div id='7.'><h5>7. Bibliografía.</h5></div>
-<div id='8.'><h5>8. Anexos.</h5></div>
+<div id='8.'><h5>8. Anexos.</h5> </div>
