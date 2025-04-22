@@ -209,8 +209,15 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 <div id='11'><h3> 1.1 Startup Profile.</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 <div id='111'><h4> 1.1.1. Descripción del startup.</h4></div>
+
+FinSuma somos un grupo de jóvenes quienes buscan impulsar la educación financiera en el Perú. Para ello, se confronta uno de los principales dilemas que se sugestiona como agravante de la pobreza en los estratos socioeconómicos bajos (niveles económicos A, B y C). Este problema es el analfabetismo financiero y el desconocimiento del consumo responsable en los hogares peruanos. FinSuma busca cambiar el paradigma a través de la implementación de AhorrArte, cuya finalidad se centraliza en la planificación financiera y el hábito de ahorro en los jefes del hogar, lo que evita el sobreendeudamiento y el déficit en las necesidades primarias que garantizan el concepto de buena calidad de vida. Para ello, se toma en cuenta la volatilidad económica y las proyecciones macroeconómicas nacionales, otorgadas por el Banco de la Nación.
+
 **Misión:** 
-**Visión:** 
+La misión que tenemos como equipo al desarrollar AhorrArte es poder llegar a la mayor cantidad de personas posibles para lograr ser un soporte para el manejo económico del hogar, además de lograr una interacción amigable entre las familias y el uso de la aplicación para el planeamiento futuro de sus finanzas.
+
+**Visión:**
+Como visión nos proyectamos a ver el resultado de la aplicación beneficiando el ahorro y premiando, indirectamente, la responsabilidad financiera; generando que familias que estén en la pobreza puedan salir de los problemas que les genere ese estado.
+
 
 ##### Logotipo de la Startup:
 ##### Logotipo del servicio:
