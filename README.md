@@ -993,6 +993,14 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
+|Alumno|Actividad|
+|-|-|
+|Reyes Menacho, Camila Asunción|Implementación de la sección footer y Plans|
+|Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
+|Rivera Ayala, Gabriel Alejandro|Implementación de la sección contact-us|
+|------------------------|Implementación de la sección features|
+|-------------------|Implementación de la sección header,about-us y homepage|
+
 ## 5.2 Landing Page, Services & Applications Implementation
 
 <div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
@@ -1063,6 +1071,43 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 <div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
 <div id='6.'><h5>6. Conclusiones.</h5></div>
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+
+1. **El proyecto AhorrArte aborda un problema crítico en Perú** al enfocarse en mejorar la educación financiera y promover una gestión responsable de los recursos económicos entre los sectores más vulnerables.
+
+2. **La segmentación del mercado fue precisa y efectiva**, identificando a los jefes de hogar de los niveles económicos D y E, así como a los jóvenes adultos, como los principales usuarios de la plataforma.
+
+3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a Saifu de otras soluciones existentes.
+
+4. **El equipo demostró un uso eficiente de metodologías ágiles**, como GitFlow, para estructurar el desarrollo del proyecto y garantizar la colaboración efectiva entre los integrantes.
+
+5. **La plataforma tiene el potencial de generar un impacto social positivo**, al fomentar el hábito del ahorro, reducir el endeudamiento y promover la estabilidad económica en las familias peruanas.
+
+6. **Existen desafíos importantes en la implementación**, como la resistencia a adoptar nuevas tecnologías y la falta de interés inicial en la educación financiera, que requieren estrategias adicionales para ser superados.
+
+7. **El proyecto se alinea con los objetivos de desarrollo sostenible**, contribuyendo a la mejora de la calidad de vida, el bienestar económico y la reducción de la pobreza en los sectores más necesitados.
+
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
+
+A continuación, se presenta el video About the team, donde se presenta el aporte y cualidades de los integrantes del equipo de desarrollo:
+
+Enlace para visualizar el video About the team:
+
+Enlace del video subido a YouTube: 
+
 <div id='7.'><h5>7. Bibliografía.</h5></div>
-<div id='8.'><h5>8. Anexos.</h5> </div>
+
+- Ultimas Noticias (20204). Educación financiera para jóvenes adultos: consejos prácticos. Recuperado de: https://www.elespectador.com/contenido-patrocinado/educacion-financiera-para-jovenes-adultos-consejos-practicos/ 
+
+- El Comercio. (2024). Ahorro inteligente: Educación financiera como aliado para hacer crecer tu dinero. Recuperado de: https://elcomercio.pe/publirreportaje/caja-cusco/ahorro-inteligente-educacion-financiera-como-aliado-para-hacer-crecer-tu-dinero-noticia/
+
+<div id='8.'><h5>8. Anexos.</h5></div>
+
+Repositorio del Backend: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd
+
+Repositorio del Frontend: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd
+
+Repositorio de la Landing Page: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-LandingPage
+
+Repositorio del Informe: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report
+
+Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
