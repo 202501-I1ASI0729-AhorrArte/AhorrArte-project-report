@@ -25,7 +25,7 @@ Marzo - 2025
 | Rivera Ayala, Gabriel Alejandro |     U202223279      |
 | Reyes Menacho, Camila Asuncion  |     U201921442      |
 |    Cisneros Salas,Luis Angel    |     U20211B198      |
-|             Nombre              | codigoUniversitario |
+|Padilla Advincula,Paolo Sebastian|     U202117993      |
 |             Nombre              | codigoUniversitario |
 
 Ciclo 2025-01
