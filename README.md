@@ -602,6 +602,13 @@ Al ser Greenhouse un software que optimiza un flujo funcional que es en gran med
 Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
 
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
+
+La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los jefes de hogar y los jóvenes estudiantes. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul  que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
+
+Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación Saifu por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario al historial de reportes, información de la empresa, educación financiera y metas y ahorro. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
+
+Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. 
+
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
