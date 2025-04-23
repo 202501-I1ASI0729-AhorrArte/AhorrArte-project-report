@@ -538,6 +538,16 @@ ___
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
+Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos: 
+
+* **María Rodríguez (Jefe de Hogar del Sector Económico D o E):**
+
+<table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E (María Rodríguez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <td>Registrar gastos diarios</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Planificar el presupuesto semanal/mensual</td> <td>Alta</td> <td>Mensual</td> </tr><td>Buscar ofertas y precios bajos</td> <td>Media</td> <td>Semanal</td> </tr> <td>Ahorrar para emergencias</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Controlar el gasto en servicios básicos</td> <td>Media</td> <td>Mensual</td></tr></table>
+
+* **Luis Gómez (Joven de 18 a 24 años en inicios de independencia):**
+
+<table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
+
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
