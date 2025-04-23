@@ -26,7 +26,7 @@ Marzo - 2025
 | Reyes Menacho, Camila Asuncion  |     U201921442      |
 |    Cisneros Salas,Luis Angel    |     U20211B198      |
 |Padilla Advincula,Paolo Sebastian|     U202117993      |
-|             Nombre              | codigoUniversitario |
+|Rodriguez Zuluoeta, Andres Fernando|   U202124213      |
 
 Ciclo 2025-01
 
@@ -55,10 +55,10 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 | Integrante                |Tareas Asignadas|
 |---------------------------|-|
 | ----                      |----|
-| ----                      |----|
 | Paolo Sebastian Padilla Advincula|----|
 | Camila Asuncion Reyes Menacho          |-----|
 | Luis Angel Cisneros Salas |----|
+| Rodriguez Zuluoeta, Andres Fernando |----|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -73,7 +73,7 @@ Los integrantes son:
 * Camila Reyes Menacho (dakuma-ai)
 * Luis Angel Cisneros Salas (luics341)
 * Paolo Sebastian Padilla Advincula (apolopad)
-* NombreIntegrante (NombreUsuario)
+* Rodriguez Zuluoeta, Andres Fernando (Andres-0304)
 
 Se explican las ramas más prominentes:
 
@@ -233,7 +233,7 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 | Reyes Menacho, Camila Asunción, Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.|<img src="/assets/Camila.png" width="300"/>
 |Mi nombre es **Luis Angel Cisneros Salas** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![](./assets/perfil-luis-cisneros.jpg)
 |Mi nombre es **Paolo Padilla** y soy estudiante de la carrera de Ingeniería de Software. Actualmente me estoy enfocando en el área de Ciencia de Datos, donde combino la programación, el análisis estadístico y la visualización de datos para generar soluciones útiles e innovadoras. Me interesa entender cómo los datos pueden impulsar la toma de decisiones y mejorar procesos, tanto en proyectos tecnológicos como en otros sectores.|![](./assets/Paolo.jpeg) |
-|Descripcion del alumno |
+|Mi nombre es **Andres Rodriguez** soy estudieante de ingenieria de software. Me considero una persona centrada y responsable al momento de realizar trabajos en equipo.|![](./assets/Andres.jpg)
 
 <div id='12'><h3> 1.2. Solution Profile.</h3></div>
 
@@ -418,6 +418,7 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
         }
     </style>
 </head>
+
 <body>
     <table>
         <tr>
@@ -616,6 +617,46 @@ La sección cubre el proceso de investigación de nuestros segmentos objetivo a 
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
 <div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+
+To-be del segmento Jefes de hogar del nivel económico D y E
+
+Preparación de la actividad
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el To-Be Scenario Mapping
+
+<img src="assets/as-is.jpg" alt="foto_to-be" />
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas 
+
+<img src="assets/to-be1_Jefes de hogar.jpg" alt="foto_to-be" />
+
+Identificación de Fases
+
+Por último, Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes para nuestro proyecto
+
+<img src="assets/to-be2_Jefes de hogar.jpg" alt="foto_to-be" />
+
+To-be del segmento Jóvenes en inicios de independencia
+
+Preparación de la actividad
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el To-Be Scenario Mapping
+
+<img src="assets/as-is.jpg" alt="foto_to-be" />
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas 
+
+<img src="assets/to-be3_jovenes.jpg" alt="foto_to-be" />
+
+Identificación de Fases
+Por último, Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes para nuestro proyecto
+
+<img src="assets/to-be4_jovenes.jpg" alt="foto_to-be" />
+
 <div id='3.2.'><h3> 3.2. User Stories.</h3></div>
 
 Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto AhorrArte, finSuma presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
@@ -1149,7 +1190,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
         <li>Reyes Menacho, Camila Asunción</li>
         <li>Rivera Ayala, Gabriel Alejandro </li>
         <li>Cisneros Salas,Luis Angel</li>
-        <li>-------------</li>
+        <li>Rodriguez Zuluoeta, Andres Fernando</li>
         <li>-------------</li>
       </ul>
     </td>
