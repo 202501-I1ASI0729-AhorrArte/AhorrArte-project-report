@@ -740,6 +740,69 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 <div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
 
+
+<table>
+        <tr>
+            <th>Sprint #</th>
+            <th colspan="7">Sprint 1</th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="6">WorkItem / Task</th>
+        </tr>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status(To-do/In-Process/To-Review/Done)</th>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Información y Ventajas Clave en Landing Page</td>
+            <td>UT01</td>
+            <td>Editar cajas de texto</td>
+            <td>Permitir al usuario interactuar con las cajas de texto</td>
+            <td>1</td>
+            <td>Luis Cisneros</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Ejemplos de Ahorro y Gestión de Ingresos </td>
+            <td>UT02</td>
+            <td>Agregar información sobre finanzas</td>
+            <td>Añadir las funcionalidades principales de Saifu</td>
+            <td>1</td>
+            <td>Gabriel Rivera</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Testimonios de Usuarios</td>
+            <td>UT03</td>
+            <td>Insertar comentarios positivos sobre la aplicación</td>
+            <td>Añadir la funcionalidad de desplegar y contraer para las opciones de pregunta</td>
+            <td>2</td>
+            <td>Camila Reyes</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US08</td>
+            <td>Interfaz Simple y Atractiva</td>
+            <td>UT04</td>
+            <td>Desarrollo de header y footer de la aplicación</td>
+            <td>Diseñar la aplicación</td>
+            <td>Implementación de about-us y homepage</td>
+            <td>1</td>
+            <td>----------</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
