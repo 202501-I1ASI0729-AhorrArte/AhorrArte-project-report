@@ -268,27 +268,44 @@ El valor aportado por la aplicación dependerá de qué tan constante sea su uso
 
 ###### Descripción de la situación: (AUSENCIA DE EDUCACIÓN FINANCIERA)
 
+Existe un alarmante desconocimiento en materia financiera entre las familias de los estratos D y E en Perú. La falta de destrezas para gestionar correctamente los ingresos restringe su capacidad de ahorro y un consumo consciente. Esta carencia de formación financiera favorece la continuidad de ciclos de sobreendeudamiento y problemas económicos persistentes.
+
 ###### Descripción del problema:
+
+De este modo, la falta de educación financiera profundiza los índices de pobreza en el Perú, lo cual, a su vez, deriva en afectaciones a la salud mental, especialmente en la población adulta. Uno de los efectos más comunes sería el estrés.
 
 ###### Propuesta de solución:
 
-
+¿De qué manera se puede impulsar el aprendizaje financiero y desarrollar habilidades de administración responsable del dinero en los adultos peruanos?
 
 ###### Descripción de la situación: (FALTA DE HERRAMIENTAS PARA LA ADMINISTRACIÓN)
-###### Descripción del problema:
-###### Propuesta de solución:
 
- ###### Descripción de la situación:(INCERTIDUMBRE ECONÓMICA)
+La ausencia de un sistema adecuado para la administración del presupuesto familiar dificulta que los jefes de hogar de los niveles D y E puedan organizar sus gastos de manera eficiente. Al respecto, un estudio de CAF (2014) reveló que el 68% de los adultos peruanos reconoció que el presupuesto que habían planificado no les alcanzó para cubrir todo el mes. Esta situación se presentó, al menos, una vez cada seis meses.
 
 ###### Descripción del problema:
 
+La falta de un mecanismo que pueda prever y alertar sobre posibles carencias de alimentos, servicios médicos y otros bienes básicos expone a estas familias a contingencias inesperadas, reduciendo su posibilidad de tomar medidas preventivas.
+
 ###### Propuesta de solución:
+
+¿Cómo dotar de herramientas financieras básicas a los jefes de familia para que puedan tomar decisiones económicas informadas y evitar riesgos?
+
+###### Descripción de la situación:(INCERTIDUMBRE ECONÓMICA)
+
+La inestabilidad económica y los vaivenes inflacionarios generan inseguridad financiera en los hogares vulnerables. La carencia de datos oportunos y confiables sobre tendencias macroeconómicas limita la posibilidad de que las familias de escasos recursos puedan prever y amortiguar los efectos de alzas abruptas en productos básicos de primera necesidad y servicios médicos.
+
+###### Descripción del problema:
+
+La carencia de instrumentos que incorporen variables macroeconómicas clave (como los índices inflacionarios) limita la capacidad de realizar elecciones financieras fundamentadas, conduciendo frecuentemente a una administración deficiente de los recursos económicos.
+
+###### Propuesta de solución:
+
+¿Cómo podemos crear un sistema que envíe avisos preventivos y consejos útiles a las familias sobre cómo modificar sus gastos, usando información anticipada sobre alzas en precios de productos básicos y servicios esenciales?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan** 
-
+1.  **Creemos que nuestros usuarios necesitan**
 2.  **Estas necesidades se pueden satisfacer** 
 3.  **Nuestros clientes iniciales serán**
 4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
