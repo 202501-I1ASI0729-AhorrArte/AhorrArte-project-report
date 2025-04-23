@@ -611,6 +611,19 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 | TS-008 | Edición del Perfil de Usuario (API RESTful) | Como Developer, quiero implementar un endpoint PUT para que los usuarios puedan editar su perfil, de manera que puedan actualizar su información personal en la plataforma. | **Dado** que el cliente envía una solicitud PUT a `/api/v1/users/{id}`, **Cuando** los datos son válidos (nombre, dirección, número de teléfono), **Entonces** se debe actualizar el perfil del usuario y retornar un status 200 con los cambios guardados.<br>**Dado** que los datos son inválidos o faltan, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 con los detalles de los errores. | EP-006 (Gestión del Perfil) |
 
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
+
+**Jefes de hogar de los sectores económicos D y E**
+
+![foto_impact1](./assets/Impact%20map-Saifu_jefedehogar.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impact%20map-Saifu_jefedehogar.png
+
+![foto_impact2](./assets/Impactmap-Saifu_jefedehogar.png ) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impactmap-Saifu_jefedehogar.png
+
+**Jóvenes adultos recién independientes**
+
+![foto_impact1](./assets/Impact%20map-Saifu_jovenes.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impact%20map-Saifu_jovenes.png
+
+![foto_impact2](./assets/Impactmap-Saifu_jovenes.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impactmap-Saifu_jovenes.png
+
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
