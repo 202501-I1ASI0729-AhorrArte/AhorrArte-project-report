@@ -56,7 +56,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |---------------------------|-|
 | ----                      |----|
 | ----                      |----|
-| ----                      |----|
+| Paolo Sebastian Padilla Advincula|----|
 | Camila Asuncion Reyes Menacho          |-----|
 | Luis Angel Cisneros Salas |----|
 
@@ -72,7 +72,7 @@ Los integrantes son:
 * Gabriel Alejandro Rivera Ayala (guestwhoo)
 * Camila Reyes Menacho (dakuma-ai)
 * Luis Angel Cisneros Salas (luics341)
-* NombreIntegrante (NombreUsuario)
+* Paolo Sebastian Padilla Advincula (apolopad)
 * NombreIntegrante (NombreUsuario)
 
 Se explican las ramas más prominentes:
