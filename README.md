@@ -616,6 +616,43 @@ Además de imágenes, las secciones del panel de control están asociadas con la
 En la barra de navegación se evidencian en todo momento las etiquetas textuales para las vistas principales, panel de control y registro de transacciones.
 
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
+
+Las metas etiquetas nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas metas etiquetas facilitan el análisis de archivos HTML. y facilita el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra metaetiqueta. Esta etiqueta es utilizada o leida por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+    <title>Register your processes with AhorrArte</title>
+    
+**Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+    <meta charset="utf-8">
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+    <meta name="description" content="AhorrArte is a web application focused on financial education"/>
+
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+    <meta name="keywords" content="process, management, transaction, education, money, finantial"/>
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+    <meta name="author" content="AhorrArte"/>
+
+    <meta name="copyright" content="Copyright FinSuma team" />
+    
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
 
