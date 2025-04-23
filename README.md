@@ -610,6 +610,11 @@ Para el panel de control, es necesario ofrecer al cliente una vista general de l
 Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. 
 
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
+
+Los encabezados se encuentran presentes en las pantallas que no forman parte del proceso principal de la aplicación. Cada uno resume de forma adecuada al usuario todo el contenido de la vista actual.
+Además de imágenes, las secciones del panel de control están asociadas con labels que informan al usuario del contenido que puede visualizar si accede a estas secciones. Es por esta razón, además, que todas las tarjetas presentadas en esta vista cuentan con sus respectivos títulos.
+En la barra de navegación se evidencian en todo momento las etiquetas textuales para las vistas principales, panel de control y registro de transacciones.
+
 <div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
