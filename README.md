@@ -1073,4 +1073,14 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 <div id='7.'><h5>7. Bibliografía.</h5></div>
-<div id='8.'><h5>8. Anexos.</h5> </div>
+<div id='8.'><h5>8. Anexos.</h5></div>
+
+Repositorio del Backend: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd
+
+Repositorio del Frontend: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd
+
+Repositorio de la Landing Page: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-LandingPage
+
+Repositorio del Informe: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report
+
+Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
