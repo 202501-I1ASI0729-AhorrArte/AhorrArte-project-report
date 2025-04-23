@@ -401,6 +401,122 @@ Según la SBS (2019), en el Perú, el 37% de los jóvenes de 18 a 24 años tiene
 
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
+<html>
+<head>
+    <title>Tabla HTML</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 10px 25px 8px 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td colspan="6" class="sub"><h1>Competitive Analysis Landscape</h1></td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2" class="sub">¿Por qué realizar este análisis?</td>
+            <td colspan="4" class="sub"><h3>Es necesario realizar este análisis, ya que de esta manera sabremos qué aplicaciones compiten con la nuestra, lo que nos permitirá tomar decisiones para que los usuarios elijan nuestra aplicación.</h3></td>
+        </tr>
+        <tr>
+            <td colspan="4">AhorrArte | Monefy | Fintonic | Spendee</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL</td>
+            <td rowspan="2" class="sub">Overview</td>
+            <td>AhorrArte brinda asesoría financiera mediante IA para una mejor gestión del dinero</td>
+            <td>Aplicación básica para registrar ingresos y egresos</td>
+            <td>Solución completa para finanzas personales, con conexión a bancos</td>
+            <td>App financiera con herramientas para ahorro y finanzas compartidas</td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td>Uso de IA y datos financieros útiles para los usuarios</td>
+            <td>Diseño amigable y simple de usar</td>
+            <td>Alertas personalizadas e integración bancaria</td>
+            <td>Funciones avanzadas para ahorrar y compartir finanzas</td>
+        </tr>
+        <tr>
+            <td rowspan="2" class="sub">PERFIL DE MARKETING</td>
+            <td class="sub">Mercado Objetivo</td>
+            <td>Jóvenes adultos independientes y jefes de hogar de niveles socioeconómicos D y E</td>
+            <td>Usuarios que priorizan la simplicidad</td>
+            <td>Personas con varias cuentas bancarias que buscan control total</td>
+            <td>Usuarios interesados en herramientas colaborativas y de ahorro</td>
+        </tr>
+        <tr>
+            <td class="sub">Estrategias de Marketing</td>
+            <td>Promoción en redes sociales y educación financiera como eje principal</td>
+            <td>Enfatiza lo intuitivo y lo fácil que es usarla</td>
+            <td>Publicita la centralización de toda la información financiera</td>
+            <td>Promueve sus funciones de ahorro y colaboración</td>
+        </tr>
+        <tr>
+            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
+            <td class="sub">Productos & Servicios</td>
+            <td>Datos financieros confiables y asistencia con inteligencia artificial</td>
+            <td>Control simple de finanzas personales</td>
+            <td>Recomendaciones financieras y alertas inteligentes</td>
+            <td>Planificación de presupuesto y ahorro avanzado</td>
+        </tr>
+        <tr>
+            <td class="sub">Precios & costos</td>
+            <td>Gratuita con versión premium "AhorrArte Unlimited" (15 soles mensuales). Costos: derechos de autor, IA, servidores y publicidad</td>
+            <td>Gratis, con pagos para funciones avanzadas</td>
+            <td>Gratis, con opción premium</td>
+            <td>Gratis, con suscripción para herramientas avanzadas</td>
+        </tr>
+        <tr>
+            <td class="sub">Canales de distribución (web/móvil)</td>
+            <td>Disponible como web y app móvil (Google Play)</td>
+            <td>Disponible solo en móviles (App Store y Google Play)</td>
+            <td>Disponible solo en móviles (App Store y Google Play)</td>
+            <td>Disponible como app y sitio web (App Store, Google Play y web)</td>
+        </tr>
+        <tr>
+            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
+            <td class="sub">Fortalezas</td>
+            <td>Atención al usuario y uso de IA que mejora la gestión financiera</td>
+            <td>Diseño accesible y simple</td>
+            <td>Alta integración bancaria y asistencia personalizada</td>
+            <td>Funciones de ahorro inteligentes y gestión conjunta</td>
+        </tr>
+        <tr>
+            <td class="sub">Debilidades</td>
+            <td>La IA puede presentar errores si no se prueba adecuadamente</td>
+            <td>No cuenta con integración bancaria ni funciones avanzadas</td>
+            <td>Puede ser complicada para usuarios que buscan simplicidad</td>
+            <td>Interfaz no tan amigable para ciertos perfiles</td>
+        </tr>
+        <tr>
+            <td class="sub">Oportunidades</td>
+            <td>Mejorar la IA y mantener actualizada la información financiera</td>
+            <td>Llegar a nuevos mercados con necesidad de simplicidad</td>
+            <td>Mayor integración con bancos y servicios</td>
+            <td>Optimización de la experiencia de usuario</td>
+        </tr>
+        <tr>
+            <td class="sub">Amenazas</td>
+            <td>Resistencia de algunos usuarios a pagar por la suscripción</td>
+            <td>Aumento de competencia con propuestas similares</td>
+            <td>Cambios en la regulación digital financiera</td>
+            <td>Avances tecnológicos que modifican expectativas del usuario</td>
+        </tr>
+    </table>
+</body>
+</html>
+
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
 
 A partir del análisis competitivo previamente desarrollado, fue posible determinar con claridad los principales puntos fuertes, áreas de oportunidad, debilidades y riesgos de los productos que compiten en el mismo mercado. Esta información es esencial para diseñar estrategias y acciones concretas que nos permitan posicionarnos de manera sólida una vez que el servicio sea lanzado comercialmente. A continuación, se exponen dichas estrategias y tácticas:
