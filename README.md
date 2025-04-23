@@ -528,6 +528,14 @@ ___
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
 
+* User persona jefe de hogar del sector económico D o E
+
+![María Rodríguez](assets/UP-1.png)
+
+* User persona joven de 18 a 24 años en inicios de independencia
+
+![_Luis Gómez](assets/UP-2.png)
+
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
