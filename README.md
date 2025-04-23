@@ -978,6 +978,13 @@ En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despli
 
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
+
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+
+JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
+
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
