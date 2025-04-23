@@ -993,6 +993,14 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
+|Alumno|Actividad|
+|-|-|
+|Reyes Menacho, Camila Asunción|Implementación de la sección footer y Plans|
+|Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
+|Rivera Ayala, Gabriel Alejandro|Implementación de la sección contact-us|
+|Reyes Valenzuela, Renato German|Implementación de la sección features|
+|Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
+
 ## 5.2 Landing Page, Services & Applications Implementation
 
 <div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
