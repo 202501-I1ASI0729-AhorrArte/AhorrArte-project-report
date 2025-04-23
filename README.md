@@ -665,20 +665,20 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |--------------------|--------|-------------|-------------------------|---------------------------|
 | EP-001 | Registro de Usuario | Como usuario, quiero registrarme en la aplicación para acceder a las funcionalidades y mejorar la gestión de mis finanzas. | **Dado** que el usuario está en el landing page, **Cuando** selecciona la opción de registro, **Entonces** debe ver un formulario para crear su perfil.<br> **Dado** que el usuario completa el formulario correctamente, **Cuando** selecciona "Registrar", **Entonces** sus datos deben sincronizarse con la base de datos. | N/A |
 | EP-002 | Iniciar Sesión y Acceso | Como usuario, quiero iniciar sesión para acceder a mi información financiera desde cualquier dispositivo. | **Dado** que el usuario está en la pantalla de inicio, **Cuando** selecciona la opción "Iniciar sesión", **Entonces** debe ver la pantalla de ingreso de credenciales.<br> **Dado** que el usuario olvidó su contraseña, **Cuando** selecciona "Olvidé mi contraseña", **Entonces** debe recibir instrucciones para recuperarla por correo. | N/A |
-| EP-003 | Landing Page (Promoción e Información) | Como usuario, quiero ver información clara en el landing page para entender las ventajas y funcionalidades de Saifu antes de registrarme. | **Dado** que el usuario potencial está en el landing page, **Cuando** navega por las secciones, **Entonces** debe ver ventajas clave sobre control financiero, ahorro y simplicidad.<br> **Dado** que el usuario está explorando el landing page, **Cuando** busca ejemplos de ahorro, **Entonces** debe encontrar ejemplos específicos de cómo Saifu le ayudará a ahorrar. | N/A |
+| EP-003 | Landing Page (Promoción e Información) | Como usuario, quiero ver información clara en el landing page para entender las ventajas y funcionalidades de AhorrArte antes de registrarme. | **Dado** que el usuario potencial está en el landing page, **Cuando** navega por las secciones, **Entonces** debe ver ventajas clave sobre control financiero, ahorro y simplicidad.<br> **Dado** que el usuario está explorando el landing page, **Cuando** busca ejemplos de ahorro, **Entonces** debe encontrar ejemplos específicos de cómo AhorrArte le ayudará a ahorrar. | N/A |
 | EP-004 | Balance Económico | Como usuario, quiero registrar mis ingresos y egresos mensuales para obtener una visión clara de mi balance económico. | **Dado** que el usuario selecciona "Ingresos y Egresos", **Cuando** accede a esta opción, **Entonces** debe ver un formulario para registrar transacciones.<br> **Dado** que el usuario ha ingresado todas sus transacciones, **Cuando** revisa la sección de resumen, **Entonces** debe ver el balance mensual detallado. | N/A |
 | EP-005 | Gastos Diarios | Como usuario, quiero registrar mis gastos diarios para tener un control detallado sobre mi consumo. | **Dado** que el usuario está en el panel de control, **Cuando** selecciona "Gastos Diarios", **Entonces** debe ver un resumen detallado de los gastos del día.<br> **Dado** que el usuario detecta un área de gasto elevado, **Cuando** la marca, **Entonces** debe recibir recomendaciones personalizadas para reducir ese gasto. | N/A |
 | EP-006 | Educación Financiera | Como usuario, quiero acceder a material educativo y consejos personalizados para mejorar la gestión de mis finanzas. | **Dado** que el usuario accede a la sección de "Consejos", **Cuando** ha registrado sus gastos, **Entonces** debe ver recomendaciones personalizadas según sus hábitos de consumo.<br> **Dado** que el usuario ha aplicado los consejos, **Cuando** revisa su presupuesto al final del mes, **Entonces** debería ver una mejora en comparación con meses anteriores. | N/A |
 | EP-007 | Generador de Reportes | Como usuario, quiero generar reportes de mis ingresos y egresos para analizar mis patrones de consumo. | **Dado** que el usuario está en la sección de resumen anual, **Cuando** selecciona "Generar Reporte", **Entonces** debe crearse un reporte detallado con gráficos y estadísticas.<br> **Dado** que el usuario quiere exportar el reporte, **Cuando** selecciona la opción de exportar, **Entonces** debe poder descargarlo en PDF o Excel. | N/A |
 | EP-008 | Metas y Objetivos de Ahorro | Como usuario, quiero configurar metas de ahorro y recibir recordatorios para cumplirlas. | **Dado** que el usuario está en la sección de metas de ahorro, **Cuando** configura una nueva meta, **Entonces** debe poder establecer un monto y fecha límite.<br> **Dado** que la meta está activa, **Cuando** se acerca el plazo, **Entonces** debe recibir recordatorios sobre cuánto debe ahorrar para cumplirla. | N/A |
-| US-001 | Registro de Usuario desde Landing Page | Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de Saifu. | Escenario 1: Acceso al formulario de creación de perfil. Dado que el jefe de hogar se encuentra en la landing page, cuando presiona el botón de "Crear perfil", se debe mostrar un formulario donde puede ingresar sus datos personales, como nombre, correo electrónico, y contraseña. Escenario 2: Sincronización automática de datos. Dado que el jefe de hogar ha completado el formulario y los datos han sido validados, cuando presiona "Guardar", los datos se sincronizan automáticamente con la base de datos de la aplicación, y se muestra una confirmación de perfil creado exitosamente. | EP-001 |
+| US-001 | Registro de Usuario desde Landing Page | Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de AhorrArte. | Escenario 1: Acceso al formulario de creación de perfil. Dado que el jefe de hogar se encuentra en la landing page, cuando presiona el botón de "Crear perfil", se debe mostrar un formulario donde puede ingresar sus datos personales, como nombre, correo electrónico, y contraseña. Escenario 2: Sincronización automática de datos. Dado que el jefe de hogar ha completado el formulario y los datos han sido validados, cuando presiona "Guardar", los datos se sincronizan automáticamente con la base de datos de la aplicación, y se muestra una confirmación de perfil creado exitosamente. | EP-001 |
 | US-002 | Registro de Joven Independiente | Como joven independiente, quiero registrarme en la aplicación para acceder a las funcionalidades de control de mis finanzas. | Escenario 1: Acceso al formulario de registro. Dado que el joven independiente ingresa a la aplicación, cuando presiona "Registrar", se le muestra un formulario de registro con campos básicos como nombre, correo y contraseña. Escenario 2: Validación y acceso. Al presionar "Guardar", los datos se validan y se crea la cuenta, mostrando una confirmación de éxito. | EP-001 |
 | US-003 | Sincronización de Perfil desde el Landing Page | Como jefe de hogar, quiero crear un perfil en la aplicación desde el landing page, para que mis datos se sincronicen automáticamente. | Escenario 1: Completar el formulario. Dado que el jefe de hogar completa el formulario en el landing, cuando lo envía, los datos se sincronizan automáticamente con la aplicación. Escenario 2: Confirmación. Después de la sincronización exitosa, se muestra un mensaje de confirmación. | EP-001 |
 | US-004 | Inicio de Sesión en Múltiples Dispositivos | Como usuario, quiero poder iniciar sesión desde la aplicación en cualquier dispositivo para acceder a mi información financiera personal. | Escenario 1: Inicio de sesión. Dado que el usuario ha registrado una cuenta, cuando accede a la aplicación en otro dispositivo e ingresa sus credenciales, se autentica y puede ver su información personal de manera segura. | EP-001 |
-| US-005 | Información y Ventajas Clave en Landing Page | Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar Saifu para mejorar mi gestión financiera. | Escenario 1: Ventajas Clave. Dado que soy un usuario potencial, cuando entro al landing page de Saifu, entonces debo ver las ventajas clave que ofrece Saifu en términos de control financiero, ahorro de tiempo, y simplificación de procesos. Escenario 2: Explicación de Funcionalidades. Cuando estoy en el landing page, entonces debería encontrar una explicación detallada de cómo las funcionalidades de Saifu me ayudarán a mejorar mi gestión financiera. Escenario 3: Call to Action. Cuando navego por el landing page, debería ver un call to action claro y atractivo que me guíe a registrarme o probar la herramienta, resaltando cómo esto mejorará mi gestión financiera. | EP-002 |
-| US-006 | Ejemplos de Ahorro y Gestión de Ingresos | Como usuario, quiero ver ejemplos de cómo la aplicación puede ayudarme a ahorrar y gestionar mis ingresos antes de registrarme. | Escenario 1: Ejemplos de Ahorro. Dado que soy un usuario potencial, cuando visito el landing page, entonces debería ver ejemplos detallados de cómo la aplicación me puede ayudar a identificar y recortar gastos innecesarios para aumentar mis ahorros mensuales. Escenario 2: Gestión de Ingresos. Cuando reviso el landing page de Saifu, debería encontrar ejemplos prácticos de cómo la aplicación categoriza mis ingresos y gastos, permitiéndome tener un mejor control de mis finanzas. | EP-002 |
-| US-007 | Testimonios de Usuarios | Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar Saifu. | Escenario 1: Testimonios Destacados. Dado que soy un usuario potencial, cuando entro al landing page, entonces debería encontrar testimonios de otros usuarios que describan cómo Saifu les ha ayudado a mejorar su gestión financiera y alcanzar sus objetivos de ahorro. Escenario 2: Testimonios de Usuarios Reales. Cuando leo los testimonios en el landing page, entonces debería ver evidencia de que los testimonios provienen de usuarios reales, como nombres, fotos (con permiso), o enlaces a perfiles sociales. | EP-002 |
-| US-008 | Interfaz Simple y Atractiva | Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de Saifu, para entender mejor cómo me puede ayudar. | Escenario 1: Interfaz Intuitiva y Clara. Dado que soy un usuario potencial, cuando ingreso al landing page, entonces debería encontrar una interfaz simple y clara que me guíe fácilmente a través de las diferentes secciones, permitiéndome entender rápidamente las funcionalidades principales de la aplicación. Escenario 2: Diseño Atractivo y Moderno. Cuando navego por el landing page, debería encontrar un diseño moderno y atractivo que no solo sea agradable a la vista, sino que también me facilite la comprensión de las funcionalidades y beneficios de Saifu. | EP-002 |
+| US-005 | Información y Ventajas Clave en Landing Page | Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar AhorrArte para mejorar mi gestión financiera. | Escenario 1: Ventajas Clave. Dado que soy un usuario potencial, cuando entro al landing page de AhorrArte, entonces debo ver las ventajas clave que ofrece AhorrArte en términos de control financiero, ahorro de tiempo, y simplificación de procesos. Escenario 2: Explicación de Funcionalidades. Cuando estoy en el landing page, entonces debería encontrar una explicación detallada de cómo las funcionalidades de AhorrArte me ayudarán a mejorar mi gestión financiera. Escenario 3: Call to Action. Cuando navego por el landing page, debería ver un call to action claro y atractivo que me guíe a registrarme o probar la herramienta, resaltando cómo esto mejorará mi gestión financiera. | EP-002 |
+| US-006 | Ejemplos de Ahorro y Gestión de Ingresos | Como usuario, quiero ver ejemplos de cómo la aplicación puede ayudarme a ahorrar y gestionar mis ingresos antes de registrarme. | Escenario 1: Ejemplos de Ahorro. Dado que soy un usuario potencial, cuando visito el landing page, entonces debería ver ejemplos detallados de cómo la aplicación me puede ayudar a identificar y recortar gastos innecesarios para aumentar mis ahorros mensuales. Escenario 2: Gestión de Ingresos. Cuando reviso el landing page de AhorrArte, debería encontrar ejemplos prácticos de cómo la aplicación categoriza mis ingresos y gastos, permitiéndome tener un mejor control de mis finanzas. | EP-002 |
+| US-007 | Testimonios de Usuarios | Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar AhorrArte. | Escenario 1: Testimonios Destacados. Dado que soy un usuario potencial, cuando entro al landing page, entonces debería encontrar testimonios de otros usuarios que describan cómo AhorrArte les ha ayudado a mejorar su gestión financiera y alcanzar sus objetivos de ahorro. Escenario 2: Testimonios de Usuarios Reales. Cuando leo los testimonios en el landing page, entonces debería ver evidencia de que los testimonios provienen de usuarios reales, como nombres, fotos (con permiso), o enlaces a perfiles sociales. | EP-002 |
+| US-008 | Interfaz Simple y Atractiva | Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de AhorrArte, para entender mejor cómo me puede ayudar. | Escenario 1: Interfaz Intuitiva y Clara. Dado que soy un usuario potencial, cuando ingreso al landing page, entonces debería encontrar una interfaz simple y clara que me guíe fácilmente a través de las diferentes secciones, permitiéndome entender rápidamente las funcionalidades principales de la aplicación. Escenario 2: Diseño Atractivo y Moderno. Cuando navego por el landing page, debería encontrar un diseño moderno y atractivo que no solo sea agradable a la vista, sino que también me facilite la comprensión de las funcionalidades y beneficios de AhorrArte. | EP-002 |
 | US-009 | Opción de Registro Rápido | Como usuario potencial, quiero tener acceso rápido a una opción de registro desde el landing page, para comenzar a usar la aplicación de manera fácil. | Escenario 1: Botón de Registro Visible. Dado que soy un usuario potencial, cuando entro al landing page, entonces debería ver un botón de registro claramente visible en la parte superior de la página. Escenario 2: Acceso Rápido tras la Exploración Inicial. Cuando llego al final del landing page, debería encontrar una opción clara y destacada para registrarme, facilitando mi transición de explorar la página a comenzar a usar la aplicación. | EP-002 |
 | US-010 | Registro de Ingresos y Egresos | Como jefe de hogar, quiero registrar mis ingresos y egresos mensuales en la aplicación para obtener una visión clara de la economía de mi familia. | Escenario 1: Acceso al apartado de registro de ingresos y egresos. Dado que el jefe de hogar se encuentra en el menú principal, cuando selecciona la opción de "Ingresos y Egresos", se debe mostrar una pantalla con formularios para registrar los ingresos y egresos mensuales. Escenario 2: Visualización del balance mensual. Dado que el jefe de hogar ha registrado todas sus transacciones mensuales, cuando revisa la sección de resumen mensual, se debe mostrar un balance claro que muestre los ingresos totales, egresos totales, y el balance final del mes en curso. | EP-003 |
 | US-011 | Balance Económico Actualizado | Como joven independiente, quiero ver mi balance económico actualizado en la aplicación para ajustar mis gastos de manera responsable. | Escenario 1: Visualización del balance. Dado que el joven independiente ingresa a la aplicación, cuando selecciona "Ver Balance", se muestra el balance actualizado. Escenario 2: Ajuste de gastos. Cuando el balance muestra que los gastos han superado los ingresos, la aplicación debe sugerir ajustes. | EP-003 |
@@ -715,10 +715,10 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|:-|:-:|
-|1|US05|Información y Ventajas Clave en Landing Page | Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar Saifu para mejorar mi gestión financiera.|3|
+|1|US05|Información y Ventajas Clave en Landing Page | Como usuario potencial, quiero ver información clara en el landing page sobre las ventajas de usar AhorrArte para mejorar mi gestión financiera.|3|
 |2|US06|Ejemplos de Ahorro y Gestión de Ingresos | Como usuario, quiero ver ejemplos de cómo la aplicación puede ayudarme a ahorrar y gestionar mis ingresos antes de registrarme.|2|
-|3|US07|Testimonios de Usuarios | Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar Saifu.|3|
-|4|US08|Interfaz Simple y Atractiva | Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de Saifu, para entender mejor cómo me puede ayudar.|5|
+|3|US07|Testimonios de Usuarios | Como usuario potencial, quiero leer testimonios de otros usuarios en el landing page para sentirme seguro al usar AhorrArte.|3|
+|4|US08|Interfaz Simple y Atractiva | Como usuario potencial, quiero una interfaz simple y atractiva en el landing page que explique las funcionalidades de AhorrArte, para entender mejor cómo me puede ayudar.|5|
 |5|US09|Opción de Registro Rápido | Como usuario potencial, quiero tener acceso rápido a una opción de registro desde el landing page, para comenzar a usar la aplicación de manera fácil.|2|
 |6|US10|Registro de Ingresos y Egresos | Como jefe de hogar, quiero registrar mis ingresos y egresos mensuales en la aplicación para obtener una visión clara de la economía de mi familia.|2|
 |7|US11|Balance Económico Actualizado | Como joven independiente, quiero ver mi balance económico actualizado en la aplicación para ajustar mis gastos de manera responsable. |2|
@@ -735,7 +735,7 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |18|US22|Meta de Ahorro | Como usuario, quiero configurar una meta de ahorro en la aplicación y recibir recordatorios periódicos sobre cuánto debo ahorrar para cumplirla.|4|
 |19|US23|Edición de Perfil | Como usuario, quiero poder editar mi propio perfil dentro de la página para no preocuparme al ingresar mis datos erróneamente.|3|
 |20|US24|Inicio de Sesión | Como usuario, quiero poder iniciar sesión con mi cuenta creada en la aplicación para acceder a mi cuenta y gestionar mis datos y configuraciones. |4|
-|21|US01|Registro de Usuario desde Landing Page | Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de Saifu. |4|
+|21|US01|Registro de Usuario desde Landing Page | Como usuario, quiero poder registrarme desde el landing page para recibir información y acceder a la aplicación de AhorrArte. |4|
 |22|US02|Registro de Joven Independiente | Como joven independiente, quiero registrarme en la aplicación para acceder a las funcionalidades de control de mis finanzas.|5|
 |23|US03|Sincronización de Perfil desde el Landing Page | Como jefe de hogar, quiero crear un perfil en la aplicación desde el landing page, para que mis datos se sincronicen automáticamente. |3|
 |24|US04|Inicio de Sesión en Múltiples Dispositivos | Como usuario, quiero poder iniciar sesión desde la aplicación en cualquier dispositivo para acceder a mi información financiera personal.|4|
@@ -763,7 +763,7 @@ El equipo ha elegido la fuente Nunito, un tipo de letra contemporáneo y de fác
 ![tipo](https://github.com/user-attachments/assets/456e74fc-1e3d-456c-ab06-b2b9f158bb8e)
 
 **Iconografía**
-El ícono distintivo de "Saifu" es un cerdo, símbolo universal de ahorro, con la particularidad de que tiene una moneda ingresando en él. Ello respresenta la acción de guardar y proteger los recursos financieros. La imagen encapsula la esencia de la aplicación: ser una herramienta confiable y educativa en el ámbito financiero.
+El ícono distintivo de "AhorrArte" es un cerdo, símbolo universal de ahorro, con la particularidad de que tiene una moneda ingresando en él. Ello respresenta la acción de guardar y proteger los recursos financieros. La imagen encapsula la esencia de la aplicación: ser una herramienta confiable y educativa en el ámbito financiero.
 
 
 
@@ -804,7 +804,7 @@ Mediante la vista de "Panel de Control", se muestra una interfaz más generaliza
 
 La organización visual de contenido se realizará de tres formas diferentes en las varias vistas de la aplicación. La **organización de forma jerárquica** presenta al usuario con un orden de importancia para los elementos que se muestran en pantalla. Se utilizó este orden para las pantallas de log-in y los perfiles de los jefes de hogar y los jóvenes estudiantes. Los títulos de los datos acaparan mayor parte de la pantalla en comparación a los datos ingresados o que deben ingresarse. Adicionalmente, las opciones de modificación de información para los perfiles se encuentran en un color azul  que armoniza con el color blanco de la aplicación y no causa una impresión fuerte, por lo que se espera que el usuario vea las opciones de modificación después de leer sus datos personales.
 
-Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación Saifu por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario al historial de reportes, información de la empresa, educación financiera y metas y ahorro. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
+Para el panel de control, es necesario ofrecer al cliente una vista general de la aplicación mediante una **organización matricial**. El panel de control se concentra en una vista general del uso de la aplicación AhorrArte por parte de la empresa. En esta vista, se mostrarán imágenes que lleven al usuario al historial de reportes, información de la empresa, educación financiera y metas y ahorro. Esta pantalla sigue una categorización de contenido **por tópicos**, dado que las tarjetas y los hipervínculos cuentan con diferentes tópicos debidamente representados visualmente.
 
 Por último, la pantalla de inicio de la aplicación sigue una **categorización por audiencia**, se entiende que cada uno de los segmentos objetivos tiene un propósito diferente al momento de acceder a la aplicación por primera vez en el día. 
 
@@ -891,7 +891,7 @@ En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un ca
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
 <div id='4.7.1'><h4> 4.7.1 Class Diagrams.</h4></div>
-![](assets/Class-diagram-saifu.JPG)
+![](assets/Class-diagram-AhorrArte.JPG)
 <div id='4.7.2'><h4> 4.7.2 Class Dictionary.</h4></div>
 1. Usuario
 Atributos:
@@ -934,7 +934,7 @@ Métodos:
 
 •	redireccion(): Redirige al usuario a diferentes partes del sistema basado en su rol y permisos.
 
-6. Saifu
+6. AhorrArte
    
 Atributos:
 
@@ -1049,7 +1049,7 @@ Métodos:
 
 <div id='4.8'><h4> 4.8 Database Design.</h4></div>
 <div id='4.8.1'><h4> 4.8.1 Database Diagram.</h4></div>
-![Base de Datos](assets/Database-design-saifu.JPG).
+![Base de Datos](assets/Database-design-AhorrArte.JPG).
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
 
@@ -1058,37 +1058,95 @@ Métodos:
 <div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
 
 **Requirements Management**
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. Ruta de referencia [https://trello.com/es](https://trello.com/es)
+
 **Product UX/UI Design**
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. Ruta de referencia [https://www.figma.com/login](https://www.figma.com/login)
+2. Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. Ruta de referencia [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
 **Software Testing**
+1. Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. Ruta de referencia [https://cucumber.io/docs/gherkin/](https://cucumber.io/docs/gherkin/)
+
 **Software Development**
+1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia [https://code.visualstudio.com/](https://code.visualstudio.com/)
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia [https://www.w3schools.com/html/html5_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. Ruta de referencia [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación. Ruta de referencia [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
 **Software Deployment**
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Se utilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales. Ruta de referencia [https://git-scm.com/](https://git-scm.com/)
+
 **Software Documentation and Project Management**
+1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. Ruta de referencia [https://github.com/](https://github.com/)
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 
+
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
 **Repositorio de GitHub:**
+Enlace para acceder a la [organización en GitHub](https://github.com/202501-I1ASI0729-AhorrArte)
+Enlace para acceder al repositorio de la [Landing Page](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-LandingPage)
+
 **Flujo de trabajo GitFlow:**
+El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
+
+![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
 **Estructura de branches (Ramas):**
-1. **Master branch (Rama principal):**
-2. **Develop branch (Rama de desarrollo):**
-3. **Feature branches (Ramas de funcionalidad):**
-4. **Release branches (Ramas de lanzamiento):**
-5. **Hotfix branches (Ramas de corrección):**
+1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
 **Versionamiento Semántico:**
+Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
 **Convenciones de Commits:**
+Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits. La estructura a seguir será la siguiente:
+
+ `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
 **HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las siguientes:
 
+1. Cerrar todos los elementos HTML: Por ejemplo, `<p>Esto es un párrafo.</p>`
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la disponibilidad del contenido. Por ejemplo: `<img src="abc.img" alt="image name" style="width:128px;height:128px">`
+
 **CSS:** Entre las prácticas empleadas se mencionan:
 
-**Gherkin:**
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+2. Separar los nombres de las clases y ID con un guión, por ejemplo: `#video-id` y `.hero-shadow{}`
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
 **Landing page deployment:**
+
 Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada "docs" para alojar el Landing Page.
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "style.css" para los estilos y una carpeta llamada "img" que contenga las imágenes.
+3. Cargar los archivos al repositorio mediante un commit.
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master".
+5. Especificar la carpeta "docs" como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
+
+![Github_pages](assets/Deploy-LandingPage.png)
+
+Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/AhorrArte-LandingPage/)
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -1129,7 +1187,7 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
             <td>Ejemplos de Ahorro y Gestión de Ingresos </td>
             <td>UT02</td>
             <td>Agregar información sobre finanzas</td>
-            <td>Añadir las funcionalidades principales de Saifu</td>
+            <td>Añadir las funcionalidades principales de AhorrArte</td>
             <td>1</td>
             <td>Gabriel Rivera</td>
             <td>To-do</td>
@@ -1430,7 +1488,7 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 
 2. **La segmentación del mercado fue precisa y efectiva**, identificando a los jefes de hogar de los niveles económicos D y E, así como a los jóvenes adultos, como los principales usuarios de la plataforma.
 
-3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a Saifu de otras soluciones existentes.
+3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a AhorrArte de otras soluciones existentes.
 
 4. **El equipo demostró un uso eficiente de metodologías ágiles**, como GitFlow, para estructurar el desarrollo del proyecto y garantizar la colaboración efectiva entre los integrantes.
 
