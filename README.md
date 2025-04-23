@@ -654,6 +654,9 @@ Se utiliza para registrar la información del autor de la página web y la propi
     <meta name="copyright" content="Copyright FinSuma team" />
     
 <div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
+
+Es importante que los jefes de hogar tengan la posibilidad de distinguir y filtrar la información de los registros almacenados en la aplicación web. Uno de los objetivos del sistema es representar de forma adecuada, fácil y rápida la gran cantidad de información que va a ser añadida por los usuarios. Es así que los segmentos objetivos podrán buscar las transacciones registradas por su fecha de registro y monto realizado. Asimismo, podrán filtrar en base a fecha y autor del registro en el histórico general.
+
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
 
 <div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
