@@ -379,12 +379,19 @@ La plataforma está direccionada a dos segmento objetivo: Los jefes de hogar per
 
 ##### Jefes de hogar del nivel económico D y E:
 
+En Perú solo 13 % de la población tiene un nivel de educación financiera adecuada y el 41% carece de capacidades financieras óptimas, según La Cámara (2023). Esto es considerado de índole resaltante, ya que el analfabetismo financiero es un factor predominante en el incremento de la pobreza. Si los estratos sociales comprendieran la relevancia del concepto de educación financiera, se tendría una mejor administración de los recursos financieros y, por lo tanto, no acontecería algún déficit en las necesidades primarias consideradas dentro del concepto de una adecuada calidad de vida. Por tal motivo, la plataforma busca hacer hincapié en este segmento y, de cierta forma, impactar en el desarrollo sostenible 
+
 ##### Jóvenes en inicios de independencia:
+
+Según la SBS (2019), en el Perú, el 37% de los jóvenes de 18 a 24 años tiene una cuenta de ahorro. Este último vendría a ser el grupo con mayor conocimiento en educación financiera. Ello indica que este segmento de la población es un sector predispuesto a adquirir mayor conocimiento financiero. Por lo tanto, serán clientes clave del servicio dentro del mercado.
+
 
 <div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
 
-* **Stakelholder Internos:** 
-* **Stakelholder Externos:**
+* **Stakelholder Internos:** Equipo FinSuma y resto de integrantes del equipo de desarrollo
+* **Stakelholder Externos:** Jefes de hogar de los sectores económicos D y E, jóvenes de 18 a 24 años en inicios de independencia, estudiantes y/o profesionales en carreras involucradas con economía, finanzas o administración.
+
+![](./assets/StakeHolders.png)
 
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
 
