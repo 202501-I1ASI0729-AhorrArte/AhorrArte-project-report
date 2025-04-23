@@ -815,7 +815,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
   </tr>
   <tr>
     <td style="text-align: center;">Date</td>
-    <td>22/8/2024</td>
+    <td>19/4/2025</td>
   </tr>
   <tr>
     <td style="text-align: center;">Time</td>
@@ -827,7 +827,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
   </tr>
   <tr>
     <td style="text-align: center;">Prepared By</td>
-    <td>Renato German Reyes Valenzuela,</td>
+    <td>Luis Angel Cisneros Salas</td>
   </tr>
   <tr>
     <td style="text-align: center;">Assistants</td>
