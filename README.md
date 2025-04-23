@@ -856,7 +856,92 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
+<table>
+        <thead>
+            <tr>
+                <th>US ID</th>
+                <th>US Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 01 </td>
+                <td>Diseñar layout de la landing page</td>
+                <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
+                <td>4</td>
+                <td>Reyes Menacho, Camila Asunción</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 02 </td>
+                <td>Crear sección de navegación</td>
+                <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+                <td>3</td>
+                <td>Rivera Ayala, Gabriel Alejandro</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 03 </td>
+                <td>Agregar imágenes y contenido</td>
+                <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+                <td>5</td>
+                <td>Cisneros Salas,Luis Angel </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 04 </td>
+                <td>Implementar llamada a la acción</td>
+                <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+                <td>2</td>
+                <td>------------------ </td>
+              <td>To-Do</td>
+          </tr>
+          <tr>
+                <td> 04 </td>
+                <td>Implementacion de participantes</td>
+                <td>Agregar una seccion de los participantes en el landing</td>
+                <td>2</td>
+                <td>------------------ </td>
+              <td>To-Do</td>
+          </tr>
+      </tbody>
+  </table>
+
+##imagen trello
+
+Link del Trello: 
+
+
+
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
+
+|Repository|Branch| Commit ID |
+|----|----|----|
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Development Evidence for Sprint Review |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Sprint Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add Sprint Backlog 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Spring Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add Sprint Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Project Report.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update README.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Project Report.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add Architecture Component Diagram |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add files via upload |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Domain Driven Software Architecture |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Content Diagrams |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Merge branch 'main' of https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Merge pull request #3 from 202501-I1ASI0729-AhorrArte/develop |
+
+![Deployment Backend Evidence](assets/DeploymentEvidenceBackend.JPG)
+
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
