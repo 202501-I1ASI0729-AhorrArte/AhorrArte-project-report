@@ -986,6 +986,11 @@ JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de in
 GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
 
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i1asi0729-ahorrarte.github.io/AhorrArte-LandingPage/)
+
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 
 ## 5.2 Landing Page, Services & Applications Implementation
