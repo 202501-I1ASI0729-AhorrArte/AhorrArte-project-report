@@ -805,6 +805,55 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
 
+
+Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
+
+<table>
+  
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Date</td>
+    <td>22/8/2024</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Time</td>
+    <td>05:00 P.M</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Point</td>
+    <td>Reunión por Google Meet</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Prepared By</td>
+    <td>Renato German Reyes Valenzuela,</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Assistants</td>
+    <td>
+      <ul>
+        <li>Reyes Menacho, Camila Asunción</li>
+        <li>Rivera Ayala, Gabriel Alejandro </li>
+        <li>Cisneros Salas,Luis Angel</li>
+        <li>-------------</li>
+        <li>-------------</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Goal</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre Saifu a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Sprint n Velocity</td>
+    <td>10 días</td>
+  </tr>
+</table>
+
+
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
