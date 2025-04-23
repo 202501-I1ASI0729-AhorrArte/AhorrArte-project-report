@@ -947,6 +947,36 @@ Link del Trello:
 Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
 
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
+
+
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones sobre información de la aplicación para los usuarios
+1. Sección Beneficios
+
+    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+
+
+
+2. Sección Saber más
+
+   En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+
+
+
+3. Sección planes
+
+   En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+
+
+
+3. Sección Ayuda
+
+
+4. Sección Contactanos
+
+
+5. Sección FAQs
+
+
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
