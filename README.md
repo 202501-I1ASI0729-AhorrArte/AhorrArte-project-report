@@ -845,7 +845,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
     <th colspan="2" style="text-align: center;">Sprint Goal</th>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">Implementar una landing page sobre Saifu a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre AhorrArte a su vez completando el informe de acuerdo a lo que se nos solicita</td>
   </tr>
   <tr>
     <td style="text-align: center;">Sprint n Velocity</td>
