@@ -734,6 +734,7 @@ En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un ca
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
 <div id='4.7.1'><h4> 4.7.1 Class Diagrams.</h4></div>
+![](assets/ClassDiagramFinSuma.JPG)
 <div id='4.7.2'><h4> 4.7.2 Class Dictionary.</h4></div>
 
 <div id='4.8'><h4> 4.8 Database Design.</h4></div>
