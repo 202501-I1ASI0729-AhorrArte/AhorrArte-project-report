@@ -1072,6 +1072,13 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 <div id='6.'><h5>6. Conclusiones.</h5></div>
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
+
+A continuación, se presenta el video About the team, donde se presenta el aporte y cualidades de los integrantes del equipo de desarrollo:
+
+Enlace para visualizar el video About the team:
+
+Enlace del video subido a YouTube: 
+
 <div id='7.'><h5>7. Bibliografía.</h5></div>
 
 - Ultimas Noticias (20204). Educación financiera para jóvenes adultos: consejos prácticos. Recuperado de: https://www.elespectador.com/contenido-patrocinado/educacion-financiera-para-jovenes-adultos-consejos-practicos/ 
