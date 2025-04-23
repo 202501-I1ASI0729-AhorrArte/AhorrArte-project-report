@@ -1073,6 +1073,11 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 <div id='7.'><h5>7. Bibliografía.</h5></div>
+
+- Ultimas Noticias (20204). Educación financiera para jóvenes adultos: consejos prácticos. Recuperado de: https://www.elespectador.com/contenido-patrocinado/educacion-financiera-para-jovenes-adultos-consejos-practicos/ 
+
+- El Comercio. (2024). Ahorro inteligente: Educación financiera como aliado para hacer crecer tu dinero. Recuperado de: https://elcomercio.pe/publirreportaje/caja-cusco/ahorro-inteligente-educacion-financiera-como-aliado-para-hacer-crecer-tu-dinero-noticia/
+
 <div id='8.'><h5>8. Anexos.</h5></div>
 
 Repositorio del Backend: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd
