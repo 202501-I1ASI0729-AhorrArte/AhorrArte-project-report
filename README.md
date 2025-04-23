@@ -659,6 +659,9 @@ Es importante que los jefes de hogar tengan la posibilidad de distinguir y filtr
 
 <div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
 
+Los sistemas de navegación principales de la Landing Page son los menús de navegación superior e inferior. El sistema de labeling desplaza a los usuarios a las secciones que desean visualizar dentro de la página. En el caso no se haga uso de estos enlaces, el usuario verá la página de forma descendente.
+En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un camino secuencial. Los botones, de igual manera, representan la apertura, confirmación o finalización de un registro y permiten el seguimiento del proceso en una nueva pantalla.
+
 <div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
 
 <div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
