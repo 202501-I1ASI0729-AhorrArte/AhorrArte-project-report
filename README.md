@@ -892,6 +892,7 @@ Métodos:
 
 <div id='4.8'><h4> 4.8 Database Design.</h4></div>
 <div id='4.8.1'><h4> 4.8.1 Database Diagram.</h4></div>
+![Base de Datos](assets/Database-design-saifu.JPG).
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
 
