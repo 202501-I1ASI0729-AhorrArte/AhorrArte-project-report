@@ -369,7 +369,7 @@ El valor aportado por la aplicación dependerá de qué tan constante sea su uso
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
-**Imagen del canva**
+![](./assets/LeanUXCanvas.png)
 
 Enlace para acceder al [Canvas]( https://app.mural.co/t/integradis6182/m/integradis6182/1724001723912/28c582d11c1709e77aa0c4304f2cb2268169fd6e?sender=ufdf66b413172c812625a4806 )
 
