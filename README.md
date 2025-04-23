@@ -305,79 +305,84 @@ La carencia de instrumentos que incorporen variables macroeconómicas clave (com
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan**
-2.  **Estas necesidades se pueden satisfacer** 
-3.  **Nuestros clientes iniciales serán**
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
-5.  **El cliente también va a obtener**
-6.  **Vamos a obtener la mayoría de los clientes mediante** 
-7.  **Vamos a obtener ingresos mediante** 
-8.  **Nuestra competencia en el mercado serán** 
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** 
-10.  **El mayor riesgo del servicio es** 
-11.  **Lo resolveremos realizando** 
-12.  **Otras suposiciones podrían** 
+1.  **Creemos que nuestros usuarios necesitan** una aplicación que les permita acceder a la información financiera actualizada del Banco de la Nación.
+
+2.  **Estas necesidades se pueden satisfacer** el desarrollo de una plataforma que permitirá el acceso oportuno y confiable a las proyecciones macroeconómicas proporcionadas por el Banco de la Nación, incluyendo datos sobre inflación y otros indicadores relevantes.
+3.  **Nuestros clientes iniciales serán** los jóvenes adultos que inician su independencia y los jefes de hogar de los niveles económicos D y E.
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** aprender a planificar un presupuesto a partir de proyecciones macroeconómicas que rechacen cualquier incertidumbre económica.
+5.  **El cliente también va a obtener** diversos beneficios adicionales como visualizar gráficos estadísticos dentro de la aplicación con datos actuales e históricos.
+6.  **Vamos a obtener la mayoría de los clientes mediante** publicidad en línea y campañas de concientización sobre educación financiera en redes sociales.
+7.  **Vamos a obtener ingresos mediante** la venta de espacios publicitarios dentro de la plataforma y la posibilidad de colaborar con instituciones financieras u organizaciones gubernamentales para facilitar la implementación y la promoción del sistema entre las familias de los niveles económicos D y E.
+8.  **Nuestra competencia en el mercado serán** las plataformas propias de instituciones financieras que divulgan información financiera y ayudan en la planificación financiera.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** que la plataforma cuenta con la capacidad de anticipar necesidades básicas a través de datos macroeconómicos. En base a ello, planifica el presupuesto para el usuario y se evita pérdidas futuras. Otra funcionalidad es el foro en línea, dirigido a entablar conexión entre los usuarios.
+10.  **El mayor riesgo del servicio es** que el segmento objetivo no se muestre dispuesto e interesado en aprender sobre educación financiera. Las razones vendrían a ser de un contexto interno social: problemas de adaptación, pensamiento estático y manejo de herramientas tecnológicas.
+11.  **Lo resolveremos realizando** un diseño dinámico y llamativo de la plataforma. De igual forma, se realizará una revisión constante de la plataforma y actualizaciones en caso de inserción de funcionalidades adicionales o mejoras.
+12.  **Otras suposiciones podrían**  incluir la aceptación de inteligencia artificial para la administración de recursos económicos, la disponibilidad de todos los recursos para la elaboración de la página y el acceso a servidores estables que proporcionan una buena experiencia a nuestros clientes. Finalmente, se asume que la aplicación cumplirá con altos estándares de privacidad y seguridad de datos para garantizar la confianza de los usuarios en la protección de su información financiera personal.
 
 ###### **User Assumptions:**
 ###### **¿Quién es el usuario?**
+El usuario principal será los jóvenes adultos que están iniciando su independencia, rango de edad 18-25 años. Asimismo, la plataforma se muestra dirigida a los jefes de hogar de los niveles económicos D y E. Sin embargo, cualquier ciudadano del Perú con interés en aprender sobre educación financiera, puede hacer uso de la plataforma. 
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+El problema trascendente de la plataforma sería la integración del API del Banco de la Nación para el uso de las proyecciones macroeconómicas. Por otra parte, se reconoce a la deficiencia en la identificación de necesidades del usuario acorde a sus ingresos y egresos trascendentales.
+
 
 ###### **¿Qué características son importantes?**
-
+La plataforma se distingue por ofrecer acceso confiable y oportuno a proyecciones macroeconómicas del Banco de la Nación, registrar ingresos y egresos para facilitar la creación de presupuestos personalizados, y generar reportes detallados sobre el balance económico y la inflación. Además, incluye una sección dedicada a la educación financiera, brindando material educativo sobre planificación, métodos de ahorro y consejos personalizados basados en los gastos diarios registrados por cada usuario. También cuenta con un foro para fomentar la interacción entre los usuarios y herramientas para establecer y alcanzar metas de ahorro.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+El servicio se integra en la vida de los usuarios como una herramienta esencial para gestionar sus finanzas domésticas, ayudándoles a evitar el sobreendeudamiento y el desbalance económico. Además, fomenta el hábito del ahorro entre los miembros más jóvenes, asegurando que, a largo plazo, la educación financiera esté firmemente establecida.
 
 ###### **¿Cuándo y cómo es nuestro producto? **
+El servicio será utilizado por el segmento objetivo cuando surja la necesidad de planificar un presupuesto, considerando las proyecciones macroeconómicas futuras. De este modo, se evalúan los ingresos y egresos, así como los costos actuales y futuros de alimentos y servicios, para trazar un plan financiero integral que también promueva el ahorro.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+El producto debe contar con una interfaz sencilla, inclusiva y dinámica, con un diseño atractivo que capte la atención del segmento objetivo y ofrezca una experiencia acogedora. Además, debe garantizar la privacidad y seguridad de los datos personales del usuario, al tiempo que presenta proyecciones macroeconómicas e información relevante del Banco de la Nación.
 
 ###### **Feature Assumptions:**
 
-**Creemos que**
+**Creemos que** ofrecer a nuestros usuarios una aplicación que les permita acceder a información financiera actualizada del Banco de la Nación será crucial para ayudarlos a planificar sus presupuestos de manera más precisa.
 
-**Creemos que** 
+**Creemos que** desarrollar una plataforma que integre proyecciones macroeconómicas confiables, incluyendo datos sobre inflación y otros indicadores relevantes, permitirá a los usuarios planificar sus finanzas con mayor seguridad y reducir la incertidumbre económica.
 
-**Creemos que** 
+**Creemos que** la aplicación debe de tener la capacidad de integrarse con los sistemas de entidades financieras, lo que facilitará la recopilación y análisis de datos en tiempo real.
 
-**Creemos que**
+**Creemos que** el programa debe de incluir herramientas de generación de informes y gráficos que permitirán a los usuarios visualizar fácilmente los datos referentes a la situación financiera y tomar decisiones basadas en información visualmente clara.
+
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
-
 * **Hypothesis Statement 01:**
     
-    **Creemos que** 
+    **Creemos que** si implementamos una funcionalidad para registrar ingresos y gastos, así como para analizar estos datos en periodos específicos, entonces los jefes de hogar y jóvenes adultos podrán planificar sus presupuestos con mayor precisión
     
-    **Sabremos** 
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando**
+    **Cuando**  la cantidad de usuarios registrados dentro de la plataforma supere o sea mayor a los 300 000.
   
 * **Hypothesis Statement 02:**
     
-    **Creemos que** 
+    **Creemos que** si incorporamos una sección de educación financiera en la plataforma, que proporcione material educativo sobre planificación financiera, métodos de ahorro y consejos, entonces los usuarios mejorarán su comprensión y manejo de las finanzas.
     
-    **Sabremos** 
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando** 
+    **Cuando** más del 75% de los usuarios informen una mejora en su habilidad para gestionar sus finanzas.
 
 * **Hypothesis Statement 03:**
     
-    **Creemos que**  
+    **Creemos que**  si ofrecemos herramientas para generar reportes detallados sobre inflación, gastos, ingresos y balance económico, entonces los usuarios tendrán una visión clara y actualizada de su situación financiera. 
     
-    **Sabremos**
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando** 
+    **Cuando** el indicador de porcentaje de usuarios satisfechos sea mayor al 68%.
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** 
+    **Creemos que** si implementamos una función para establecer metas y objetivos de ahorro de manera progresiva, entonces los usuarios podrán planificar y alcanzar sus metas financieras con eficiencia.
     
-    **Sabremos** 
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando**
-
-
+    **Cuando** se perciba una reducción del 25% en la necesidad de endeudamiento entre los usuarios activos.
   
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
