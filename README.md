@@ -549,6 +549,24 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
+Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:
+
+**Colores:**
+El color primario escogido para el diseño del producto y para el logotipo es una serie de matices cercanos al verde olivo. Este tono de verde olivo evoca sentimientos de serenidad, solidez, conexión con la naturaleza y autenticidad. Su conexión con la naturaleza también sugiere una gestión financiera sostenible y equilibrada. Estas características hacen que la interfaz transmita seguridad y profesionalismo en el ámbito financiero, donde el fondo se integra sutilmente, dando mayor relevancia al contenido relacionado con las finanzas.
+
+![colores](https://github.com/user-attachments/assets/02744ad5-0fb1-4f9f-9a47-a9223cb0ad4b)
+
+**Tipografía:**
+El equipo ha elegido la fuente Nunito, un tipo de letra contemporáneo y de fácil lectura. Esta fuente se presenta en diversos estilos, incluyendo Normal, y se ha definido una serie de características específicas para su uso en los prototipos. Las especificaciones clave abarcan tamaños de fuente que varían desde 14 px hasta 24 px, con interlineados que oscilan entre 19 px y 33 px, adaptándose a diferentes propósitos textuales. Estos parámetros aseguran legibilidad y coherencia en la presentación del contenido.
+
+![tipografia](https://github.com/user-attachments/assets/d7e8fe6b-1794-4cbc-8fd2-808db5bced8f)
+
+![tipo](https://github.com/user-attachments/assets/456e74fc-1e3d-456c-ab06-b2b9f158bb8e)
+
+**Iconografía**
+El ícono distintivo de "Saifu" es un cerdo, símbolo universal de ahorro, con la particularidad de que tiene una moneda ingresando en él. Ello respresenta la acción de guardar y proteger los recursos financieros. La imagen encapsula la esencia de la aplicación: ser una herramienta confiable y educativa en el ámbito financiero.
+
+
 
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
 <div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
