@@ -998,8 +998,8 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
 |Reyes Menacho, Camila Asunción|Implementación de la sección footer y Plans|
 |Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
 |Rivera Ayala, Gabriel Alejandro|Implementación de la sección contact-us|
-|Reyes Valenzuela, Renato German|Implementación de la sección features|
-|Comettant Rubiños, Jessica Elizabeth|Implementación de la sección header,about-us y homepage|
+|------------------------|Implementación de la sección features|
+|-------------------|Implementación de la sección header,about-us y homepage|
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
