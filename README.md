@@ -569,6 +569,33 @@ El ícono distintivo de "Saifu" es un cerdo, símbolo universal de ahorro, con l
 
 
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
+
+El enfoque de "AhorrArte" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
+##### Tarjetas:
+Se hace uso del componente "mat-card" de la colección de Angular Material para representar los avisos y las notificaciones importantes de la aplicación. Los avisos deberán de ser acompañados de una imagen representativa, la cual será asignada por defecto en el caso que el emisor decida no seleccionar una imagen. Las tarjetas incluyen un título, un subtítulo, un párrafo descriptivo y representarán un hipervínculo para la obtención de más información.
+##### Imágenes:
+
+En el diseño web se incluirán imágenes descriptivas y con un objetivo puntual. En primer lugar, la imagen de perfil del usuario y de la empresa en la cual está registrado dentro de la aplicación se encontrarán en todo momento en la parte superior izquierda, esto con el objetivo de ayudar al usuario a identicar la sesión en la que se encuentra y ayudarlo a navegar rápidamente a sus datos personales. 
+
+Adicionalmente, se contará con imágenes representativas para cada una de las cuatro secciones que representan el núcleo principal de nuestra aplicación. Dado que las aplicaciones de escritorio se muestran en una alta resolución de pantalla, resulta de suma importancia que el usuario cuente con guías visuales fácilmente identificables para acceder a las secciones con el flujo funcional de la aplicación. Por esta misma razón no se hace uso de imágenes de fondo en la aplicación con excepción del log-in, la startup cree que el estilo del diseño web y móvil debe atenerse a la sobriedad en el entorno empresarial del segmento objetivo.
+
+Finalmente, como se explicó anteriormente, se hace uso de una imagen de fondo para la pantalla de inicio de la aplicación web. Debería transmitirse, desde la primera pantalla de la interfaz de la app, que el usuario se encuentra en el sitio web de Greenhouse. Esta imagen, además, tiene la posibilidad de ser cambiada en el caso de eventos y promociones cuyo objetivo sea promocionar al negocio.
+
+![imagen](https://github.com/user-attachments/assets/a7d2e1f6-190f-4596-80d0-b9cd0b0b9ee2)
+
+##### Botones:
+Se utilizan los botones según lo especificado en el apartado de General Style Guidelines. En la aplicación web, se suelen encontrar en la parte inferior de la sección principal de la pantalla. Estos botones permiten al usuario realizar acciones que añadan, eliminen y modifiquen los registros que se muestran en la vista del usuario en la parte superior. Por otro lado, se deben mostrar botones de confirmación para las acciones que creen nuevos procesos y que involucren al funcionamiento de toda la fábrica. Todos los botones cuentan con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Se utiliza la teoría del color en los botones de color rojo para representar acciones que eliminen procesos o los den por finalizados.
+
+![botones](https://github.com/user-attachments/assets/105cfdd7-1e1f-4925-a7ea-3a15ed2681a0)
+
+##### Tablas:
+Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco, y cada fila representa una instancia de registro. Las tablas de registros son el elemento principal para mostrar los datos de la aplicación, por lo tanto, se utilizan como componente central y suelen ser el foco de las vistas en las cuales aparecen.
+
+![tabla](https://github.com/user-attachments/assets/ccd395d2-a7f8-4379-9516-0dcfc1325b8a)
+
+##### Pantallas Emergentes:
+Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los _pop-ups_ cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
+
 <div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
 <div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
 <div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
