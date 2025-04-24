@@ -271,99 +271,121 @@ El valor aportado por la aplicación dependerá de qué tan constante sea su uso
 
 ###### Descripción de la situación: (AUSENCIA DE EDUCACIÓN FINANCIERA)
 
+Existe un alarmante desconocimiento en materia financiera entre las familias de los estratos D y E en Perú. La falta de destrezas para gestionar correctamente los ingresos restringe su capacidad de ahorro y un consumo consciente. Esta carencia de formación financiera favorece la continuidad de ciclos de sobreendeudamiento y problemas económicos persistentes.
+
 ###### Descripción del problema:
+
+De este modo, la falta de educación financiera profundiza los índices de pobreza en el Perú, lo cual, a su vez, deriva en afectaciones a la salud mental, especialmente en la población adulta. Uno de los efectos más comunes sería el estrés.
 
 ###### Propuesta de solución:
 
-
+¿De qué manera se puede impulsar el aprendizaje financiero y desarrollar habilidades de administración responsable del dinero en los adultos peruanos?
 
 ###### Descripción de la situación: (FALTA DE HERRAMIENTAS PARA LA ADMINISTRACIÓN)
-###### Descripción del problema:
-###### Propuesta de solución:
 
- ###### Descripción de la situación:(INCERTIDUMBRE ECONÓMICA)
+La ausencia de un sistema adecuado para la administración del presupuesto familiar dificulta que los jefes de hogar de los niveles D y E puedan organizar sus gastos de manera eficiente. Al respecto, un estudio de CAF (2014) reveló que el 68% de los adultos peruanos reconoció que el presupuesto que habían planificado no les alcanzó para cubrir todo el mes. Esta situación se presentó, al menos, una vez cada seis meses.
 
 ###### Descripción del problema:
 
+La falta de un mecanismo que pueda prever y alertar sobre posibles carencias de alimentos, servicios médicos y otros bienes básicos expone a estas familias a contingencias inesperadas, reduciendo su posibilidad de tomar medidas preventivas.
+
 ###### Propuesta de solución:
+
+¿Cómo dotar de herramientas financieras básicas a los jefes de familia para que puedan tomar decisiones económicas informadas y evitar riesgos?
+
+###### Descripción de la situación:(INCERTIDUMBRE ECONÓMICA)
+
+La inestabilidad económica y los vaivenes inflacionarios generan inseguridad financiera en los hogares vulnerables. La carencia de datos oportunos y confiables sobre tendencias macroeconómicas limita la posibilidad de que las familias de escasos recursos puedan prever y amortiguar los efectos de alzas abruptas en productos básicos de primera necesidad y servicios médicos.
+
+###### Descripción del problema:
+
+La carencia de instrumentos que incorporen variables macroeconómicas clave (como los índices inflacionarios) limita la capacidad de realizar elecciones financieras fundamentadas, conduciendo frecuentemente a una administración deficiente de los recursos económicos.
+
+###### Propuesta de solución:
+
+¿Cómo podemos crear un sistema que envíe avisos preventivos y consejos útiles a las familias sobre cómo modificar sus gastos, usando información anticipada sobre alzas en precios de productos básicos y servicios esenciales?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan** 
+1.  **Creemos que nuestros usuarios necesitan** una aplicación que les permita acceder a la información financiera actualizada del Banco de la Nación.
 
-2.  **Estas necesidades se pueden satisfacer** 
-3.  **Nuestros clientes iniciales serán**
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
-5.  **El cliente también va a obtener**
-6.  **Vamos a obtener la mayoría de los clientes mediante** 
-7.  **Vamos a obtener ingresos mediante** 
-8.  **Nuestra competencia en el mercado serán** 
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** 
-10.  **El mayor riesgo del servicio es** 
-11.  **Lo resolveremos realizando** 
-12.  **Otras suposiciones podrían** 
+2.  **Estas necesidades se pueden satisfacer** el desarrollo de una plataforma que permitirá el acceso oportuno y confiable a las proyecciones macroeconómicas proporcionadas por el Banco de la Nación, incluyendo datos sobre inflación y otros indicadores relevantes.
+3.  **Nuestros clientes iniciales serán** los jóvenes adultos que inician su independencia y los jefes de hogar de los niveles económicos D y E.
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** aprender a planificar un presupuesto a partir de proyecciones macroeconómicas que rechacen cualquier incertidumbre económica.
+5.  **El cliente también va a obtener** diversos beneficios adicionales como visualizar gráficos estadísticos dentro de la aplicación con datos actuales e históricos.
+6.  **Vamos a obtener la mayoría de los clientes mediante** publicidad en línea y campañas de concientización sobre educación financiera en redes sociales.
+7.  **Vamos a obtener ingresos mediante** la venta de espacios publicitarios dentro de la plataforma y la posibilidad de colaborar con instituciones financieras u organizaciones gubernamentales para facilitar la implementación y la promoción del sistema entre las familias de los niveles económicos D y E.
+8.  **Nuestra competencia en el mercado serán** las plataformas propias de instituciones financieras que divulgan información financiera y ayudan en la planificación financiera.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** que la plataforma cuenta con la capacidad de anticipar necesidades básicas a través de datos macroeconómicos. En base a ello, planifica el presupuesto para el usuario y se evita pérdidas futuras. Otra funcionalidad es el foro en línea, dirigido a entablar conexión entre los usuarios.
+10.  **El mayor riesgo del servicio es** que el segmento objetivo no se muestre dispuesto e interesado en aprender sobre educación financiera. Las razones vendrían a ser de un contexto interno social: problemas de adaptación, pensamiento estático y manejo de herramientas tecnológicas.
+11.  **Lo resolveremos realizando** un diseño dinámico y llamativo de la plataforma. De igual forma, se realizará una revisión constante de la plataforma y actualizaciones en caso de inserción de funcionalidades adicionales o mejoras.
+12.  **Otras suposiciones podrían**  incluir la aceptación de inteligencia artificial para la administración de recursos económicos, la disponibilidad de todos los recursos para la elaboración de la página y el acceso a servidores estables que proporcionan una buena experiencia a nuestros clientes. Finalmente, se asume que la aplicación cumplirá con altos estándares de privacidad y seguridad de datos para garantizar la confianza de los usuarios en la protección de su información financiera personal.
 
 ###### **User Assumptions:**
 ###### **¿Quién es el usuario?**
+El usuario principal será los jóvenes adultos que están iniciando su independencia, rango de edad 18-25 años. Asimismo, la plataforma se muestra dirigida a los jefes de hogar de los niveles económicos D y E. Sin embargo, cualquier ciudadano del Perú con interés en aprender sobre educación financiera, puede hacer uso de la plataforma. 
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+El problema trascendente de la plataforma sería la integración del API del Banco de la Nación para el uso de las proyecciones macroeconómicas. Por otra parte, se reconoce a la deficiencia en la identificación de necesidades del usuario acorde a sus ingresos y egresos trascendentales.
+
 
 ###### **¿Qué características son importantes?**
-
+La plataforma se distingue por ofrecer acceso confiable y oportuno a proyecciones macroeconómicas del Banco de la Nación, registrar ingresos y egresos para facilitar la creación de presupuestos personalizados, y generar reportes detallados sobre el balance económico y la inflación. Además, incluye una sección dedicada a la educación financiera, brindando material educativo sobre planificación, métodos de ahorro y consejos personalizados basados en los gastos diarios registrados por cada usuario. También cuenta con un foro para fomentar la interacción entre los usuarios y herramientas para establecer y alcanzar metas de ahorro.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+El servicio se integra en la vida de los usuarios como una herramienta esencial para gestionar sus finanzas domésticas, ayudándoles a evitar el sobreendeudamiento y el desbalance económico. Además, fomenta el hábito del ahorro entre los miembros más jóvenes, asegurando que, a largo plazo, la educación financiera esté firmemente establecida.
 
 ###### **¿Cuándo y cómo es nuestro producto? **
+El servicio será utilizado por el segmento objetivo cuando surja la necesidad de planificar un presupuesto, considerando las proyecciones macroeconómicas futuras. De este modo, se evalúan los ingresos y egresos, así como los costos actuales y futuros de alimentos y servicios, para trazar un plan financiero integral que también promueva el ahorro.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+El producto debe contar con una interfaz sencilla, inclusiva y dinámica, con un diseño atractivo que capte la atención del segmento objetivo y ofrezca una experiencia acogedora. Además, debe garantizar la privacidad y seguridad de los datos personales del usuario, al tiempo que presenta proyecciones macroeconómicas e información relevante del Banco de la Nación.
 
 ###### **Feature Assumptions:**
 
-**Creemos que**
+**Creemos que** ofrecer a nuestros usuarios una aplicación que les permita acceder a información financiera actualizada del Banco de la Nación será crucial para ayudarlos a planificar sus presupuestos de manera más precisa.
 
-**Creemos que** 
+**Creemos que** desarrollar una plataforma que integre proyecciones macroeconómicas confiables, incluyendo datos sobre inflación y otros indicadores relevantes, permitirá a los usuarios planificar sus finanzas con mayor seguridad y reducir la incertidumbre económica.
 
-**Creemos que** 
+**Creemos que** la aplicación debe de tener la capacidad de integrarse con los sistemas de entidades financieras, lo que facilitará la recopilación y análisis de datos en tiempo real.
 
-**Creemos que**
+**Creemos que** el programa debe de incluir herramientas de generación de informes y gráficos que permitirán a los usuarios visualizar fácilmente los datos referentes a la situación financiera y tomar decisiones basadas en información visualmente clara.
+
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
-
 * **Hypothesis Statement 01:**
     
-    **Creemos que** 
+    **Creemos que** si implementamos una funcionalidad para registrar ingresos y gastos, así como para analizar estos datos en periodos específicos, entonces los jefes de hogar y jóvenes adultos podrán planificar sus presupuestos con mayor precisión
     
-    **Sabremos** 
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando**
+    **Cuando**  la cantidad de usuarios registrados dentro de la plataforma supere o sea mayor a los 300 000.
   
 * **Hypothesis Statement 02:**
     
-    **Creemos que** 
+    **Creemos que** si incorporamos una sección de educación financiera en la plataforma, que proporcione material educativo sobre planificación financiera, métodos de ahorro y consejos, entonces los usuarios mejorarán su comprensión y manejo de las finanzas.
     
-    **Sabremos** 
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando** 
+    **Cuando** más del 75% de los usuarios informen una mejora en su habilidad para gestionar sus finanzas.
 
 * **Hypothesis Statement 03:**
     
-    **Creemos que**  
+    **Creemos que**  si ofrecemos herramientas para generar reportes detallados sobre inflación, gastos, ingresos y balance económico, entonces los usuarios tendrán una visión clara y actualizada de su situación financiera. 
     
-    **Sabremos**
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando** 
+    **Cuando** el indicador de porcentaje de usuarios satisfechos sea mayor al 68%.
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** 
+    **Creemos que** si implementamos una función para establecer metas y objetivos de ahorro de manera progresiva, entonces los usuarios podrán planificar y alcanzar sus metas financieras con eficiencia.
     
-    **Sabremos** 
+    **Sabremos** que hemos tenido éxito.
     
-    **Cuando**
-
-
+    **Cuando** se perciba una reducción del 25% en la necesidad de endeudamiento entre los usuarios activos.
   
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
@@ -600,13 +622,58 @@ La sección cubre el proceso de investigación de nuestros segmentos objetivo a 
 
 <div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
 
+  Preguntas dirigidas a los jefes de hogar de los sectores económicos D y E, y a estudiantes o personas naturales._
+___
+- Preguntas principales:
+  1. ¿Cuál es tu nivel de conocimiento en relación a la economía doméstica?
+
+  2. ¿Has enfrentado dificultades financieras en el pasado? ¿Podrías compartir alguna experiencia al respecto?
+  3. A medida que la cantidad de miembros en tu hogar creció, ¿qué cambios implementaste en tu enfoque financiero?
+  4. ¿Cómo controlas tus gastos en la actualidad?
+
+- Preguntas complementarias:
+  1. ¿Te sientes preparado para manejar imprevistos financieros que puedan surgir en cualquier momento?
+  2. ¿En qué momentos del mes o año consideras que tu presupuesto se vuelve más ajustado?
+  3. ¿Con qué frecuencia te has visto sorprendido por incrementos en los precios de productos?
+
+_Preguntas dirigidas a los jóvenes de 18 a 24 años en inicios de independencia_
+___
+- Preguntas principales:
+  1. ¿Cuál fue tu nivel de conocimiento sobre finanzas en el hogar al momento de comenzar tu independencia?
+  2. En tu primer mes de independencia, ¿cómo organizaste y distribuiste tu presupuesto?
+  3. Al dar inicio a tu vida independiente, ¿qué metas financieras te planteaste y cuál es tu plan para lograrlas?
+  4. ¿Has notado alguna diferencia en tus hábitos de gasto desde que te independizaste? ¿Qué factores crees que han contribuido a estos cambios?
+
+- Preguntas complementarias:
+  1. ¿Qué métodos emplean actualmente para monitorear y controlar tus gastos?
+  2. ¿Te sientes confiado en enfrentar situaciones financieras imprevistas que puedan surgir?
+  3. ¿En qué momentos del mes o del año notas que tu presupuesto se vuelve más ajustado?
+
 <div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
 
 <div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
 
+* User persona jefe de hogar del sector económico D o E
+
+![María Rodríguez](assets/UP-1.png)
+
+* User persona joven de 18 a 24 años en inicios de independencia
+
+![_Luis Gómez](assets/UP-2.png)
+
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+
+Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos: 
+
+* **María Rodríguez (Jefe de Hogar del Sector Económico D o E):**
+
+<table> <tr> <th></th> <td colspan="2"> Jefe de Hogar del sector ecómico D o E (María Rodríguez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <td>Registrar gastos diarios</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Planificar el presupuesto semanal/mensual</td> <td>Alta</td> <td>Mensual</td> </tr><td>Buscar ofertas y precios bajos</td> <td>Media</td> <td>Semanal</td> </tr> <td>Ahorrar para emergencias</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Controlar el gasto en servicios básicos</td> <td>Media</td> <td>Mensual</td></tr></table>
+
+* **Luis Gómez (Joven de 18 a 24 años en inicios de independencia):**
+
+<table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
@@ -711,6 +778,19 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 | TS-008 | Edición del Perfil de Usuario (API RESTful) | Como Developer, quiero implementar un endpoint PUT para que los usuarios puedan editar su perfil, de manera que puedan actualizar su información personal en la plataforma. | **Dado** que el cliente envía una solicitud PUT a `/api/v1/users/{id}`, **Cuando** los datos son válidos (nombre, dirección, número de teléfono), **Entonces** se debe actualizar el perfil del usuario y retornar un status 200 con los cambios guardados.<br>**Dado** que los datos son inválidos o faltan, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 con los detalles de los errores. | EP-006 (Gestión del Perfil) |
 
 <div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
+
+**Jefes de hogar de los sectores económicos D y E**
+
+![foto_impact1](./assets/Impact%20map-Saifu_jefedehogar.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impact%20map-Saifu_jefedehogar.png
+
+![foto_impact2](./assets/Impactmap-Saifu_jefedehogar.png ) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impactmap-Saifu_jefedehogar.png
+
+**Jóvenes adultos recién independientes**
+
+![foto_impact1](./assets/Impact%20map-Saifu_jovenes.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impact%20map-Saifu_jovenes.png
+
+![foto_impact2](./assets/Impactmap-Saifu_jovenes.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impactmap-Saifu_jovenes.png
+
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
