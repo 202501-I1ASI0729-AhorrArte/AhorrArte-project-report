@@ -969,10 +969,34 @@ En primer lugar, se presenta la landing page vista desde el desktop web browser.
 <img src="assets/FeaturesWireframe.png" alt="FeaturesWireframe">
 
 **About Us:**
-<img src="assets/AboutUsWireframe.png" alt="AboutUsWireframe">
+<img src="assets/AboutUsWireframe.png" alt="AboutUsWireframe">  
 
 
 <div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
+
+El wireframe de la vista desktop web browser de la landing page resultó de utilidad para diagramar la organización de los elementos. A partir del esquema definido, se procedió a elaborar la landing page mock-up, la cual cuenta con los mismos contenidos explicados anteriormente. En la siguiente imagen se evidencia cómo se aplicó la paleta de colores primarios y secundarios, al igual que la tipografía definida anteriormente. 
+
+**About Us:**
+<img src="assets/AboutUsMockup.png" alt="AboutUsMockup">  
+
+**Contact us:**
+<img src="assets/ContactUsMockup.png" alt="ContactUsMockup">
+
+**FAQs:**
+<img src="assets/FAQsMockup.png" alt="FAQsMockup">
+
+**Features:**
+<img src="assets/FeaturesMockup.png" alt="FeaturesMockup">
+
+**HelpCenter:**
+<img src="assets/HelpCenterMockup.png" alt="HelpCenterMockup">
+
+**Homepage:**
+<img src="assets/HomePageMockup.png" alt="HomePageMockup">
+
+**Pricing Plan:**
+<img src="assets/PricingPlanMockup.png" alt="PricingPlanMockup">
+
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
 
