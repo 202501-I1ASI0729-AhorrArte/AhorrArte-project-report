@@ -945,6 +945,33 @@ En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un ca
 
 <div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
 
+
+**Landing Page para Desktop Web Browser**
+
+En primer lugar, se presenta la landing page vista desde el desktop web browser. Esta incluye secciones de relevancia para el usuario, las cuales presentan información relacionada con los beneficios que obtendrá mediante el producto, los planes de pago disponibles, los perfiles de los integrantes del equipo y la misión, visión y valores de la startup. Adicionalmente, en esta sección podrá encontrar un apartado que responde las preguntas frecuentes de los usuarios, y un formulario a través del cual los usuarios tendrán la posibilidad de contactarse con los developers de la aplicación a través de un mensaje por correo electrónico.
+
+**Homepage:**
+<img src="assets/HomePageWireframe.png" alt="HomePageWireframe">
+
+**HelpCenter:**
+<img src="assets/HelpCenterWireframe.png" alt="HelpCenterWireframe">
+
+**Contact us:**
+<img src="assets/ContactUsWireframe.png" alt="ContactUsWireframe">
+
+**FAQs:**
+<img src="assets/FAQsWireframe.png" alt="FAQsWireframe">
+
+**Pricing Plan:**
+<img src="assets/PricingPlanWireframe.png" alt="PricingPlanWireframe">
+
+**Features:**
+<img src="assets/FeaturesWireframe.png" alt="FeaturesWireframe">
+
+**About Us:**
+<img src="assets/AboutUsWireframe.png" alt="AboutUsWireframe">
+
+
 <div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
