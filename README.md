@@ -710,6 +710,45 @@ Joven de 18 a 24 años en inicios de independencia:
 
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
 
+As-is del segmento Jefes de hogar del nivel económico D y E
+
+Preparación de la actividad
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el As - Is Scenario Mapping
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-isv1_Jefes%20de%20hogar%20.jpg)
+
+Identificación de Fases
+
+Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-isv2_Jefes%20de%20hogar%20.jpg)
+
+As-is del segmento Jóvenes en inicios de independencia
+
+Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling.
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+
+Brainstorming
+
+Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is1_jovenes.jpg)
+
+Identificación de Fases
+
+Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes
+
+![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is2_jovenes.jpg)
+
+
 **2.4 Ubiquitous Language**
 
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
