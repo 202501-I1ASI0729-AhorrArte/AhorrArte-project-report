@@ -1722,9 +1722,9 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
       </tbody>
   </table>
 
-##imagen trello
+![Github_pages](assets/trelloahorrarte.jpg)
 
-Link del Trello: 
+Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
 
 
 
