@@ -2028,7 +2028,7 @@ A continuación, se presenta el video About the team, donde se presenta el aport
 
 Enlace para visualizar el video About the team:
 
-Enlace del video subido a YouTube: 
+Enlace del video subido a Drive: https://drive.google.com/file/d/1zY3b0bRPBOw-_CeM4NxZ4Ps6sORuXeEI/view?usp=sharing 
 
 <div id='7.'><h5>7. Bibliografía.</h5></div>
 
@@ -2051,3 +2051,10 @@ Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1Ms
 trello:https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
 
 Landing Page: https://202501-i1asi0729-ahorrarte.github.io/AhorrArte-LandingPage/
+
+Video entrevista 1:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EZE0KFiBow5LoYDsSd5O9JQByCgdRjTXsBLPmrGmeryc-A?e=JcwNhp
+Video entrevista 2:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EdxTSNPTLSxBuz991GFEnsQBMqI-r4VzA0jHUe3bfobKCA?e=eROese
+Video entrevista 3:https://drive.google.com/file/d/1zNKLesPzfrVsRJ03IVC2Uu_OM287sfS1/view?usp=sharing
+
+Video exposicion: https://drive.google.com/file/d/1zY3b0bRPBOw-_CeM4NxZ4Ps6sORuXeEI/view?usp=sharing
+
