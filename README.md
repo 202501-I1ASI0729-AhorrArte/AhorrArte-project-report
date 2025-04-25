@@ -1255,6 +1255,11 @@ Registro de Transacciones:
 
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
+![Flow Diagram 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/User_Flow_Diagrams/FLow%20Diagram%20(1).png?raw=true)<br>
+
+![Flow Diagram 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/User_Flow_Diagrams/FLow%20Diagram%20(2).png?raw=true)<br>
+
+![Flow Diagram 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/User_Flow_Diagrams/FLow%20Diagram%20(3).png?raw=true)<br>
 
 <div id='4.5'><h4> 4.5. Web Applications Prototyping.</h4></div>
 
