@@ -1181,7 +1181,9 @@ Registro de Transacciones:
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
 <div id='4.7.1'><h4> 4.7.1 Class Diagrams.</h4></div>
-![](assets/Class-diagram-AhorrArte.JPG)
+
+![](assets/Class-diagram-saifu.JPG)
+
 <div id='4.7.2'><h4> 4.7.2 Class Dictionary.</h4></div>
 1. Usuario
 Atributos:
