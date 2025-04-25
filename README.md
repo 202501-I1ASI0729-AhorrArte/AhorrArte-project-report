@@ -1611,57 +1611,6 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
         </tr>
     </table>
 
-<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
-
-
-Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
-
-<table>
-  
-  <tr>
-    <th colspan="2" style="text-align: center;">Sprint Planning</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Date</td>
-    <td>19/4/2025</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Time</td>
-    <td>05:00 P.M</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Point</td>
-    <td>Reunión por Google Meet</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Prepared By</td>
-    <td>Luis Angel Cisneros Salas</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Assistants</td>
-    <td>
-      <ul>
-        <li>Reyes Menacho, Camila Asunción</li>
-        <li>Rivera Ayala, Gabriel Alejandro </li>
-        <li>Cisneros Salas,Luis Angel</li>
-        <li>Rodriguez Zuluoeta, Andres Fernando</li>
-        <li>Padilla Advincula,Paolo Sebastian</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2" style="text-align: center;">Sprint Goal</th>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">Implementar una landing page sobre AhorrArte a su vez completando el informe de acuerdo a lo que se nos solicita</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Sprint n Velocity</td>
-    <td>10 días</td>
-  </tr>
-</table>
-
-
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
 
@@ -1806,8 +1755,8 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
 |Reyes Menacho, Camila Asunción|Implementación de la sección footer y Plans|
 |Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
 |Rivera Ayala, Gabriel Alejandro|Implementación de la sección contact-us|
-|------------------------|Implementación de la sección features|
-|-------------------|Implementación de la sección header,about-us y homepage|
+|Padilla Advincula,Paolo Sebastian|Implementación de la sección features|
+|Rodriguez Zuluoeta, Andres Fernando|Implementación de la sección header,about-us y homepage|
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -1887,7 +1836,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
   </tr>
   <tr>
     <td style="text-align: center;">Date</td>
-    <td>22/8/2024</td>
+    <td>19/4/2025</td>
   </tr>
   <tr>
     <td style="text-align: center;">Time</td>
@@ -1927,6 +1876,71 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
 
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
+<table>
+        <thead>
+            <tr>
+                <th>US ID</th>
+                <th>US Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 01 </td>
+                <td>Diseñar layout de la landing page</td>
+                <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
+                <td>4</td>
+                <td>Reyes Menacho, Camila Asunción</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 02 </td>
+                <td>Crear sección de navegación</td>
+                <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+                <td>3</td>
+                <td>Rivera Ayala, Gabriel Alejandro</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 03 </td>
+                <td>Agregar imágenes y contenido</td>
+                <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+                <td>5</td>
+                <td>Cisneros Salas,Luis Angel </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 04 </td>
+                <td>Implementar llamada a la acción</td>
+                <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+                <td>2</td>
+                <td>Padilla Advincula,Paolo Sebastian</td>
+              <td>To-Do</td>
+          </tr>
+          <tr>
+                <td> 04 </td>
+                <td>Implementacion de participantes</td>
+                <td>Agregar una seccion de los participantes en el landing</td>
+                <td>2</td>
+                <td>Rodriguez Zuluoeta, Andres Fernando </td>
+              <td>To-Do</td>
+          </tr>
+      </tbody>
+  </table>
+
+![Github_pages](assets/trelloahorrarte.jpg)
+
+Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
+
+
+
 ### Evidencia Deployment:
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
@@ -2032,3 +2046,5 @@ Repositorio de la Landing Page: https://github.com/202501-I1ASI0729-AhorrArte/Ah
 Repositorio del Informe: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report
 
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
+
+trello:https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
