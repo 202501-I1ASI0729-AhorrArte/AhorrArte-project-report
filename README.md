@@ -922,9 +922,20 @@ Registro de Transacciones:
 <div id='4.6'><h4> 4.6. Domain-Driven Software Architecture</h4></div>
 - Es un enfoque para el diseño de software que se centra en comprender y modelar el núcleo del dominio de una aplicación. 
 
+
 <div id='4.6.1'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/SystemContext.png)
+
 <div id='4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Container_saifu.png)
+
+
 <div id='4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
+
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/a628c666b9c080ea8a5c1689e19cb4e223f84b57/assets/SaifuComponent.png)
 
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
