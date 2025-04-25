@@ -1601,7 +1601,7 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
             <td>Diseñar la aplicación</td>
             <td>Implementación de about-us y homepage</td>
             <td>1</td>
-            <td>----------</td>
+            <td>Padilla Advincula,Paolo Sebastian</td>
             <td>Done</td>
         </tr>
     </table>
@@ -1640,7 +1640,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
         <li>Rivera Ayala, Gabriel Alejandro </li>
         <li>Cisneros Salas,Luis Angel</li>
         <li>Rodriguez Zuluoeta, Andres Fernando</li>
-        <li>-------------</li>
+        <li>Padilla Advincula,Paolo Sebastian</li>
       </ul>
     </td>
   </tr>
@@ -1703,7 +1703,7 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
                 <td>Implementar llamada a la acción</td>
                 <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
                 <td>2</td>
-                <td>------------------ </td>
+                <td>Padilla Advincula,Paolo Sebastian</td>
               <td>To-Do</td>
           </tr>
           <tr>
@@ -1711,7 +1711,7 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
                 <td>Implementacion de participantes</td>
                 <td>Agregar una seccion de los participantes en el landing</td>
                 <td>2</td>
-                <td>------------------ </td>
+                <td>Rodriguez Zuluoeta, Andres Fernando </td>
               <td>To-Do</td>
           </tr>
       </tbody>
