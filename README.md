@@ -1276,7 +1276,25 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
 <div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5>
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
+# Sprint 3 Report - Ahorrarte
+l objetivo del Sprint es realizar correcciones en el front-end para facilitar la implementación del back-end. También se iniciará el desarrollo del back-end y se asegurará que los endpoints funcionen y sean visibles en Swagger. La velocidad del Sprint se estima en una semana, con un total de 20 puntos de historia.
+
 <div id='5.2.3.1.'><h5>5.2.3.1. Sprint Planning 3</h5></div>
+
+| **Sprint #**              | 3                                                                 |
+|---------------------------|-------------------------------------------------------------------|
+| **Date**                  | 2025-04-20                                                       |
+| **Time**                  | 10:00 PM                                                         |
+| **Location**              | Reunión virtual por Meet                                         |
+| **Prepared By**           | Rivera Ayala, Gabriel Alejandro                                  |
+| **Attendees**             | Reyes Menacho, Camila Asuncion<br>Cisneros Salas, Luis Angel<br>Padilla Advincula, Paolo Sebastian<br>Rodriguez Zuluoeta, Andres Fernando |
+| **Sprint Review Summary** | Se desplegó la Landing Page y se comenzó el desarrollo del Front-End de la aplicación. |
+| **Retrospective Summary** | Se propuso agregar cambio de idioma en la Landing Page y ajustes menores en el front-end. Se inició el desarrollo del back-end en Java priorizando funcionalidades clave. |
+| **Sprint Goal**          | Realizar correcciones en el front-end para facilitar la integración con el back-end. Desarrollar endpoints funcionales visibles en Swagger. |
+| **Sprint Velocity**      | 1 semana                                                        |
+| **Story Points**         | 20                                                              |
+
+
 <div id='5.2.3.2.'><h5>5.2.3.2. Sprint Backlog 3</h5></div>
 <div id='5.2.3.3.'><h5>5.2.3.3. Development Evidence for Sprint Review</h5></div>
 <div id='5.2.3.4.'><h5>5.2.3.4. Testing Suite Evidence for Sprint Review</h5></div>
