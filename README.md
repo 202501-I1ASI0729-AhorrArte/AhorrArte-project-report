@@ -87,7 +87,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 
 **TB1**
 
-**Imagen de reporte github**
+ ![](./assets/commits-branchs.jpg)
 
 ## Contenido
 1. [**Capítulo I: Introducción.**](#1.) <br>
