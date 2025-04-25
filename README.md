@@ -805,6 +805,19 @@ Registro de Datos:
 Registro de Transacciones:
 ![Registro de transacciones- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Registro%20de%20transacciones-%20wireframeW.png?raw=true)
 
+##### Web Application para Mobile Web Browser
+
+![PhoneWireframe 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(1).png?raw=true)
+
+![PhoneWireframe 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(2).png?raw=true)
+
+![PhoneWireframe 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(3).png?raw=true)
+
+![PhoneWireframe 4](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(4).png?raw=true)
+
+![PhoneWireframe 5](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(5).png?raw=true)
+
+![PhoneWireframe 6](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(6).png?raw=true)
 
 
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireframes Diagrams.</h4></div>
