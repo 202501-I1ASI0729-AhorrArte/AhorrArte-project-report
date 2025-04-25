@@ -693,6 +693,13 @@ Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas
 <table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
+
+Jefe de Hogar del sector ecómico D o E:
+![EMS1](assets/EM-S1.png)
+
+Joven de 18 a 24 años en inicios de independencia:
+![EMS1](assets/EM-S2.png)
+
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 <div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
 
