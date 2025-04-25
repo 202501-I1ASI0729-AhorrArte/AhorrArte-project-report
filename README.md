@@ -1091,6 +1091,75 @@ El wireframe de la vista desktop web browser de la landing page resultó de util
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
 
 <div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes</h4></div>
+
+Enlace para acceder al [Figma](https://www.figma.com/design/3nwEilm7eb90q706qCrjEj/WIREFRAMES_MOCKUPS----AHORRARTE?node-id=272-2412&t=EvwOrDl4KsWm2dAR-0)
+
+##### Web Application para Desktop Web Browser
+
+Crear Cuenta:
+![Crear cuenta - wireframeW](https://raw.githubusercontent.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/refs/heads/develop/assets/wireframes/Crear%20cuenta%20-%20wireframeW.png)
+
+Eliminar perfil:
+![Eliminar perfil- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Eliminar%20perfil-%20wireframeW.png?raw=true)
+
+Iniciar sesión:
+![Iniciar sesión - wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Iniciar%20sesi%C3%B3n%20-%20wireframeW.png?raw=true)
+
+Pasarela de pagos:
+![Pasarela de pagos - wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Pasarela%20de%20pagos%20-%20wireframeW.png?raw=true)
+
+![Pasarela de pagos- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Pasarela%20de%20pagos-%20wireframeW.png?raw=true)
+
+Planes de Suscripción:
+![Planes de Subscripción- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Planes%20de%20Subscripci%C3%B3n-%20wireframeW.png?raw=true)
+
+Edición de Perfil:
+![Edición perfil- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Edici%C3%B3n%20perfil-%20wireframeW.png?raw=true)
+
+Mi Perfil:
+![Mi perfil- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Mi%20perfil-%20wireframeW.png?raw=true)
+
+Página principal:
+![Pagina principal- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Pagina%20principal-%20wireframeW.png?raw=true)
+
+
+
+Búsqueda de temas financieros:
+![Busqueda de temas financieros- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Busqueda%20de%20temas%20financieros-%20wireframeW.png?raw=true)
+
+Desafíos Financieros:
+![Desafíos Financieros- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Desaf%C3%ADos%20Financieros-%20wireframeW.png?raw=true)
+
+Elección de un tema financiero:
+![Elección de un tema financiero- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Elecci%C3%B3n%20de%20un%20tema%20financiero-%20wireframeW.png?raw=true)
+
+Agregar transacción:
+![Agregar transacción- wireframeW](https://github.com/user-attachments/assets/cb0e7e34-9919-40ef-9439-deea67295998)
+
+Educación Financiera:
+![Educación Financiera- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Agregar%20transacci%C3%B3n-%20wireframeW.png?raw=true)
+
+Registro de Datos:
+![Registro de datos- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Registro%20de%20datos-%20wireframeW.png?raw=true)
+
+Registro de Transacciones:
+![Registro de transacciones- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Registro%20de%20transacciones-%20wireframeW.png?raw=true)
+
+##### Web Application para Mobile Web Browser
+
+![PhoneWireframe 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(1).png?raw=true)
+
+![PhoneWireframe 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(2).png?raw=true)
+
+![PhoneWireframe 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(3).png?raw=true)
+
+![PhoneWireframe 4](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(4).png?raw=true)
+
+![PhoneWireframe 5](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(5).png?raw=true)
+
+![PhoneWireframe 6](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(6).png?raw=true)
+
+
 <div id='4.4.2.'><h4> 4.4.2. Web Applications Wireframes Diagrams.</h4></div>
 
 
