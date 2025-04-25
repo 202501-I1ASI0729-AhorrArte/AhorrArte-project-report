@@ -1701,6 +1701,56 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
         </tr>
     </table>
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
+
+Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
+
+<table>
+  
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Date</td>
+    <td>22/8/2024</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Time</td>
+    <td>05:00 P.M</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Point</td>
+    <td>Reunión por Google Meet</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Prepared By</td>
+    <td>Cisneros Salas Luis Angel</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Assistants</td>
+    <td>
+      <ul>
+        <li>Rivera Ayala, Gabriel Alejandro</li>
+        <li>Reyes Menacho, Camila Asuncion</li>
+        <li>Cisneros Salas,Luis Angel</li>
+        <li>Rodriguez Zuluoeta, Andres Fernando</li>
+        <li>Padilla Advincula,Paolo Sebastian</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Goal</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre AhorrArte a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Sprint n Velocity</td>
+    <td>10 días</td>
+  </tr>
+</table>
+
+
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 ### Evidencia Deployment:
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
