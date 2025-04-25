@@ -1160,10 +1160,98 @@ Registro de Transacciones:
 ![PhoneWireframe 6](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(6).png?raw=true)
 
 
-<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireframes Diagrams.</h4></div>
-
-
 <div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
+
+Enlace para acceder al [Figma](https://www.figma.com/design/3nwEilm7eb90q706qCrjEj/WIREFRAMES_MOCKUPS----AHORRARTE?node-id=272-2412&t=EvwOrDl4KsWm2dAR-0)
+
+Crear Cuenta:
+
+![Crear cuenta](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Crear%20cuentamock%20up-1.png?raw=true)<br>
+
+Eliminar perfil:
+
+![Eliminar perfil](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Eliminar%20perfilmock%20up-1.png?raw=true)<br>
+
+
+Iniciar sesión:
+
+![Iniciar sesión](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Iniciar%20sesi%C3%B3nmock%20up-1.png?raw=true)<br>
+
+
+Pasarela de pagos:
+
+![Pasarela de pagos](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Pasarela%20de%20pagosmock%20up-2.png?raw=true)<br>
+
+
+![Pasarela de pagos-1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Pasarela%20de%20pagosmock%20up-3.png?raw=true)<br>
+
+Planes de Suscripción:
+
+![Planes de Subscripción](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Planes%20de%20Subscripci%C3%B3nmock%20up-1.png?raw=true)<br>
+
+
+Edición de Perfil:
+
+![Edición perfil](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Edici%C3%B3n%20perfilmock%20up-1.png?raw=true)<br>
+
+
+Mi Perfil:
+
+![Mi perfil](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Mi%20perfilmock%20up-1.png?raw=true)<br>
+
+
+Página principal:<br>
+
+![Pagina principal](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Pagina%20principalmock%20up-2.png?raw=true)<br>
+
+
+![Pagina principal-3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Pagina%20principalmock%20up-3.png?raw=true)<br>
+
+Búsqueda de temas financieros:
+
+![Busqueda de temas financieros](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Busqueda%20de%20temas%20financierosmock%20up-1.png?raw=true)<br>
+
+Desafíos Financieros:
+
+![Desafíos Financieros](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Desaf%C3%ADos%20Financierosmock%20up-1.png?raw=true)<br>
+
+Elección de un tema financiero:
+
+
+![Elección de un tema financiero](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Elecci%C3%B3n%20de%20un%20tema%20financieromock%20up-1.png?raw=true)<br>
+
+Agregar transacción:
+
+![Agregar transacción](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Agregar%20transacci%C3%B3nmock%20up-1.png?raw=true)<br>
+
+Educación Financiera:
+
+![Educación Financiera](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Educaci%C3%B3n%20Financieramock%20up-1.png?raw=true)<br>
+
+Registro de Datos:
+
+![Registro de datos](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Registro%20de%20datosmock%20up-1.png?raw=true)<br>
+
+Registro de Transacciones:
+
+![Registro de transacciones](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/mock%20up/Registro%20de%20transaccionesmock%20up-1.png?raw=true)<br>
+
+##### Web Application para Mobile Web Browser
+
+![PhoneMockUp 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(1).png?raw=true)
+
+![PhoneMockUp 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(2).png?raw=true)
+
+![PhoneMockUp 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(3).png?raw=true)
+
+![PhoneMockUp 4](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(4).png?raw=true)
+
+![PhoneMockUp 5](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(5).png?raw=true)
+
+![PhoneMockUp 6](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(6).png?raw=true)
+
+![PhoneMockUp 7](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(7).png?raw=true)
+
 
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
@@ -1174,9 +1262,20 @@ Registro de Transacciones:
 <div id='4.6'><h4> 4.6. Domain-Driven Software Architecture</h4></div>
 - Es un enfoque para el diseño de software que se centra en comprender y modelar el núcleo del dominio de una aplicación. 
 
+
 <div id='4.6.1'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/SystemContext.png)
+
 <div id='4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Container_saifu.png)
+
+
 <div id='4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
+
+
+![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/a628c666b9c080ea8a5c1689e19cb4e223f84b57/assets/SaifuComponent.png)
 
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
