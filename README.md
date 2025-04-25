@@ -36,8 +36,8 @@ Ciclo 2025-01
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de la modificación**|
 | - | - | - | - |
-|TB1||<p>Cisneros Salas,Luis Angel</p>|<p>**Se realizaron los Capítulo I: Introducción** </p><p>Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas</p><p>**Capítulo II: Requirements Elicitation & Analysis**</p><p>Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas</p><p>**Capítulo III: Requirements Specification**</p><p>Elaboración de user stories, product backlog</p><p>Elaboración de user personas, impact mapping, as-is y to-be</p><p>**Capítulo IV: Product Design**</p><p>Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes</p><p>Elaboración de prototipos de wireframes y mockups</p><p>Redacción de style guidelines e information architecture</p><p>**Capítulo V: Product Implementation, Validation & Deployment**</p><p>Registro de evidencias y entrega del TB1</p>|
-|TB2||<p>Padilla Advincula, Paolo Sebastian</p>|<p>**Capítulo I: Introducción**</p><p>Desarrollo del Lean UX Canvas con definición de hipótesis, supuestos y problem statements. Análisis y caracterización de segmentos objetivo con enfoque en comportamiento digital.</p><p>**Capítulo II: Requirements Elicitation & Analysis**</p><p>Elaboración de artefactos UX como User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, utilizando herramientas como UXPressia y Lucidchart.</p><p>**Capítulo III: Requirements Specification**</p><p>Redacción del Product Backlog con user stories priorizadas y estimadas, incluyendo su redacción con criterios de aceptación en formato Gherkin.</p><p>**Capítulo IV: Product Design**</p><p>Diseño orientado a objetos con diagramas de clases y diccionario de clases. Diseño de base de datos con su respectivo diagrama estructurado. Aplicación de principios de diseño modular y organización por bounded contexts.</p><p>**Capítulo V: Product Implementation, Validation & Deployment**</p><p>Elaboración del guion, grabación y edición del Video About-the-Product, integrando testimonios y explicación funcional del producto. Coordinación de narrativa alineada con la propuesta de valor y el diseño UX/UI.</p>|
+|TB1||<p>Cisneros Salas,Luis Angel</p><p>Padilla Advincula, Paolo Sebastian</p>|<p>**Se realizaron los Capítulo I: Introducción** </p><p>Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas</p><p>**Capítulo II: Requirements Elicitation & Analysis**</p><p>Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas</p><p>**Capítulo III: Requirements Specification**</p><p>Elaboración de user stories, product backlog</p><p>Elaboración de user personas, impact mapping, as-is y to-be</p><p>**Capítulo IV: Product Design**</p><p>Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes</p><p>Elaboración de prototipos de wireframes y mockups</p><p>Redacción de style guidelines e information architecture</p><p>**Capítulo V: Product Implementation, Validation & Deployment**</p><p>Registro de evidencias y entrega del TB1</p>|
+|TB2|||<p>**Capítulo I: Introducción**</p><p>Desarrollo del Lean UX Canvas con definición de hipótesis, supuestos y problem statements. Análisis y caracterización de segmentos objetivo con enfoque en comportamiento digital.</p><p>**Capítulo II: Requirements Elicitation & Analysis**</p><p>Elaboración de artefactos UX como User Journey Mapping, Empathy Mapping y As-Is Scenario Mapping, utilizando herramientas como UXPressia y Lucidchart.</p><p>**Capítulo III: Requirements Specification**</p><p>Redacción del Product Backlog con user stories priorizadas y estimadas, incluyendo su redacción con criterios de aceptación en formato Gherkin.</p><p>**Capítulo IV: Product Design**</p><p>Diseño orientado a objetos con diagramas de clases y diccionario de clases. Diseño de base de datos con su respectivo diagrama estructurado. Aplicación de principios de diseño modular y organización por bounded contexts.</p><p>**Capítulo V: Product Implementation, Validation & Deployment**</p><p>Elaboración del guion, grabación y edición del Video About-the-Product, integrando testimonios y explicación funcional del producto. Coordinación de narrativa alineada con la propuesta de valor y el diseño UX/UI.</p>|
 
 
 |TP|----|----|----|
@@ -53,12 +53,11 @@ Enlace de la organización para el reporte del proyecto:
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
 | Integrante                |Tareas Asignadas|
-|---------------------------|-|
-| ----                      |----|
-| Paolo Sebastian Padilla Advincula|----|
-| Camila Asuncion Reyes Menacho          |-----|
-| Luis Angel Cisneros Salas |----|
-| Rodriguez Zuluoeta, Andres Fernando |----|
+|Rivera Ayala, Gabriel Alejandro|Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog|
+| Paolo Sebastian Padilla Advincula|Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
+| Camila Asuncion Reyes Menacho          |Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+| Luis Angel Cisneros Salas |Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
+| Rodriguez Zuluoeta, Andres Fernando |Competidores,Análisis competitivo,Estrategias y tácticas frente a competidores,Entrevistas,Diseño de entrevistas.|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
 
@@ -1611,57 +1610,6 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
         </tr>
     </table>
 
-<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
-
-
-Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
-
-<table>
-  
-  <tr>
-    <th colspan="2" style="text-align: center;">Sprint Planning</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Date</td>
-    <td>19/4/2025</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Time</td>
-    <td>05:00 P.M</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Point</td>
-    <td>Reunión por Google Meet</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Prepared By</td>
-    <td>Luis Angel Cisneros Salas</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Assistants</td>
-    <td>
-      <ul>
-        <li>Reyes Menacho, Camila Asunción</li>
-        <li>Rivera Ayala, Gabriel Alejandro </li>
-        <li>Cisneros Salas,Luis Angel</li>
-        <li>Rodriguez Zuluoeta, Andres Fernando</li>
-        <li>Padilla Advincula,Paolo Sebastian</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <th colspan="2" style="text-align: center;">Sprint Goal</th>
-  </tr>
-  <tr>
-    <td colspan="2" style="text-align: center;">Implementar una landing page sobre AhorrArte a su vez completando el informe de acuerdo a lo que se nos solicita</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Sprint n Velocity</td>
-    <td>10 días</td>
-  </tr>
-</table>
-
-
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
 
@@ -1806,8 +1754,8 @@ Enlace para acceder a la landing page: [AhorrArte Landing Page](https://202501-i
 |Reyes Menacho, Camila Asunción|Implementación de la sección footer y Plans|
 |Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
 |Rivera Ayala, Gabriel Alejandro|Implementación de la sección contact-us|
-|------------------------|Implementación de la sección features|
-|-------------------|Implementación de la sección header,about-us y homepage|
+|Padilla Advincula,Paolo Sebastian|Implementación de la sección features|
+|Rodriguez Zuluoeta, Andres Fernando|Implementación de la sección header,about-us y homepage|
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -1887,7 +1835,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
   </tr>
   <tr>
     <td style="text-align: center;">Date</td>
-    <td>22/8/2024</td>
+    <td>19/4/2025</td>
   </tr>
   <tr>
     <td style="text-align: center;">Time</td>
@@ -1927,6 +1875,71 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
 
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+
+
+En el primer sprint backlog, el equipo tuvo la intención de comenzar y completar la landing page. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembtros segun sus diferentes habilidades. el objetivo principal del sprint era construir en su totalidad la landing page, logrando que sea atractiva y funcional. Sin embargo, por temas de tiempo y bugs se retrasó el proceso de creación llevándolo a tener en su mayoria el aspecto visual de la landing page.
+
+<table>
+        <thead>
+            <tr>
+                <th>US ID</th>
+                <th>US Title</th>
+                <th>Description</th>
+                <th>Estimation (Hours)</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> 01 </td>
+                <td>Diseñar layout de la landing page</td>
+                <td>Crear un diseño inicial para la página de inicio del sitio web de alquiler de autos</td>
+                <td>4</td>
+                <td>Reyes Menacho, Camila Asunción</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 02 </td>
+                <td>Crear sección de navegación</td>
+                <td>Implementar una barra de navegación para facilitar la exploración de la landing page</td>
+                <td>3</td>
+                <td>Rivera Ayala, Gabriel Alejandro</td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 03 </td>
+                <td>Agregar imágenes y contenido</td>
+                <td>Incluir imágenes y texto relevante para mejorar la apariencia de la landing page</td>
+                <td>5</td>
+                <td>Cisneros Salas,Luis Angel </td>
+                <td>To-Do</td>
+            </tr>
+            <tr>
+                <td> 04 </td>
+                <td>Implementar llamada a la acción</td>
+                <td>Agregar un botón o enlace que invite a los usuarios a realizar una acción específica como redirigir al usuario a la aplicación web</td>
+                <td>2</td>
+                <td>Padilla Advincula,Paolo Sebastian</td>
+              <td>To-Do</td>
+          </tr>
+          <tr>
+                <td> 04 </td>
+                <td>Implementacion de participantes</td>
+                <td>Agregar una seccion de los participantes en el landing</td>
+                <td>2</td>
+                <td>Rodriguez Zuluoeta, Andres Fernando </td>
+              <td>To-Do</td>
+          </tr>
+      </tbody>
+  </table>
+
+![Github_pages](assets/trelloahorrarte.jpg)
+
+Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
+
+
+
 ### Evidencia Deployment:
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
@@ -2032,3 +2045,5 @@ Repositorio de la Landing Page: https://github.com/202501-I1ASI0729-AhorrArte/Ah
 Repositorio del Informe: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report
 
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
+
+trello:https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
