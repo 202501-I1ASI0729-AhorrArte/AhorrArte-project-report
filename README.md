@@ -1682,20 +1682,20 @@ Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f3
 
 |Repository|Branch| Commit ID |
 |----|----|----|
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Development Evidence for Sprint Review |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Sprint Planning 1 |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add Sprint Backlog 1 |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Spring Planning 1 |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add Sprint Planning 1 |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Project Report.md |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update README.md |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Project Report.md |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add Architecture Component Diagram |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Add files via upload |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Domain Driven Software Architecture |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Update Content Diagrams |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Merge branch 'main' of https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report |
-|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | --------------------------------- | Merge pull request #3 from 202501-I1ASI0729-AhorrArte/develop |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 938ec2ab8b719494918f33db808b87f081d8932e | Update Development Evidence for Sprint Review |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | bfc224c5752138125cdb029e85f5eaf0937888db | Update Sprint Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | bf79a6da933d5efdf5d1abebb1c15d8f3c0ebc50 | Add Sprint Backlog 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 13a2b96069809d951eebbc54786a2a0467344aa1 | Update Spring Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 1880a5026ff8ec07571421ed3c12ebf0e0d58f4d | Add Sprint Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | c0c2c982bacf2d9d118572cfbdf60e83f9996410 | Update Project Report.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 15bac2e07efccee45175759974ef026f4642bb47 | Update README.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 54669b8d2a1660d4437df0643daa9d89a5a0f38c | Update Project Report.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 38b25e959cc552d6001136786dd08bab4ae5e660 | Add Architecture Component Diagram |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 54669b8d2a1660d4437df0643daa9d89a5a0f38c | Add files via upload |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | d02ca87def8e69dfe73da4b4a06a0bec426bb9e5 | Update Domain Driven Software Architecture |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 5d81524d2fdd36df015ac328aef521d3a1375799 | Update Content Diagrams |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 7202497e25e7b1ebd4293533deb00752e4efc115 | Merge branch 'main' of https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 5b8f842acbcfeed1b1c317c14ae239475c5af0b8 | Merge pull request #3 from 202501-I1ASI0729-AhorrArte/develop |
 
 ![Deployment Backend Evidence](assets/DeploymentEvidenceBackend.JPG)
 
