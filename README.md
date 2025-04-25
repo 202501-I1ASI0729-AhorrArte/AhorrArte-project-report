@@ -2048,3 +2048,5 @@ Repositorio del Informe: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
 
 trello:https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
+
+Landing Page: https://202501-i1asi0729-ahorrarte.github.io/AhorrArte-LandingPage/
