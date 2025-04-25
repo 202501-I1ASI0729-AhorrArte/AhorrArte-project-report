@@ -81,7 +81,7 @@ Se explican las ramas más prominentes:
 
 **develop:** Representada por el color azul, es la rama principal para el desarrollo continuo del proyecto.
 
-**Imagen de branchs**
+![](./assets/branchs.jpg)
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
 
