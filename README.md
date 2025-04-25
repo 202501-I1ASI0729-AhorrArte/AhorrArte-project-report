@@ -430,20 +430,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 
 <html>
 <head>
-    <title>Tabla HTML</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            text-align: left;
-            padding: 10px 25px 8px 25px;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
 </head>
 
 <body>
