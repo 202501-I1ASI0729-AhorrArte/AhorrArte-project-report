@@ -116,6 +116,7 @@ Los siguientes gráficos representan analíticos de commits en el repositorio de
 2.3.3. [User Journey Mapping.](#2.3.3.)<br>
 2.3.4. [Empathy Mapping.](#2.3.4.)<br>
 2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
+2.4. [Ubiquitous Language.](#2.4.)<br>
 3. [**Capítulo III: Requirements Specification.**](#3.)<br>
 3.1. [To-Be Scenario Mapping.](#3.1.)<br>
 3.2. [User Stories.](#3.2.)<br>
@@ -749,7 +750,26 @@ Por último, organizamos las ideas realizadas anteriormente y los colocamos en s
 ![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is2_jovenes.jpg)
 
 
-**2.4 Ubiquitous Language**
+<div id='2.4.'><h4> 2.4 Ubiquitous Language.</h4></div>
+
+- Presupuesto Familiar: Plan financiero que detalla los ingresos y gastos esperados de una familia.  El presupuesto familiar es personalizado con base en los datos financieros ingresados 
+
+- Consumo Responsable: Gastar dinero de manera consciente y equilibrada, teniendo en cuenta las proyecciones económicas y el presupuesto personal para evitar gastos innecesarios y promover el ahorro.
+
+- Consejo Financiero: Conjunto de conocimientos y habilidades que permiten a las usuarios tomar decisiones informadas sobre su dinero, incluyendo la gestión de presupuestos, ahorro, y planificación financiera.
+
+- Alertas y Recomendaciones: Notificaciones enviadas por la aplicación "AhorrArte" que informan a los usuarios sobre cambios en las proyecciones macroeconómicas y ofrecen consejos para ajustar su presupuesto y mejorar su gestión financiera.
+
+- Transacciones de Compra: Registros detallados de las compras realizadas por los usuarios, que se utilizan para analizar el gasto y proporcionar recomendaciones financieras.
+
+- Seguridad y Privacidad: Medidas implementadas en "AhorrArte" para proteger los datos personales y financieros de los usuarios, garantizando que la información esté segura y que el uso de la misma cumpla con las normativas de privacidad.
+
+- Registro de Gastos: Función de "AhorrArte" que permite a los usuarios ingresar y categorizar sus gastos diarios para facilitar el seguimiento y la gestión de su presupuesto.
+
+- Recomendaciones Personalizadas: Sugerencias específicas generadas por "AhorrArte" basadas en el análisis de los datos de gastos y las proyecciones económicas, con el objetivo de ayudar a los usuarios a optimizar su gestión financiera.
+
+- Interfaz de Usuario: Diseño y disposición de elementos visuales en la aplicación "AhorrArte" que permiten a los usuarios interactuar de manera intuitiva con el sistema, tanto en la versión web como en la móvil.
+
 
 <div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
 
