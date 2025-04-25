@@ -665,7 +665,7 @@ ___
 |-|-|
 |Edad|19 años|
 |Distrito|San miguel|
-|Screenshot|![](https://github.com/LuisCS341/ImagenProyecto/raw/main/EntrevistaOpenSource.png)|
+|Screenshot|![](assets/entrevista3.jpg)|
 |Timing: 0:00-6:06 |URL: https://drive.google.com/file/d/1zNKLesPzfrVsRJ03IVC2Uu_OM287sfS1/view?usp=sharing|
 
 <div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
