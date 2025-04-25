@@ -871,15 +871,15 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 
 **Jefes de hogar de los sectores económicos D y E**
 
-![foto_impact1](./assets/Impact%20map-Saifu_jefedehogar.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impact%20map-Saifu_jefedehogar.png
+![foto_impact1](./assets/Impact%20map-Saifu_jefedehogar.png) 
 
-![foto_impact2](./assets/Impactmap-Saifu_jefedehogar.png ) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impactmap-Saifu_jefedehogar.png
+![foto_impact2](./assets/Impactmap-Saifu_jefedehogar.png )
 
 **Jóvenes adultos recién independientes**
 
-![foto_impact1](./assets/Impact%20map-Saifu_jovenes.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impact%20map-Saifu_jovenes.png
+![foto_impact1](./assets/Impact%20map-Saifu_jovenes.png)
 
-![foto_impact2](./assets/Impactmap-Saifu_jovenes.png) https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/61b6597e24e85a8e0dabffd4460e6af6b9118bae/assets/Impactmap-Saifu_jovenes.png
+![foto_impact2](./assets/Impactmap-Saifu_jovenes.png) 
 
 <div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
 
