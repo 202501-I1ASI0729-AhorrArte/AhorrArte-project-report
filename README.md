@@ -224,9 +224,11 @@ Como visión nos proyectamos a ver el resultado de la aplicación beneficiando e
 
 ##### Logotipo de la Startup:
 
+![](./assets/logo-startup.png){:width="150px"}
+
 ##### Logotipo del servicio:
 
-![](./assets/logo-ahorrarte.png)
+![](./assets/logo-ahorrarte.png){:width="150px"}
 
 <div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
 
