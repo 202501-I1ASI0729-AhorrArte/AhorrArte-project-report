@@ -1148,18 +1148,11 @@ Registro de Transacciones:
 
 ##### Web Application para Mobile Web Browser
 
-![PhoneWireframe 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(1).png?raw=true)
+![PhoneWireframe 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Mobile%20Web%20Browser%20-%20Wireframe1.png)
 
-![PhoneWireframe 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(2).png?raw=true)
+![PhoneWireframe 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Mobile%20Web%20Browser%20-%20Wireframe2.png)
 
-![PhoneWireframe 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(3).png?raw=true)
-
-![PhoneWireframe 4](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(4).png?raw=true)
-
-![PhoneWireframe 5](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(5).png?raw=true)
-
-![PhoneWireframe 6](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneWireframe/PhoneWireframe%20(6).png?raw=true)
-
+![PhoneWireframe 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Mobile%20Web%20Browser%20-%20Wireframe3.png)
 
 <div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
 
