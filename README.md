@@ -1232,20 +1232,11 @@ Registro de Transacciones:
 
 ##### Web Application para Mobile Web Browser
 
-![PhoneMockUp 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(1).png?raw=true)
+![PhoneMockUp 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/PhoneMockup/Mobile%20Web%20Browser%20-%20MockUp1.png)
 
-![PhoneMockUp 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(2).png?raw=true)
+![PhoneMockUp 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/PhoneMockup/Mobile%20Web%20Browser%20-%20MockUp2.png)
 
-![PhoneMockUp 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(3).png?raw=true)
-
-![PhoneMockUp 4](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(4).png?raw=true)
-
-![PhoneMockUp 5](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(5).png?raw=true)
-
-![PhoneMockUp 6](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(6).png?raw=true)
-
-![PhoneMockUp 7](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/PhoneMockup/PhoneMockUp%20(7).png?raw=true)
-
+![PhoneMockUp 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/PhoneMockup/Mobile%20Web%20Browser%20-%20MockUp3.png)
 
 <div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
