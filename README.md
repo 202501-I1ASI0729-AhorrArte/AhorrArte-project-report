@@ -1929,13 +1929,280 @@ Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f3
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
+- A continuacion se presenta el sprint 2 para la implementacion del frontend
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos.
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>2</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2025-05-05</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">03:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión por google meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Cisneros Salas Luis Angel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro<br>Reyes Menacho, Camila Asuncion<br>Cisneros Salas,Luis Angel<br>Rodriguez Zuluoeta, Andres Fernando<br>Padilla Advincula,Paolo Sebastian</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">Se desplegó la Landing Page y se empezó la planificación del Front-End de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">Se implemento la Landing Page y se Inició el proceso de la creación del Front-End de AhorrArte. Priorizamos la creación de los componentes que definen a la aplicación</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">7 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">7 días</td>
+  </tr>
+</table>
+
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+
+  <table>
+  <tr>
+      <td align="center"><strong>Sprint</strong></td>
+      <td colspan="7" align="center"><strong>2</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>User Story</strong></td>
+      <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Title</strong></td>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Title</strong></td>
+      <td align="center"><strong>Description</strong></td>
+      <td align="center"><strong>Estimation (Hours)</strong></td>
+      <td align="center"><strong>Assigned To</strong></td>
+      <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+    </tr>
+    <tr>
+      <td align="center">US-001</td>
+      <td align="center">Login User</td>
+      <td align="center">WI01</td>
+      <td align="center">Login (Jefes de hogar del nivel económico D y E) y Jóvenes en inicios de independencia</td>
+      <td align="center">Crear un login para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+      <td align="center">6</td>
+      <td align="center">Cisneros Salas,Luis Angel</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">US-002</td>
+      <td align="center">RegisterUser</td>
+      <td align="center">WI02</td>
+      <td align="center">Signup (Jefes de hogar del nivel económico D y E)</td>
+      <td align="center">Crear un registro para los Jefes de hogar del nivel económico D y E y Jóvenes en inicios de independencia</td>
+      <td align="center">4</td>
+      <td align="center">Cisneros Salas,Luis Angel</td>
+      <td align="center">Done</td>
+    </tr>
+    <tr>
+      <td align="center">US-010</td>
+      <td align="center">Gestion de Ingresos</td>
+      <td align="center">TS-007</td>
+      <td align="center">Mostrar Ejemplos de Gestión de Ingresos</td>
+      <td align="center">Agregar ejemplos prácticos de cómo la aplicación categoriza los ingresos y gastos del usuario para facilitar la gestión financiera.</td>
+      <td align="center">4</td>
+      <td align="center">Rivera Ayala, Gabriel Alejandro</td>
+      <td align="center">In-Process</td>
+    </tr>
+    <tr>
+      <td align="center">US-010</td>
+      <td align="center">Registro de Ingresos y Egresos</td>
+      <td align="center">TS-009</td>
+      <td align="center">Registro de Ingresos y Egresos</td>
+      <td align="center">Crear la pantalla dentro de la aplicación para que los usuarios registren sus ingresos y egresos mensuales.</td>
+      <td align="center">6</td>
+      <td align="center">Reyes Menacho, Camila Asuncion</td>
+      <td align="center">In-Process</td>
+    </tr>
+    <tr>
+      <td align="center">US12</td>
+      <td align="center">Visualización del Balance Mensual</td>
+      <td align="center">TS-010</td>
+      <td align="center">Visualización del Balance Mensual</td>
+      <td align="center">Implementar una sección que muestre el balance mensual con un resumen de ingresos, egresos y balance final.</td>
+      <td align="center">5</td>
+      <td align="center">Padilla Advincula,Paolo Sebastian</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-011</td>
+      <td align="center">Balance Económico Actualizado</td>
+      <td align="center">TS-011</td>
+      <td align="center">Visualización del Balance Actualizado</td>
+      <td align="center">Crear una pantalla que muestre el balance económico actualizado de forma gráfica, incluyendo alertas si los gastos superan los ingresos.</td>
+      <td align="center">5</td>
+      <td align="center">Padilla Advincula,Paolo Sebastian</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-013</td>
+      <td align="center">Alertas de Exceso de Egresos</td>
+      <td align="center">TS-012</td>
+      <td align="center">Configuración de Alertas de Exceso de Egresos</td>
+      <td align="center">Permitir que el usuario configure alertas para cuando sus egresos superen sus ingresos. Mostrará sugerencias de ajuste presupuestario al superar el umbral.</td>
+      <td align="center">4</td>
+      <td align="center">Rodriguez Zuluoeta, Andres Fernando</td>
+      <td align="center">To-do</td>
+    </tr>
+    <tr>
+      <td align="center">US-023</td>
+      <td align="center">Edición de Perfil</td>
+      <td align="center">TS-013</td>
+      <td align="center">Edición del Perfil de Usuario (API RESTful)</td>
+      <td align="center">Implementar endpoint PUT para editar el perfil del usuario, actualizando datos como nombre, dirección y teléfono. Devuelve status 200 o error 400.</td>
+      <td align="center">6</td>
+      <td align="center">Rivera Ayala, Gabriel Alejandro</td>
+      <td align="center">In-Process</td>
+    </tr>
+   <tr>
+    <td align="center">US00</td>
+    <td align="center">TS-00</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">13/05/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Creación página de perfil</td>
+    <td align="center">Creado el componente profile-owner & profile-tenants</td>
+    <td align="center">12/05/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Inclusión de toolbars</td>
+    <td align="center"></td>
+    <td align="center">12/05/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Merge pull request</td>
+    <td align="center">Merge pull request
+</td>
+    <td align="center">10/05/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Merge remote-tracking branch</td>
+    <td align="center"></td>
+  <td align="center">12/05/2025</td>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/iam</td>
+    <td align="center"></td>
+    <td align="center">Add Login component & signup</td>
+    <td align="center">Add Login component & signup</td>
+  <td align="center">11/05/2025</td>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center"></td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">10/05/2025</td>
+</table>
+
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review.</h5></div>
+En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
+
 <div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
+
+*Webstorm (IDE DE DESARROLLO):* Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+*Angular (Frameworks):* Utilizamos angular como Framework de trabajo.
+
+*JavaScript:* Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+
+*GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
+
+Primero creamos un proyecto en firebase y le asignamos un nombre.
+
+
+Una vez creado el proyecto nos dirigimos al apartado de hosting.
+
+
+Seguimos las instrucciones de firebase para desplegar la aplicación.
+
+
+Ahora nos autenticamos con nuestra cuenta de google e inicializamos el proyecto
+
+
+Finalmente lo implementamos con el comando "firebase deploy"
+
+
+Esta es la prueba en la consola del proyecto:
+
+
+Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: 
 <div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5>
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
 <div id='5.2.3.1.'><h5>5.2.3.1. Sprint Planning 3</h5></div>
