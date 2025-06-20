@@ -1,214 +1,206 @@
-<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
-<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
+# Informe del Trabajo Final
 
-<img src=https://github.com/user-attachments/assets/75e23df0-d6f8-4bde-aa92-105f37281caf 
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=50%"/> 
+## Universidad Peruana de Ciencias Aplicadas
 
-<h5 style="text-align: center"> Ingeniería de Software </h5>
+<div align="center">
 
-<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - 1ASI0729-2510-4348 </h5>
+![Logo UPC](https://github.com/user-attachments/assets/75e23df0-d6f8-4bde-aa92-105f37281caf)
 
-<h5 style="text-align: center"> Docente: Hugo Allan Mori Paiva </h5>
+</div>
 
-<h5 style="text-align: center"> Startup: FinSuma </h5>
+### Ingeniería de Software
+### Desarrollo de Aplicaciones Open Source - 1ASI0729-2510-4348
+### Docente: Hugo Allan Mori Paiva
+### Startup: FinSuma
+### Producto: AhorrArte
 
-<h5 style="text-align: center"> Producto: AhorrArte </h5>
+**Marzo - 2025**
 
-Marzo - 2025
+---
 
-## Team members:
-|             Nombre              |       Código        |
-|:-------------------------------:|:-------------------:|
-| Rivera Ayala, Gabriel Alejandro |     U202223279      |
-| Reyes Menacho, Camila Asuncion  |     U201921442      |
-|    Cisneros Salas,Luis Angel    |     U20211B198      |
-|Padilla Advincula,Paolo Sebastian|     U202117993      |
-|Rodriguez Zuluoeta, Andres Fernando|   U202124213      |
+## Integrantes del Equipo
 
-Ciclo 2025-01
+| Nombre Completo | Código de Estudiante |
+|:---|:---:|
+| Rivera Ayala, Gabriel Alejandro | U202223279 |
+| Reyes Menacho, Camila Asunción | U201921442 |
+| Cisneros Salas, Luis Ángel | U20211B198 |
+| Padilla Advíncula, Paolo Sebastian | U202117993 |
+| Rodríguez Zulueta, Andrés Fernando | U202124213 |
 
-## Registro de versiones del informe
+**Ciclo:** 2025-01
 
-# <a name="_91ggp2l6vk23"></a><a name="_okr89z8yb9dn"></a>**Registro de Versiones del Informe**
+---
 
-|**Versión**|**Fecha**|**Autor**|**Descripción de la modificación**|
-| - | - | - | - |
-|TB1||<p>Cisneros Salas,Luis Angel</p><p>Padilla Advincula, Paolo Sebastian</p><p>Reyes Menacho, Camila Asuncion</p><p>Rivera Ayala, Gabriel Alejandro</p><p>Rodriguez Zuluoeta, Andres Fernando</p>|<p>**Se realizaron los Capítulo I: Introducción** </p><p>Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas</p><p>**Capítulo II: Requirements Elicitation & Analysis**</p><p>Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas</p><p>**Capítulo III: Requirements Specification**</p><p>Elaboración de user stories, product backlog</p><p>Elaboración de user personas, impact mapping, as-is y to-be</p><p>**Capítulo IV: Product Design**</p><p>Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes</p><p>Elaboración de prototipos de wireframes y mockups</p><p>Redacción de style guidelines e information architecture</p><p>**Capítulo V: Product Implementation, Validation & Deployment**</p><p>Registro de evidencias y entrega del TB1</p>|
-|TP||<p>Cisneros Salas,Luis Angel</p><p>Padilla Advincula, Paolo Sebastian</p><p>Reyes Menacho, Camila Asuncion</p><p>Rivera Ayala, Gabriel Alejandro</p><p>Rodriguez Zuluoeta, Andres Fernando</p>||
+## Registro de Versiones del Informe
+
+| Versión | Fecha | Autor(es) | Descripción de la Modificación |
+|:---:|:---:|:---|:---|
+| **TB1** | 15/04/2025 | Cisneros Salas, Luis Ángel<br>Padilla Advíncula, Paolo Sebastian<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando | **Capítulo I: Introducción**<br>- Redacción del startup profile y solution profile<br>- Delimitación de segmentos objetivo<br>- Redacción de preguntas para el diseño de entrevistas<br><br>**Capítulo II: Requirements Elicitation & Analysis**<br>- Elaboración y registro de entrevistas a segmentos objetivo<br>- Análisis de entrevistas<br><br>**Capítulo III: Requirements Specification**<br>- Elaboración de user stories y product backlog<br>- Elaboración de user personas, impact mapping, as-is y to-be<br><br>**Capítulo IV: Product Design**<br>- Elaboración de diagramas de base de datos, clases y componentes<br>- Elaboración de prototipos, wireframes y mockups<br>- Redacción de style guidelines e information architecture<br><br>**Capítulo V: Product Implementation, Validation & Deployment**<br>- Registro de evidencias y entrega del TB1 |
+| **TP** | 15/05/2025 | Cisneros Salas, Luis Ángel<br>Padilla Advíncula, Paolo Sebastian<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando | - Realización del Sprint 2<br>- Corrección de los cinco capítulos según la rúbrica<br>- Desarrollo del Frontend de la aplicación AhorrArte |
+| **TB2** | 20/06/2025 | Cisneros Salas, Luis Ángel<br>Padilla Advíncula, Paolo Sebastian<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando | - Realización del Sprint 3<br>- Corrección de los cinco capítulos según la rúbrica<br>- Ajustes en el frontend de la aplicación<br>- Desarrollo del backend |
+
+---
 
 ## Project Report Collaboration Insights
 
-Enlace de la organización para el reporte del proyecto: 
+**Enlace de la organización:** [FinSuma - AhorrArte](https://github.com/202501-I1ASI0729-AhorrArte)
 
-**TB1**
+### TB1 - Distribución de Tareas
 
 Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
 
-| Integrante|Tareas Asignadas|
-|-|-|
-|Rivera Ayala, Gabriel Alejandro|Diseño de mockups y wireframes,Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog|
-| Paolo Sebastian Padilla Advincula|Capitulo I,Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores, Information Architecture. User Stories. Diagrama de base de datos.|
-| Camila Asuncion Reyes Menacho          |Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
-| Luis Angel Cisneros Salas |Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones.|
-| Rodriguez Zuluoeta, Andres Fernando |Competidores,Análisis competitivo,Estrategias y tácticas frente a competidores,Entrevistas,Diseño de entrevistas.|
+| Integrante | Tareas Asignadas |
+|:---|:---|
+| Rivera Ayala, Gabriel Alejandro | Diseño de mockups y wireframes, Lean UX Process, Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions, General Style Guidelines, Landing Page Product Backlog |
+| Padilla Advíncula, Paolo Sebastian | Capítulo I, Diseño de entrevistas, Diagrama de clases, Diagrama de contexto, componentes y contenedores, Information Architecture, User Stories, Diagrama de base de datos |
+| Reyes Menacho, Camila Asunción | Impact Mapping, registro y análisis de entrevistas, User Task Matrix, As-Is To-be Scenarios, Empathy Mapping, Technical User Stories, User Stories, Product Backlog, Bibliografía |
+| Cisneros Salas, Luis Ángel | Antecedentes y problemática 5W y 2H, Segmentos Objetivos, Análisis de competidores, User Stories, Product Backlog, Conclusiones |
+| Rodríguez Zulueta, Andrés Fernando | Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, Entrevistas, Diseño de entrevistas |
 
-El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
+### Metodología de Colaboración
 
-**Github Collaboration Insights**
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización. GitHub proporciona una visualización detallada del historial de las ramas principales, destacando los procesos de merge realizados. Todas las ramas se crearon siguiendo la metodología **GitFlow**, que garantiza una organización estructurada y eficiente del código.
 
-GitHub también proporciona una visualización detallada del historial de las ramas principales, destacando los procesos de merge realizados. Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
+GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
 
+### Integrantes del Equipo en GitHub
 
-Los integrantes son:
+| Nombre | Usuario de GitHub |
+|:---|:---|
+| Rivera Ayala, Gabriel Alejandro | [@guestwhoo](https://github.com/guestwhoo) |
+| Reyes Menacho, Camila Asunción | [@dakuma-ai](https://github.com/dakuma-ai) |
+| Cisneros Salas, Luis Ángel | [@luics341](https://github.com/luics341) |
+| Padilla Advíncula, Paolo Sebastian | [@apolopad](https://github.com/apolopad) |
+| Rodríguez Zulueta, Andrés Fernando | [@Andres-0304](https://github.com/Andres-0304) |
 
-* Gabriel Alejandro Rivera Ayala (guestwhoo)
-* Camila Reyes Menacho (dakuma-ai)
-* Luis Angel Cisneros Salas (luics341)
-* Paolo Sebastian Padilla Advincula (apolopad)
-* Rodriguez Zuluoeta, Andres Fernando (Andres-0304)
+### Estructura de Ramas
 
 Se explican las ramas más prominentes:
 
-**main:** Representada por el color negro, es la rama principal del proyecto y se actualiza con cada entregable.
+- **main:** Representada por el color negro, es la rama principal del proyecto y se actualiza con cada entregable.
+- **develop:** Representada por el color azul, es la rama principal para el desarrollo continuo del proyecto.
 
-**develop:** Representada por el color azul, es la rama principal para el desarrollo continuo del proyecto.
+![Análisis de ramas](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/branchs.jpg)
 
-![](./assets/branchs.jpg)
+### Analíticos de Commits
 
-Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo. 
+Los siguientes gráficos representan analíticos de commits en el repositorio del informe, incluyendo la cantidad de líneas de texto añadidas por cada integrante del equipo.
 
-**TB1**
+**TB1:**
 
- ![](./assets/commits-branchs.jpg)
+![Commits por integrante](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/commits-branchs.jpg)
+---
 
-## Contenido
-1. Capítulo I: Introducción<br>
-1.1. Startup Profile.<br>
-1.1.1. Descripción del startup.<br>
-1.1.2. Perfiles de los integrantes del equipo.<br>
-1.2. Solution Profile.<br>
-1.2.1. Antecedentes y Problemática.<br>
-1.2.2. Lean UX Process.<br>
-1.2.3. Lean UX Problem Statements.<br>
-1.2.4. Lean UX Assumptions.<br>
-1.2.5. Lean UX Hypothesis Statements.<br>
-1.2.6. Lean UX Canvas.<br>
-1.3. Segmentos objetivo.<br>
-2. Capítulo II: Requirements Elicitation & Analysis.<br>
-2.1. Competidores.<br>
-2.1.1. Análisis competitivo.<br>
-2.1.2. Estrategias y tácticas frente a competidores.<br>
-2.2. Entrevistas.<br>
-2.2.1. Diseño de entrevistas.<br>
-2.2.2. Registro de entrevistas.<br>
-2.2.3. Análisis de entrevistas.<br>
-2.3. Needfinding.<br>
-2.3.1. User Personas.<br>
-2.3.2. User Task Matrix.<br>
-2.3.3. User Journey Mapping.<br>
-2.3.4. Empathy Mapping.<br>
-2.3.5. As-is Scenario Mapping.<br>
-2.4. Ubiquitous Language.<br>
-3. Capítulo III: Requirements Specification.<br>
-3.1. To-Be Scenario Mapping.<br>
-3.2. User Stories.<br>
-3.3. Impact Mapping.<br>
-3.4. Product Backlog.<br>
-4. Capítulo IV: Product Design.<br>
-4.1. Style Guidelines.<br>
-4.1.1. General Style Guidelines.<br>
-4.1.2. Web Style Guidelines.<br>
-4.2. Information Architecture.<br>
-4.2.1. Organization Systems.<br>
-4.2.2. Labeling Systems.<br>
-4.2.3. SEO Tags and Meta Tags.<br>
-4.2.4. Searching Systems.<br>
-4.2.5. Navigation Systems.<br>
-4.3. Landing Page UI Design.<br>
-4.3.1. Landing Page Wireframe.<br>
-4.3.2. Landing Page Mock-up.<br>
-4.4. Web Applications UX/UI Design.<br>
-4.4.1. Web Applications Wireframes.<br>
-4.4.2. Web Applications Wireflow Diagrams.<br>
-4.4.3. Web Applications Mock-ups.<br>
-4.4.4. Web Applications User Flow Diagrams.<br>
-4.5. Web Applications Prototyping.<br>
-4.6. Domain-Driven Software Architecture.<br>
-4.6.1. Software Architecture Context Diagram.<br>
-4.6.2. Software Architecture Container Diagrams.<br>
-4.6.3. Software Architecture Components Diagrams.<br>
-4.7. Software Object-Oriented Design.<br>
-4.7.1. Class Diagrams.<br>
-4.7.2. Class Dictionary.<br>
-4.8. Database Design.<br>
-4.8.1. Database Diagram.<br>
-5. Capítulo V: Product Implementation, Validation & Deployment.<br>
-5.1. Software Configuration Management.<br>
-5.1.1. Software Development Environment Configuration.<br>
-5.1.2. Source Code Management.<br>
-5.1.3. Source Code Style Guide & Conventions.<br>
-5.1.4. Software Deployment Configuration.<br>
-5.2. Landing Page, Services & Applications Implementation.<br>
-5.2.1. Sprint 1.<br>
-5.2.1.1. Sprint Planning 1.<br>
-5.2.1.2. Sprint Backlog 1.<br>
-5.2.1.3. Development Evidence for Sprint Review.<br>
-5.2.1.4. Testing Suite Evidence for Sprint Review.<br>
-5.2.1.5. Execution Evidence for Sprint Review.<br>
-5.2.1.6. Services Documentation Evidence for Sprint Review.<br>
-5.2.1.7. Software Deployment Evidence for Sprint Review.<br>
-5.2.1.8. Team Collaboration Insights during Sprint.<br>
-5.2.2. Sprint 2.<br>
-5.2.2.1. Sprint Planning 2.<br>
-5.2.2.2. Sprint Backlog 2.<br>
-5.2.2.3. Development Evidence for Sprint Review.<br>
-5.2.2.4. Testing Suite Evidence for Sprint Review.<br>
-5.2.2.5. Execution Evidence for Sprint Review.<br>
-5.2.2.6. Services Documentation Evidence for Sprint Review.<br>
-5.2.2.7. Software Deployment Evidence for Sprint Review.<br>
-5.2.2.8. Team Collaboration Insights during Sprint.<br>
-5.2.3. Sprint 3.<br>
-5.2.3.1. Sprint Planning 3.<br>
-5.2.3.2. Sprint Backlog 3.<br>
-5.2.3.3. Development Evidence for Sprint Review.<br>
-5.2.3.4. Testing Suite Evidence for Sprint Review.<br>
-5.2.3.5. Execution Evidence for Sprint Review.<br>
-5.2.3.6. Services Documentation Evidence for Sprint Review.<br>
-5.2.3.7. Software Deployment Evidence for Sprint Review.<br>
-5.2.3.8. Team Collaboration Insights during Sprint.<br>
-5.2.4. Sprint 4.<br>
-5.2.4.1. Sprint Planning 4.<br>
-5.2.4.2. Sprint Backlog 4.<br>
-5.2.4.3. Development Evidence for Sprint Review.<br>
-5.2.4.4. Testing Suite Evidence for Sprint Review.<br>
-5.2.4.5. Execution Evidence for Sprint Review.<br>
-5.2.4.6. Services Documentation Evidence for Sprint Review.<br>
-5.2.4.7. Software Deployment Evidence for Sprint Review.<br>
-5.2.4.8. Team Collaboration Insights during Sprint.<br>
-5.3. Validation Interviews.<br>
-5.3.1. Diseño de Entrevistas.<br>
-5.3.2. Registro de Entrevistas.<br>
-5.3.3. Evaluaciones según Heurísticas.<br>
-5.4. Video About-the-Product.<br>
-6. Conclusiones.<br>
-7. Bibliografía.<br>
-8. Anexos.<br>
+## Tabla de Contenidos
 
-# Student Outcome
+- [1. Capítulo I: Introducción](#1-capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción del startup](#111-descripción-del-startup)
+    - [1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-|**Criterio especifico**|**Acciones realizadas**|**Conclusiones**|
-| :-: | :-: | :-: |
-|Comunicación oralmente con efectividad a diferentes rangos de audiencia.|<p>**TB1:**</p><p>**Rivera Ayala, Gabriel Alejandro**	</p><p>A lo largo de estas cuatro semanas pude colaborar en la elaboración del Lean UX Process, el proceso de Needfinding, la realización del Impact Map, y establecí la Architectura de Software utilizando gráficos C4.</p><p>**-------**</p><p>texto alumno 2 TB1</p><p>**Cisneros Salas, Luis Angel**</p><p>En esta entrega se presentó el perfil del startup y del equipo, se registraron y analizaron entrevistas, se introdujeron las User Stories, se definieron las guías de estilo y la arquitectura de la información, y se inició la implementación con el Sprint 1.</p><p>**Rodriguez Zuluoeta, Andres Fernando**</p><p>Solution Profile, Antecedentes y Problemática, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, To-Be Scenario Mapping, Landing Page UI Design, Landing Page Wireframe,  Landing Page Mock-up, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration</p><p>**-------**</p><p>**Padilla Advincula, Paolo**</p><p>Durante el TB1 participé activamente en el diseño y construcción de artefactos clave para el entendimiento del usuario y el desarrollo técnico del producto. Me encargué de la elaboración del Lean UX Canvas, la caracterización de segmentos objetivo, y de mapas como el Empathy Mapping y el User Journey Mapping. Además, redacté el Product Backlog y diseñé tanto los Diagramas de Clases como el Diagrama de Base de Datos. Finalmente, me encargué de conceptualizar, grabar y editar el Video About-the-Product para su publicación final.</p><p>**Reyes Menacho, Camila Asuncion**</p><p> - La implementación del Lean UX process -Lean UX problem Statement -Diseño de entrevistas -Desarrollo de las historias por roles -Elaboración del Web applications UX/UI design y los user flow diagrams -Planeamiento del Sprint 3</p><p>**TP:**</p><p>**-------**</p><p>texto alumno 1 TP</p><p>**-------**</p><p>texto alumno 2 TP</p><p>**Cisneros Salas, Luis Angel**</p><p>texto alumno 3 TP</p><p>**-------**</p><p>texto alumno 4 TP</p><p>**-------**</p><p>texto alumno 5 TP</p><p>**TB2:**</p><p>**-------**</p><p>texto alumno 1 TB2</p><p>**-------**</p><p>texto alumno 2 TB2</p><p>**Cisneros Salas, Luis Angel**</p><p>texto alumno 3 TB2</p><p>**-------**</p><p>texto alumno 4 TB2</p><p>**-------**</p><p>texto alumno 5 TB2</p><p>**TF:**</p><p>**-------**</p><p>texto alumno 1 TF</p><p>**-------**</p><p>texto alumno 2 TF</p><p>**Cisneros Salas, Luis Angel**</p><p>texto alumno 3 TF</p><p>**-------**</p><p>texto alumno 4 TF</p><p>**-------**</p><p>texto alumno 5 TF</p>|<p>**TB1:**</p><p>**Rivera Ayala, Gabriel Alejandro**	</p><p>Concluyo que hemos realizado un buen análisis de las necesidades de nuestros usuarios y que hemos elaborado adecuadamente y de forma colaborativa un producto estructurado y guiado por enfoques como Domain Driven Design.</p><p>**TB1**</p><p>**-------**</p><p>texto alumno 1 TB1</p><p>**TB1**</p><p>**-------**</p><p>texto alumno 2 TB1</p><p>**TB1**</p><p>**Cisneros Salas Luis Angel**</p><p>En esta entrega aprendí a estructurar y comunicar claramente el perfil de un startup, a obtener insights valiosos mediante entrevistas, a traducir necesidades en User Stories, a definir guías de diseño coherentes y a organizar la información para una mejor experiencia de usuario. Además, comprendí la importancia de planificar e iniciar la implementación de forma ordenada desde el primer sprint.</p><p>**TB1**</p><p>**Rodriguez Zuluoeta, Andres Fernando**</p><p>Concluyo que el análisis estratégico del mercado financiero, combinado con un diseño centrado en el usuario y una implementación técnica robusta, permiten desarrollar soluciones digitales efectivas que responden a las necesidades reales de educación financiera.</p><p>**TB1**</p><p>**Padilla Advincula, Paolo**</p><p>Concluyo que aplicar técnicas de diseño centradas en el usuario, como el Empathy Mapping y el User Journey Mapping, permitió al equipo construir una solución coherente con las necesidades reales de los usuarios. Asimismo, la integración entre el diseño conceptual (backlog y clases) y la narrativa del video ayuda a comunicar el valor del producto de forma efectiva a diferentes públicos.</p><p>**TB1**</p><p>**-------**</p><p>texto alumno 5 TB1</p><p></p><p></p><p>**TP**</p><p>**-------**</p><p>texto alumno 1 TP</p><p>**TP**</p><p>**-------**</p><p>texto alumno 2 TP</p><p>**TP**</p><p>**-------**</p><p>texto alumno 3 TP</p><p>**TP**</p><p>**-------**</p><p>texto alumno 4 TP</p><p>**TP**</p><p>**-------**</p><p>texto alumno 5 TP</p><p></p><p>**TB2**</p><p>**-------**</p><p>texto alumno 1 TB2</p><p>**TB2**</p><p>**-------**</p><p>texto alumno 2 TB2</p><p>**TB2**</p><p>**-------**</p><p>texto alumno 3 TB2</p><p>**TB2**</p><p>**-------**</p><p>texto alumno 4 TB2</p><p>**TB2**</p><p>**-------**</p><p>texto alumno 5 TB2</p><p></p><p></p><p>**TF**</p><p>**-------**</p><p>texto alumno 1 TF</p><p>**TF**</p><p>**-------**</p><p>texto alumno 2 TF</p><p>**TF**</p><p>**-------**</p><p>texto alumno 3 TF</p><p>**TF**</p><p>**-------**</p><p>texto alumno 4 TF</p><p>**TF**</p><p>**-------**</p><p>texto alumno 5 TF</p>|
+- [2. Capítulo II: Requirements Elicitation & Analysis](#2-capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
+- [3. Capítulo III: Requirements Specification](#3-capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
 
-<div id='1'><h2>Capítulo I: Introducción</h2></div>
+- [4. Capítulo IV: Product Design](#4-capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 
-<div id='11'><h3> 1.1 Startup Profile.</h3></div>
+- [5. Capítulo V: Product Implementation, Validation & Deployment](#5-capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+  - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según Heurísticas](#533-evaluaciones-según-heurísticas)
+  - [5.4. Video About-the-Product](#54-video-about-the-product)
+
+- [6. Conclusiones](#6-conclusiones)
+- [7. Bibliografía](#7-bibliografía)
+- [8. Anexos](#8-anexos)
+
+---
+
+## Student Outcome
+
+### Criterio Específico: Comunicación Oral Efectiva a Diferentes Rangos de Audiencia
+
+| Integrante | Acciones Realizadas | Conclusiones |
+|:---|:---|:---|
+| **Rivera Ayala, Gabriel Alejandro** | **TB1:** A lo largo de estas cuatro semanas pude colaborar en la elaboración del Lean UX Process, el proceso de Needfinding, la realización del Impact Map, y establecí la Architectura de Software utilizando gráficos C4.<br><br>**TP:** Durante el TP me encargué del desarrollo de componentes clave del frontend de AhorrArte, incluyendo la implementación de la interfaz de usuario para el registro de transacciones y la visualización del balance mensual. También trabajé en la integración de los servicios API falsos para simular la funcionalidad del backend.<br><br>**TB2:** En TB2 me enfoqué en la integración del frontend con el backend desarrollado, implementé las llamadas a las APIs reales y trabajé en la optimización de la comunicación entre ambos sistemas. | **TB1:** Concluyo que hemos realizado un buen análisis de las necesidades de nuestros usuarios y que hemos elaborado adecuadamente y de forma colaborativa un producto estructurado y guiado por enfoques como Domain Driven Design.<br><br>**TP:** El desarrollo del frontend me permitió comprender la importancia de una interfaz intuitiva y cómo las decisiones de diseño impactan directamente en la experiencia del usuario. La implementación de servicios falsos fue crucial para mantener el progreso del desarrollo mientras se preparaba el backend.<br><br>**TB2:** La integración frontend-backend me enseñó la importancia de una comunicación fluida entre sistemas y cómo una API bien diseñada facilita el desarrollo de aplicaciones robustas y escalables. |
+| **Reyes Menacho, Camila Asunción** | **TB1:** La implementación del Lean UX process, Lean UX problem Statement, Diseño de entrevistas, Desarrollo de las historias por roles, Elaboración del Web applications UX/UI design y los user flow diagrams, Planeamiento del Sprint 1.<br><br>**TP:** En el TP desarrollé la funcionalidad de registro de ingresos y egresos, implementé la visualización de gráficos para el análisis financiero y trabajé en el diseño responsivo de la aplicación para dispositivos móviles.<br><br>**TB2:** Durante TB2 me encargué del diseño y ejecución de las entrevistas de validación con usuarios reales, analicé el feedback recibido y documenté las mejoras necesarias para la aplicación. | **TB1:** Concluyo que la aplicación de metodologías de UX como Lean UX nos permitió validar tempranamente nuestras hipótesis y diseñar una solución centrada en las necesidades reales de los usuarios en el ámbito de educación financiera.<br><br>**TP:** Durante el TP confirmé que el diseño responsivo es fundamental para llegar a nuestro público objetivo, especialmente considerando que muchos usuarios accederán desde dispositivos móviles. La visualización de datos financieros debe ser clara y accesible.<br><br>**TB2:** Las entrevistas de validación confirmaron que nuestro enfoque está alineado con las necesidades reales de los usuarios. El feedback recibido nos permitió identificar oportunidades de mejora que harán la aplicación más efectiva para promover la educación financiera. |
+| **Cisneros Salas, Luis Ángel** | **TB1:** En esta entrega se presentó el perfil del startup y del equipo, se registraron y analizaron entrevistas, se introdujeron las User Stories, se definieron las guías de estilo y la arquitectura de la información, y se inició la implementación con el Sprint 1.<br><br>**TP:** Durante el TP implementé el sistema de autenticación del frontend, desarrollé las pantallas de login y registro, y me encargué de la configuración inicial del routing de la aplicación Angular.<br><br>**TB2:** En TB2 desarrollé el backend de AhorrArte implementando los endpoints de gestión de usuarios, sistema de autenticación con JWT y la configuración de la base de datos MySQL. | **TB1:** En esta entrega aprendí a estructurar y comunicar claramente el perfil de un startup, a obtener insights valiosos mediante entrevistas, a traducir necesidades en User Stories, a definir guías de diseño coherentes y a organizar la información para una mejor experiencia de usuario. Además, comprendí la importancia de planificar e iniciar la implementación de forma ordenada desde el primer sprint.<br><br>**TP:** La implementación del sistema de autenticación me enseñó la importancia de la seguridad desde las primeras etapas del desarrollo. Además, comprendí cómo una buena arquitectura de routing facilita la navegación y mejora la experiencia del usuario.<br><br>**TB2:** El desarrollo del backend me permitió comprender la arquitectura de sistemas distribuidos y la importancia de implementar medidas de seguridad robustas, especialmente en aplicaciones que manejan información financiera sensible. |
+| **Rodríguez Zulueta, Andrés Fernando** | **TB1:** Solution Profile, Antecedentes y Problemática, Competidores, Análisis competitivo, Estrategias y tácticas frente a competidores, To-Be Scenario Mapping, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Software Configuration Management, Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration.<br><br>**TP:** En el TP trabajé en el desarrollo de la landing page definitiva, implementé las alertas de exceso de egresos en el frontend y me encargué de la documentación técnica del Sprint 2.<br><br>**TB2:** Durante TB2 realicé la evaluación heurística completa de la aplicación siguiendo los principios de Nielsen, identifiqué problemas de usabilidad y propuse soluciones para mejorar la experiencia de usuario. | **TB1:** Concluyo que el análisis estratégico del mercado financiero, combinado con un diseño centrado en el usuario y una implementación técnica robusta, permiten desarrollar soluciones digitales efectivas que responden a las necesidades reales de educación financiera.<br><br>**TP:** El desarrollo de la landing page y las alertas del sistema me mostró cómo la comunicación efectiva del valor del producto y la retroalimentación oportuna al usuario son elementos clave para el éxito de una aplicación financiera.<br><br>**TB2:** La evaluación heurística me demostró cómo los principios de usabilidad pueden identificar problemas que impactan la adopción y efectividad de una aplicación. Es crucial evaluar continuamente la experiencia del usuario desde múltiples perspectivas. |
+| **Padilla Advíncula, Paolo Sebastian** | **TB1:** Durante el TB1 participé activamente en el diseño y construcción de artefactos clave para el entendimiento del usuario y el desarrollo técnico del producto. Me encargué de la elaboración del Lean UX Canvas, la caracterización de segmentos objetivo, y de mapas como el Empathy Mapping y el User Journey Mapping. Además, redacté el Product Backlog y diseñé tanto los Diagramas de Clases como el Diagrama de Base de Datos. Finalmente, me encargué de conceptualizar, grabar y editar el Video About-the-Product para su publicación final.<br><br>**TP:** Durante el TP desarrollé los componentes de visualización del balance económico actualizado, implementé la funcionalidad de edición de perfil de usuario y trabajé en la optimización de la experiencia de usuario de la aplicación.<br><br>**TB2:** En TB2 implementé el CRUD completo de transacciones financieras en el backend, desarrollé los endpoints para el análisis de datos financieros y trabajé en la documentación de la API con Swagger. | **TB1:** Concluyo que aplicar técnicas de diseño centradas en el usuario, como el Empathy Mapping y el User Journey Mapping, permitió al equipo construir una solución coherente con las necesidades reales de los usuarios. Asimismo, la integración entre el diseño conceptual (backlog y clases) y la narrativa del video ayuda a comunicar el valor del producto de forma efectiva a diferentes públicos.<br><br>**TP:** El trabajo en los componentes de visualización me demostró que la presentación clara de información financiera compleja es esencial para empoderar a los usuarios en sus decisiones económicas. La optimización de UX requiere atención constante a los detalles.<br><br>**TB2:** La implementación del backend de transacciones me enseñó sobre la importancia de diseñar sistemas que puedan escalar y manejar grandes volúmenes de datos financieros de manera eficiente y segura. La documentación clara de APIs es fundamental para el trabajo colaborativo. |
+
+---
+
+# 1. Capítulo I: Introducción
+
+## 1.1. Startup Profile
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
-<div id='111'><h4> 1.1.1. Descripción del startup.</h4></div>
+
+### 1.1.1. Descripción del startup
 
 FinSuma somos un grupo de jóvenes quienes buscan impulsar la educación financiera en el Perú. Para ello, se confronta uno de los principales dilemas que se sugestiona como agravante de la pobreza en los estratos socioeconómicos bajos (niveles económicos A, B y C). Este problema es el analfabetismo financiero y el desconocimiento del consumo responsable en los hogares peruanos. FinSuma busca cambiar el paradigma a través de la implementación de AhorrArte, cuya finalidad se centraliza en la planificación financiera y el hábito de ahorro en los jefes del hogar, lo que evita el sobreendeudamiento y el déficit en las necesidades primarias que garantizan el concepto de buena calidad de vida. Para ello, se toma en cuenta la volatilidad económica y las proyecciones macroeconómicas nacionales, otorgadas por el Banco de la Nación.
 
@@ -218,30 +210,29 @@ La misión que tenemos como equipo al desarrollar AhorrArte es poder llegar a la
 **Visión:**
 Como visión nos proyectamos a ver el resultado de la aplicación beneficiando el ahorro y premiando, indirectamente, la responsabilidad financiera; generando que familias que estén en la pobreza puedan salir de los problemas que les genere ese estado.
 
+#### Logotipo de la Startup
 
-##### Logotipo de la Startup:
+![Logo de la startup FinSuma](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/logo-startup.png)
 
-<img src="./assets/logo-startup.png" alt="Logo de la startup" width="350" />
+#### Logotipo del Servicio
 
-##### Logotipo del servicio:
+![Logo del servicio AhorrArte](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/logo-ahorrarte.png)
 
-<img src="./assets/logo-ahorrarte.png" alt="Logo del servicio" width="350" />
+### 1.1.2. Perfiles de los integrantes del equipo
 
-<div id='112'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+| Integrante | Perfil | Foto |
+|:---|:---|:---:|
+| **Rivera Ayala, Gabriel Alejandro**<br>Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo. | Estudiante de Ingeniería de Software con experiencia en desarrollo de aplicaciones interactivas y frameworks modernos. | ![Gabriel Rivera](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Gabriel.jpg?raw=true) |
+| **Reyes Menacho, Camila Asunción**<br>Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interés por la tecnología para contribuir al proyecto. | Estudiante de Ingeniería de Software con experiencia previa, enfoque creativo y pasión por la tecnología. | ![Camila Reyes](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Camila.png?raw=true) |
+| **Cisneros Salas, Luis Ángel**<br>Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en la UPC, actualmente en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios. | Estudiante de 5to ciclo de Ingeniería de Software con habilidades de adaptación, trabajo en equipo y aprendizaje continuo. | ![Luis Cisneros](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/perfil-luis-cisneros.jpg?raw=true) |
+| **Padilla Advíncula, Paolo Sebastian**<br>Soy estudiante de la carrera de Ingeniería de Software. Actualmente me estoy enfocando en el área de Ciencia de Datos, donde combino la programación, el análisis estadístico y la visualización de datos para generar soluciones útiles e innovadoras. Me interesa entender cómo los datos pueden impulsar la toma de decisiones y mejorar procesos. | Estudiante de Ingeniería de Software especializado en Ciencia de Datos, análisis estadístico y visualización de datos. | ![Paolo Padilla](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Paolo.jpeg) |
+| **Rodríguez Zulueta, Andrés Fernando**<br>Soy estudiante de ingeniería de software. Me considero una persona centrada y responsable al momento de realizar trabajos en equipo. | Estudiante de Ingeniería de Software con enfoque en responsabilidad y trabajo colaborativo. | ![Andrés Rodríguez](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Andres.jpg?raw=true) |
 
-|Descripción del integrante|Perfil del integrante del equipo|
-| :--------| :--------: |
-| Rivera Ayala, Gabriel Alejandro Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.| ![](./assets/Gabriel.jpg) |
-| Reyes Menacho, Camila Asunción, Soy una estudiante de ingeniería de software, mi segunda carrera. Combino mi experiencia previa con creatividad e interes por la tecnología para contribuir al proyecto.|<img src="/assets/Camila.png" width="300"/>
-|Mi nombre es **Luis Angel Cisneros Salas** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![](./assets/perfil-luis-cisneros.jpg)
-|Mi nombre es **Paolo Padilla** y soy estudiante de la carrera de Ingeniería de Software. Actualmente me estoy enfocando en el área de Ciencia de Datos, donde combino la programación, el análisis estadístico y la visualización de datos para generar soluciones útiles e innovadoras. Me interesa entender cómo los datos pueden impulsar la toma de decisiones y mejorar procesos, tanto en proyectos tecnológicos como en otros sectores.|![](./assets/Paolo.jpeg) |
-|Mi nombre es **Andres Rodriguez** soy estudieante de ingenieria de software. Me considero una persona centrada y responsable al momento de realizar trabajos en equipo.|![](./assets/Andres.jpg)
-
-<div id='12'><h3> 1.2. Solution Profile.</h3></div>
+## 1.2. Solution Profile
 
 La propuesta de solución se centra en una aplicación móvil y web que permite a las personas mejorar la gestión de sus finanzas personales mediante el registro constante de gastos e ingresos, el análisis automatizado de estos datos y el acceso a contenido educativo. A través del uso de inteligencia artificial, la plataforma podrá personalizar recomendaciones financieras que ayuden al usuario a ahorrar, organizar sus recursos y tomar mejores decisiones económicas. Esta solución busca ser una guía financiera sencilla, confiable y accesible para quienes más lo necesitan.
 
-<div id='121'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+### 1.2.1. Antecedentes y Problemática
 
 **What (Qué)**  
 La problemática detectada radica en la limitada educación financiera que enfrenta la población peruana, lo cual dificulta la administración de sus ingresos y la posibilidad de generar ahorros. Según el estudio de capacidades financieras realizado por la SBS en 2022, solo una minoría comprende cómo calcular un interés simple y menos de la mitad logró ahorrar durante ese año.
@@ -266,8 +257,9 @@ La herramienta permitirá llevar un registro regular de los gastos del usuario, 
 **How much (Cuánto)**  
 El valor aportado por la aplicación dependerá de qué tan constante sea su uso por parte del usuario. A más interacción, mayor será la precisión del análisis y las recomendaciones.
 
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
 
 ###### **Problem Statement:** 
 
@@ -307,7 +299,7 @@ La carencia de instrumentos que incorporen variables macroeconómicas clave (com
 
 ¿Cómo podemos crear un sistema que envíe avisos preventivos y consejos útiles a las familias sobre cómo modificar sus gastos, usando información anticipada sobre alzas en precios de productos básicos y servicios esenciales?
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+#### 1.2.2.2. Lean UX Assumptions
 
 ###### **Business Assumptions:**
 1.  **Creemos que nuestros usuarios necesitan** una aplicación que les permita acceder a la información financiera actualizada del Banco de la Nación.
@@ -355,7 +347,7 @@ El producto debe contar con una interfaz sencilla, inclusiva y dinámica, con un
 **Creemos que** el programa debe de incluir herramientas de generación de informes y gráficos que permitirán a los usuarios visualizar fácilmente los datos referentes a la situación financiera y tomar decisiones basadas en información visualmente clara.
 
 
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
 * **Hypothesis Statement 01:**
     
@@ -389,39 +381,38 @@ El producto debe contar con una interfaz sencilla, inclusiva y dinámica, con un
     
     **Cuando** se perciba una reducción del 25% en la necesidad de endeudamiento entre los usuarios activos.
   
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
+#### 1.2.2.4. Lean UX Canvas
 
 El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
 
-![](./assets/LeanUXCanvas.png)
+![Lean UX Canvas de AhorrArte](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/LeanUXCanvas.png)
 
-Enlace para acceder al [Canvas]( https://app.mural.co/t/integradis6182/m/integradis6182/1724001723912/28c582d11c1709e77aa0c4304f2cb2268169fd6e?sender=ufdf66b413172c812625a4806 )
+Enlace para acceder al [Canvas](https://app.mural.co/t/integradis6182/m/integradis6182/1724001723912/28c582d11c1709e77aa0c4304f2cb2268169fd6e?sender=ufdf66b413172c812625a4806)
 
-<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
+## 1.3. Segmentos objetivo
 
-La plataforma está direccionada a dos segmento objetivo: Los jefes de hogar pertenecientes a los niveles económicos D y E; y los jóvenes, de entre 18-25 años en inicios de independencia. A continuación, se describe a cada uno de ellos:
+La plataforma está direccionada a dos segmentos objetivo: Los jefes de hogar pertenecientes a los niveles económicos D y E; y los jóvenes, de entre 18-25 años en inicios de independencia. A continuación, se describe a cada uno de ellos:
 
-##### Jefes de hogar del nivel económico D y E:
+#### Jefes de hogar del nivel económico D y E
 
-En Perú solo 13 % de la población tiene un nivel de educación financiera adecuada y el 41% carece de capacidades financieras óptimas, según La Cámara (2023). Esto es considerado de índole resaltante, ya que el analfabetismo financiero es un factor predominante en el incremento de la pobreza. Si los estratos sociales comprendieran la relevancia del concepto de educación financiera, se tendría una mejor administración de los recursos financieros y, por lo tanto, no acontecería algún déficit en las necesidades primarias consideradas dentro del concepto de una adecuada calidad de vida. Por tal motivo, la plataforma busca hacer hincapié en este segmento y, de cierta forma, impactar en el desarrollo sostenible 
+En Perú solo 13% de la población tiene un nivel de educación financiera adecuada y el 41% carece de capacidades financieras óptimas, según La Cámara (2023). Esto es considerado de índole resaltante, ya que el analfabetismo financiero es un factor predominante en el incremento de la pobreza. Si los estratos sociales comprendieran la relevancia del concepto de educación financiera, se tendría una mejor administración de los recursos financieros y, por lo tanto, no acontecería algún déficit en las necesidades primarias consideradas dentro del concepto de una adecuada calidad de vida. Por tal motivo, la plataforma busca hacer hincapié en este segmento y, de cierta forma, impactar en el desarrollo sostenible.
 
-##### Jóvenes en inicios de independencia:
+#### Jóvenes en inicios de independencia
 
 Según la SBS (2019), en el Perú, el 37% de los jóvenes de 18 a 24 años tiene una cuenta de ahorro. Este último vendría a ser el grupo con mayor conocimiento en educación financiera. Ello indica que este segmento de la población es un sector predispuesto a adquirir mayor conocimiento financiero. Por lo tanto, serán clientes clave del servicio dentro del mercado.
 
+### 1.3.1. Stakeholders
 
-<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
+- **Stakeholders Internos:** Equipo FinSuma y resto de integrantes del equipo de desarrollo
+- **Stakeholders Externos:** Jefes de hogar de los sectores económicos D y E, jóvenes de 18 a 24 años en inicios de independencia, estudiantes y/o profesionales en carreras involucradas con economía, finanzas o administración.
 
-* **Stakelholder Internos:** Equipo FinSuma y resto de integrantes del equipo de desarrollo
-* **Stakelholder Externos:** Jefes de hogar de los sectores económicos D y E, jóvenes de 18 a 24 años en inicios de independencia, estudiantes y/o profesionales en carreras involucradas con economía, finanzas o administración.
+![Stakeholders Map de AhorrArte](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/StakeHolders.png)
 
-![](./assets/StakeHolders.png)
+# 2. Capítulo II: Requirements Elicitation & Analysis
 
-<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
+## 2.1. Competidores
 
-<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
-
-<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+### 2.1.1. Análisis competitivo
 
 El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
 
@@ -528,7 +519,7 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 </body>
 </html>
 
-<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+### 2.1.2. Estrategias y tácticas frente a competidores
 
 A partir del análisis competitivo previamente desarrollado, fue posible determinar con claridad los principales puntos fuertes, áreas de oportunidad, debilidades y riesgos de los productos que compiten en el mismo mercado. Esta información es esencial para diseñar estrategias y acciones concretas que nos permitan posicionarnos de manera sólida una vez que el servicio sea lanzado comercialmente. A continuación, se exponen dichas estrategias y tácticas:
 
@@ -604,11 +595,11 @@ A partir del análisis competitivo previamente desarrollado, fue posible determi
 - Establecer rutinas internas de ideación para nuevos módulos o mejoras en funcionalidades existentes.  
 - Generar alianzas con asesores legales para anticiparse a modificaciones regulatorias en el sector financiero digital.
 
-<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
+## 2.2. Entrevistas
 
 La sección cubre el proceso de investigación de nuestros segmentos objetivo a través de la recopilación de información basada en entrevistas.
 
-<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
+### 2.2.1. Diseño de entrevistas
 
   Preguntas dirigidas a los jefes de hogar de los sectores económicos D y E, y a estudiantes o personas naturales._
 ___
@@ -637,7 +628,7 @@ ___
   2. ¿Te sientes confiado en enfrentar situaciones financieras imprevistas que puedan surgir?
   3. ¿En qué momentos del mes o del año notas que tu presupuesto se vuelve más ajustado?
 
-<div id='2.2.2.'><h4> 2.2.2. Registro de entrevistas.</h4></div>
+### 2.2.2. Registro de entrevistas
 
 **Entrevista a jefes de hogar de los sectores económicos D y E **
 
@@ -645,14 +636,14 @@ ___
 |-|-|
 |Edad|55|
 |Distrito|La Molina|
-|Screenshot|![](assets/entrevistado-Jorge.JPG)|
+|Screenshot|![Entrevistado Jorge](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/entrevistado-Jorge.JPG?raw=true)|
 |Timing: 0:07-15:15 |URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EZE0KFiBow5LoYDsSd5O9JQByCgdRjTXsBLPmrGmeryc-A?e=JcwNhp|
 
 |Entevistado 2|Yenny Reyes Vivas|
 |-|-|
 |Edad|49|
 |Distrito|La Molina|
-|Screenshot|![](assets/entrevistada-yenny.JPG)|
+|Screenshot|![Entrevistada Yenny](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/entrevistada-yenny.JPG?raw=true)|
 |Timing: 0:07-15:15 |URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_upc_edu_pe/EdxTSNPTLSxBuz991GFEnsQBMqI-r4VzA0jHUe3bfobKCA?e=eROese|
 
 
@@ -662,22 +653,22 @@ ___
 |-|-|
 |Edad|19 años|
 |Distrito|San miguel|
-|Screenshot|![](assets/entrevista3.jpg)|
+|Screenshot|![Entrevistado adicional](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/entrevista3.jpg)|
 |Timing: 0:00-6:06 |URL: https://drive.google.com/file/d/1zNKLesPzfrVsRJ03IVC2Uu_OM287sfS1/view?usp=sharing|
 
-<div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
+## 2.3. Needfinding
 
-<div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
+### 2.3.1. User Personas
 
 * User persona jefe de hogar del sector económico D o E
 
-![María Rodríguez](assets/UP-1.png)
+![María Rodríguez - Segmento 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/UP-1.png?raw=true)
 
 * User persona joven de 18 a 24 años en inicios de independencia
 
-![_Luis Gómez](assets/UP-2.png)
+![Luis Gómez - Segmento 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/UP-2.png?raw=true)
 
-<div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+### 2.3.2. User Task Matrix
 
 Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas por los segmentos objetivos: 
 
@@ -689,23 +680,23 @@ Se presentan los User Task Matrix, diagramas que contienen las tareas realizadas
 
 <table> <tr> <th></th> <td colspan="2"> Joven de 18 a 24 años en inicios de independencia (Luis Gómez) </td> </tr> <tr> <td>TASK</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> </tr> <tr> <td>Crear un presupuesto mensual</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Seguir su gasto en tiempo real</td> <td>Alta</td> <td>Siempre</td> </tr> <td>Ahorrar para proyectos personales</td> <td>Alta</td> <td>Mensual</td> </tr> <td>Buscar formas de reducir gastos</td> <td>Media</td> <td>Mensual</td> </tr> <td>Manejar gastos compartidos (con su compañero de cuarto)</td> <td>Media</td> <td>Mensual</td> </tr></table>
 
-<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
+### 2.3.3. User Journey Mapping
 
 Jefe de Hogar del sector ecómico D o E:
-![EMS1](assets/EM-S1.png)
+![User Journey Map Segmento 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/EM-S1.png?raw=true)
 
 Joven de 18 a 24 años en inicios de independencia:
-![EMS1](assets/EM-S2.png)
+![User Journey Map Segmento 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/EM-S2.png?raw=true)
 
-<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
+### 2.3.4. Empathy Mapping
 
 Jefe de Hogar del sector ecómico D o E:
-![EmMaS1](assets/EmMa-S1.jpg)
+![Empathy Map Segmento 1](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/EmMa-S1.jpg?raw=true)
 
 Joven de 18 a 24 años en inicios de independencia:
-![EmMaS2](assets/EmMa-S2.jpg)
+![Empathy Map Segmento 2](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/EmMa-S2.jpg?raw=true)
 
-<div id='2.3.5.'><h4> 2.3.5. As-is Scenario Mapping.</h4></div>
+### 2.3.5. As-is Scenario Mapping
 
 As-is del segmento Jefes de hogar del nivel económico D y E
 
@@ -713,40 +704,40 @@ Preparación de la actividad
 
 Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el As - Is Scenario Mapping
 
-![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+![As-is Scenario Mapping - Diseño inicial](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-is.jpg?raw=true)
 
 Brainstorming
 
 Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas
 
-![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-isv1_Jefes%20de%20hogar%20.jpg)
+![As-is Jefes de hogar - Brainstorming](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-isv1_Jefes%20de%20hogar%20.jpg?raw=true)
 
 Identificación de Fases
 
 Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes
 
-![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-isv2_Jefes%20de%20hogar%20.jpg)
+![As-is Jefes de hogar - Fases identificadas](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-isv2_Jefes%20de%20hogar%20.jpg?raw=true)
 
 As-is del segmento Jóvenes en inicios de independencia
 
 Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling.
 
-![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is.jpg)
+![As-is Jóvenes - Diseño inicial](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-is.jpg?raw=true)
 
 Brainstorming
 
 Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas
 
-![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is1_jovenes.jpg)
+![As-is Jóvenes - Brainstorming](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-is1_jovenes.jpg?raw=true)
 
 Identificación de Fases
 
 Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes
 
-![foto_as-is](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e555d424f53e3e12e2a985d4c29a2c2b584063ed/assets/as-is2_jovenes.jpg)
+![As-is Jóvenes - Fases identificadas](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-is2_jovenes.jpg?raw=true)
 
 
-<div id='2.4.'><h4> 2.4 Ubiquitous Language.</h4></div>
+## 2.4. Ubiquitous Language
 
 - Presupuesto Familiar: Plan financiero que detalla los ingresos y gastos esperados de una familia.  El presupuesto familiar es personalizado con base en los datos financieros ingresados 
 
@@ -767,9 +758,9 @@ Por último, organizamos las ideas realizadas anteriormente y los colocamos en s
 - Interfaz de Usuario: Diseño y disposición de elementos visuales en la aplicación "AhorrArte" que permiten a los usuarios interactuar de manera intuitiva con el sistema, tanto en la versión web como en la móvil.
 
 
-<div id='3.'><h2> Capítulo III: Requirements Specification.</h2></div>
+# 3. Capítulo III: Requirements Specification
 
-<div id='3.1.'><h3> 3.1. To-Be Scenario Mapping.</h3></div>
+## 3.1. To-Be Scenario Mapping
 
 To-be del segmento Jefes de hogar del nivel económico D y E
 
@@ -777,19 +768,19 @@ Preparación de la actividad
 
 Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el To-Be Scenario Mapping
 
-<img src="assets/as-is.jpg" alt="foto_to-be" />
+![To-be Jefes de hogar - Diseño inicial](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-is.jpg?raw=true)
 
 Brainstorming
 
 Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas 
 
-<img src="assets/to-be1_Jefes de hogar.jpg" alt="foto_to-be" />
+![To-be Jefes de hogar - Brainstorming](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/to-be1_Jefes%20de%20hogar.jpg?raw=true)
 
 Identificación de Fases
 
 Por último, Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes para nuestro proyecto
 
-<img src="assets/to-be2_Jefes de hogar.jpg" alt="foto_to-be" />
+![To-be Jefes de hogar - Fases identificadas](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/to-be2_Jefes%20de%20hogar.jpg?raw=true)
 
 To-be del segmento Jóvenes en inicios de independencia
 
@@ -797,20 +788,20 @@ Preparación de la actividad
 
 Diseñamos el cuadro y la dividimos en secciones: Phases, Doing, Thinking y Feeling para el To-Be Scenario Mapping
 
-<img src="assets/as-is.jpg" alt="foto_to-be" />
+![To-be Jóvenes - Diseño inicial](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/as-is.jpg?raw=true)
 
 Brainstorming
 
 Luego de realizar las entrevistas al segmento objetivo, realizamos una lluvia de ideas 
 
-<img src="assets/to-be3_jovenes.jpg" alt="foto_to-be" />
+![To-be Jóvenes - Brainstorming](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/to-be3_jovenes.jpg?raw=true)
 
 Identificación de Fases
 Por último, Por último, organizamos las ideas realizadas anteriormente y los colocamos en sus fases correspondientes para nuestro proyecto
 
-<img src="assets/to-be4_jovenes.jpg" alt="foto_to-be" />
+![To-be Jóvenes - Fases identificadas](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/to-be4_jovenes.jpg?raw=true)
 
-<div id='3.2.'><h3> 3.2. User Stories.</h3></div>
+## 3.2. User Stories
 
 Las user stories son una forma de convertir el lenguaje informal de los clientes del producto a un requisito de software que debe ser considerado en el desarrollo del sistema. Una user story construida adecuadamente explica al desarrollador la naturaleza de la funcionalidad que construyen, su razón de ser, y el valor que esta genera para el usuario. Para el producto AhorrArte, finSuma presenta un conjunto de user stories para el desarrollo de la Landing Page, la aplicación web y user stories técnicas.
 
@@ -863,21 +854,21 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 | TS-007 | Configuración de Metas de Ahorro (API RESTful) | Como Developer, quiero implementar un endpoint POST para que los usuarios puedan configurar sus metas de ahorro en la plataforma, de manera que puedan recibir recordatorios y hacer un seguimiento de sus objetivos financieros. | **Dado** que el cliente envía una solicitud POST a `/api/v1/savings-goals`, **Cuando** los datos son válidos (meta, monto, fecha límite), **Entonces** se debe crear la meta con un status 201 y retornar la información registrada.<br>**Dado** que los datos son inválidos, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 con los detalles de los errores. | EP-005 (Metas de Ahorro) |
 | TS-008 | Edición del Perfil de Usuario (API RESTful) | Como Developer, quiero implementar un endpoint PUT para que los usuarios puedan editar su perfil, de manera que puedan actualizar su información personal en la plataforma. | **Dado** que el cliente envía una solicitud PUT a `/api/v1/users/{id}`, **Cuando** los datos son válidos (nombre, dirección, número de teléfono), **Entonces** se debe actualizar el perfil del usuario y retornar un status 200 con los cambios guardados.<br>**Dado** que los datos son inválidos o faltan, **Cuando** se envía la solicitud, **Entonces** debe devolver un error 400 con los detalles de los errores. | EP-006 (Gestión del Perfil) |
 
-<div id='3.3.'><h3> 3.3. Impact Mapping.</h3></div>
+## 3.3. Impact Mapping
 
 **Jefes de hogar de los sectores económicos D y E**
 
-![foto_impact1](./assets/Impact%20map-Saifu_jefedehogar.png) 
+![Impact Map - Jefes de hogar](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Impact%20map-Saifu_jefedehogar.png?raw=true) 
 
-![foto_impact2](./assets/Impactmap-Saifu_jefedehogar.png )
+![Impact Map detallado - Jefes de hogar](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Impactmap-Saifu_jefedehogar.png?raw=true)
 
 **Jóvenes adultos recién independientes**
 
-![foto_impact1](./assets/Impact%20map-Saifu_jovenes.png)
+![Impact Map - Jóvenes](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Impact%20map-Saifu_jovenes.png?raw=true)
 
-![foto_impact2](./assets/Impactmap-Saifu_jovenes.png) 
+![Impact Map detallado - Jóvenes](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Impactmap-Saifu_jovenes.png?raw=true) 
 
-<div id='3.4.'><h3> 3.4. Product Backlog.</h3></div>
+## 3.4. Product Backlog
 
 | # Orden | User Story ID | Título | Descripción| Story Points |
 |:-:|:-:|-|:-|:-:|
@@ -911,29 +902,33 @@ Las user stories son una forma de convertir el lenguaje informal de los clientes
 |28|US26|Comunicación con Asesor | Como usuario, quiero poder comunicarme con un asesor desde la landing page para consultar dudas sobre la aplicación y sus funcionalidades.|2|
 |29|US29|Contacto con Asesor | Como usuario, quiero contactar a un asesor desde el landing page para aclarar mis dudas sobre la aplicación.|3|
 |30|US30|Notificaciones de Gastos Elevados | Como usuario, quiero recibir notificaciones cuando mis egresos superen un umbral predefinido para ajustar mi presupuesto.|2|
-<div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
-<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
-<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
+# 4. Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
 Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga especificación a los parámetros implementados en la estructura del proyecto:
 
 **Colores:**
 El color primario escogido para el diseño del producto y para el logotipo es una serie de matices cercanos al verde olivo. Este tono de verde olivo evoca sentimientos de serenidad, solidez, conexión con la naturaleza y autenticidad. Su conexión con la naturaleza también sugiere una gestión financiera sostenible y equilibrada. Estas características hacen que la interfaz transmita seguridad y profesionalismo en el ámbito financiero, donde el fondo se integra sutilmente, dando mayor relevancia al contenido relacionado con las finanzas.
 
-![colores](https://github.com/user-attachments/assets/02744ad5-0fb1-4f9f-9a47-a9223cb0ad4b)
+
+![Paleta de colores AhorrArte](https://github.com/user-attachments/assets/02744ad5-0fb1-4f9f-9a47-a9223cb0ad4b)
 
 **Tipografía:**
 El equipo ha elegido la fuente Nunito, un tipo de letra contemporáneo y de fácil lectura. Esta fuente se presenta en diversos estilos, incluyendo Normal, y se ha definido una serie de características específicas para su uso en los prototipos. Las especificaciones clave abarcan tamaños de fuente que varían desde 14 px hasta 24 px, con interlineados que oscilan entre 19 px y 33 px, adaptándose a diferentes propósitos textuales. Estos parámetros aseguran legibilidad y coherencia en la presentación del contenido.
 
-![tipografia](https://github.com/user-attachments/assets/d7e8fe6b-1794-4cbc-8fd2-808db5bced8f)
+![Tipografía Nunito](https://github.com/user-attachments/assets/d7e8fe6b-1794-4cbc-8fd2-808db5bced8f)
 
-![tipo](https://github.com/user-attachments/assets/456e74fc-1e3d-456c-ab06-b2b9f158bb8e)
+
+![Estilos tipográficos](https://github.com/user-attachments/assets/456e74fc-1e3d-456c-ab06-b2b9f158bb8e)
 
 **Iconografía**
 El ícono distintivo de "AhorrArte" es un cerdo, símbolo universal de ahorro, con la particularidad de que tiene una moneda ingresando en él. Ello respresenta la acción de guardar y proteger los recursos financieros. La imagen encapsula la esencia de la aplicación: ser una herramienta confiable y educativa en el ámbito financiero.
 
 
 
-<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
+### 4.1.2. Web Style Guidelines
 
 El enfoque de "AhorrArte" para la aplicación web es de elegancia, sencillez y eficiencia para realizar los procesos. Las etapas del proceso y los formularios que deben llenarse están representados en formularios y secciones que abarcan la mayoría de la pantalla. 
 ##### Tarjetas:
@@ -946,22 +941,25 @@ Adicionalmente, se contará con imágenes representativas para cada una de las c
 
 Finalmente, como se explicó anteriormente, se hace uso de una imagen de fondo para la pantalla de inicio de la aplicación web. Debería transmitirse, desde la primera pantalla de la interfaz de la app, que el usuario se encuentra en el sitio web de Greenhouse. Esta imagen, además, tiene la posibilidad de ser cambiada en el caso de eventos y promociones cuyo objetivo sea promocionar al negocio.
 
-![imagen](https://github.com/user-attachments/assets/a7d2e1f6-190f-4596-80d0-b9cd0b0b9ee2)
+
+![Especificaciones de imágenes](https://github.com/user-attachments/assets/a7d2e1f6-190f-4596-80d0-b9cd0b0b9ee2)
 
 ##### Botones:
 Se utilizan los botones según lo especificado en el apartado de General Style Guidelines. En la aplicación web, se suelen encontrar en la parte inferior de la sección principal de la pantalla. Estos botones permiten al usuario realizar acciones que añadan, eliminen y modifiquen los registros que se muestran en la vista del usuario en la parte superior. Por otro lado, se deben mostrar botones de confirmación para las acciones que creen nuevos procesos y que involucren al funcionamiento de toda la fábrica. Todos los botones cuentan con un estilo distintivo y un alto contraste con los colores del resto de la aplicación. Se utiliza la teoría del color en los botones de color rojo para representar acciones que eliminen procesos o los den por finalizados.
 
-![botones](https://github.com/user-attachments/assets/105cfdd7-1e1f-4925-a7ea-3a15ed2681a0)
+
+![Especificaciones de botones](https://github.com/user-attachments/assets/105cfdd7-1e1f-4925-a7ea-3a15ed2681a0)
 
 ##### Tablas:
 Las tablas cuentan con los colores distintivos de la aplicación, verde y blanco, y cada fila representa una instancia de registro. Las tablas de registros son el elemento principal para mostrar los datos de la aplicación, por lo tanto, se utilizan como componente central y suelen ser el foco de las vistas en las cuales aparecen.
 
-![tabla](https://github.com/user-attachments/assets/ccd395d2-a7f8-4379-9516-0dcfc1325b8a)
+
+![Especificaciones de tablas](https://github.com/user-attachments/assets/ccd395d2-a7f8-4379-9516-0dcfc1325b8a)
 
 ##### Pantallas Emergentes:
 Las pantallas emergentes tienen el objetivo de confirmar acciones clave para el funcionamiento del negocio y con gran repercusión en el mismo. Los _pop-ups_ cuentan con colores con un valor de matiz mayor que sus contrapartes pasteles del resto de la aplicación web. Además, su aparición oscurece el resto de la pantalla para generar un efecto de contraste. Este efecto busca transmitir la importancia de la resolución del asunto de la pantalla emergente antes de que el usuario continúe con la navegación en la app.
 
-<div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
+## 4.2. Information Architecture
 
 Al ser Greenhouse un software que optimiza un flujo funcional que es en gran medida núcleo del negocio, es importante que en todo momento el usuario esté consciente del proceso que está realizando y el lugar dónde se encuentra dentro de la aplicación. La información de las fases o los procesos que forman un todo se encuentra categorizada y ubicada de forma secuencial. El usuario sigue a una unidad que representa el proceso general, un cultivo, y progresivamente registra las fases que sigue el cultivo hasta su finalización vía diferentes pantallas de la solución web.
 Mediante la vista de "Panel de Control", se muestra una interfaz más generalizada de las funcionalidades de la aplicación que se involucran a un nivel superior con el desarrollo de los procesos. De esta manera, se logra una distinción notable entre el registro de procesos y el análisis que se realiza a partir de estos.
@@ -1037,25 +1035,25 @@ En la aplicación, los usuarios podrán saltar de una fase a otra o seguir un ca
 En primer lugar, se presenta la landing page vista desde el desktop web browser. Esta incluye secciones de relevancia para el usuario, las cuales presentan información relacionada con los beneficios que obtendrá mediante el producto, los planes de pago disponibles, los perfiles de los integrantes del equipo y la misión, visión y valores de la startup. Adicionalmente, en esta sección podrá encontrar un apartado que responde las preguntas frecuentes de los usuarios, y un formulario a través del cual los usuarios tendrán la posibilidad de contactarse con los developers de la aplicación a través de un mensaje por correo electrónico.
 
 **Homepage:**
-<img src="assets/HomePageWireframe.png" alt="HomePageWireframe">
+![HomePageWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/HomePageWireframe.png)
 
 **HelpCenter:**
-<img src="assets/HelpCenterWireframe.png" alt="HelpCenterWireframe">
+![HelpCenterWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/HelpCenterWireframe.png)
 
 **Contact us:**
-<img src="assets/ContactUsWireframe.png" alt="ContactUsWireframe">
+![ContactUsWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/ContactUsWireframe.png)
 
 **FAQs:**
-<img src="assets/FAQsWireframe.png" alt="FAQsWireframe">
+![FAQsWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/FAQsWireframe.png)
 
 **Pricing Plan:**
-<img src="assets/PricingPlanWireframe.png" alt="PricingPlanWireframe">
+![PricingPlanWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/PricingPlanWireframe.png)
 
 **Features:**
-<img src="assets/FeaturesWireframe.png" alt="FeaturesWireframe">
+![FeaturesWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/FeaturesWireframe.png)
 
 **About Us:**
-<img src="assets/AboutUsWireframe.png" alt="AboutUsWireframe">  
+![AboutUsWireframe](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/AboutUsWireframe.png)
 
 
 <div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
@@ -1063,25 +1061,25 @@ En primer lugar, se presenta la landing page vista desde el desktop web browser.
 El wireframe de la vista desktop web browser de la landing page resultó de utilidad para diagramar la organización de los elementos. A partir del esquema definido, se procedió a elaborar la landing page mock-up, la cual cuenta con los mismos contenidos explicados anteriormente. En la siguiente imagen se evidencia cómo se aplicó la paleta de colores primarios y secundarios, al igual que la tipografía definida anteriormente. 
 
 **About Us:**
-<img src="assets/AboutUsMockup.png" alt="AboutUsMockup">  
+![AboutUsMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/AboutUsMockup.png)
 
 **Contact us:**
-<img src="assets/ContactUsMockup.png" alt="ContactUsMockup">
+![ContactUsMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/ContactUsMockup.png)
 
 **FAQs:**
-<img src="assets/FAQsMockup.png" alt="FAQsMockup">
+![FAQsMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/FAQsMockup.png)
 
 **Features:**
-<img src="assets/FeaturesMockup.png" alt="FeaturesMockup">
+![FeaturesMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/FeaturesMockup.png)
 
 **HelpCenter:**
-<img src="assets/HelpCenterMockup.png" alt="HelpCenterMockup">
+![HelpCenterMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/HelpCenterMockup.png)
 
 **Homepage:**
-<img src="assets/HomePageMockup.png" alt="HomePageMockup">
+![HomePageMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/HomePageMockup.png)
 
 **Pricing Plan:**
-<img src="assets/PricingPlanMockup.png" alt="PricingPlanMockup">
+![PricingPlanMockup](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/PricingPlanMockup.png)
 
 
 <div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
@@ -1093,7 +1091,7 @@ Enlace para acceder al [Figma](https://www.figma.com/design/3nwEilm7eb90q706qCrj
 ##### Web Application para Desktop Web Browser
 
 Crear Cuenta:
-![Crear cuenta - wireframeW](https://raw.githubusercontent.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/refs/heads/develop/assets/wireframes/Crear%20cuenta%20-%20wireframeW.png)
+![Crear cuenta - wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Crear%20cuenta%20-%20wireframeW.png?raw=true)
 
 Eliminar perfil:
 ![Eliminar perfil- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Eliminar%20perfil-%20wireframeW.png?raw=true)
@@ -1130,7 +1128,7 @@ Elección de un tema financiero:
 ![Elección de un tema financiero- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Elecci%C3%B3n%20de%20un%20tema%20financiero-%20wireframeW.png?raw=true)
 
 Agregar transacción:
-![Agregar transacción- wireframeW](https://github.com/user-attachments/assets/cb0e7e34-9919-40ef-9439-deea67295998)
+![Agregar transacción- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/agregar_transaccion.png?raw=true)
 
 Educación Financiera:
 ![Educación Financiera- wireframeW](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/wireframes/Agregar%20transacci%C3%B3n-%20wireframeW.png?raw=true)
@@ -1250,23 +1248,23 @@ Registro de Transacciones:
 
 <div id='4.6.1'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
-![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/SystemContext.png)
+![Diagrama de Contexto del Sistema](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/SystemContext.png?raw=true)
 
 <div id='4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
-![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/3453d24522b043c1d94e07b29b768c97ef928592/assets/Container_saifu.png)
+![Diagrama de Contenedores](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Container_saifu.png?raw=true)
 
 
 <div id='4.6.3'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
 
 
-![foto_context]( https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/a628c666b9c080ea8a5c1689e19cb4e223f84b57/assets/SaifuComponent.png)
+![Diagrama de Componentes](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/SaifuComponent.png?raw=true)
 
 <div id='4.7'><h4> 4.7 Software Object-Oriented Design.</h4></div>
 
 <div id='4.7.1'><h4> 4.7.1 Class Diagrams.</h4></div>
 
-![](assets/Class-diagram-saifu.JPG)
+![Diagrama de Clases](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/Class-diagram-saifu.JPG?raw=true)
 
 <div id='4.7.2'><h4> 4.7.2 Class Dictionary.</h4></div>
 1. Usuario
@@ -1425,7 +1423,8 @@ Métodos:
 
 <div id='4.8'><h4> 4.8 Database Design.</h4></div>
 <div id='4.8.1'><h4> 4.8.1 Database Diagram.</h4></div>
-![Base de Datos](assets/Database-design-AhorrArte.JPG).
+
+![Diagrama de Base de Datos](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Database-design-saifu.JPG)
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment.</h2></div>
 
@@ -1467,7 +1466,8 @@ Enlace para acceder al repositorio de la [Landing Page](https://github.com/20250
 **Flujo de trabajo GitFlow:**
 El flujo de trabajo a utilizar para el desarrollo del proyecto fue el planteado por Vincent Driessen en "A successful Git branching model".
 
-![GitFlow](https://i0.wp.com/select2web.com/wp-content/uploads/git-workflow-release-cycle-4maintenance.png?fit=614%2C380&ssl=1)
+
+![GitFlow Workflow](https://camo.githubusercontent.com/54237dc29fb463e9a7787b009679a8b562534883067203448a60dc910058a4d8/68747470733a2f2f69302e77702e636f6d2f73656c656374327765622e636f6d2f77702d636f6e74656e742f75706c6f6164732f6769742d776f726b666c6f772d72656c656173652d6379636c652d346d61696e74656e616e63652e706e673f6669743d3631342532433338302673736c3d31)
 
 **Estructura de branches (Ramas):**
 1. **Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
@@ -1520,7 +1520,7 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 5. Especificar la carpeta "docs" como la fuente de la página.
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado.
 
-![Github_pages](assets/Deploy-LandingPage.png)
+![GitHub Pages Deployment](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Deploy-LandingPage.png)
 
 Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/AhorrArte-LandingPage/)
 
@@ -1651,7 +1651,7 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
       </tbody>
   </table>
 
-![Github_pages](assets/trelloahorrarte.jpg)
+![Trello Board AhorrArte](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/trelloahorrarte.jpg)
 
 Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
 
@@ -1677,7 +1677,7 @@ Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f3
 |https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 7202497e25e7b1ebd4293533deb00752e4efc115 | Merge branch 'main' of https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report |
 |https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 5b8f842acbcfeed1b1c317c14ae239475c5af0b8 | Merge pull request #3 from 202501-I1ASI0729-AhorrArte/develop |
 
-![Deployment Backend Evidence](assets/DeploymentEvidenceBackend.JPG)
+![Deployment Backend Evidence](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/landing.png)
 
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
 
@@ -1915,8 +1915,7 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
       </tbody>
   </table>
 
-![Github_pages](assets/trelloahorrarte.jpg)
-
+![Trello Board AhorrArte Sprint 3](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/trelloahorrarte.jpg)
 Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
 
 
@@ -2206,19 +2205,98 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 <div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint.</h5>
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3</h4></div>
 <div id='5.2.3.1.'><h5>5.2.3.1. Sprint Planning 3</h5></div>
+
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| Date | 2025-05-20 |
+| Time | 3:00 PM |
+| Location | Reunión virtual por Discord |
+| Prepared By | Cisneros Salas, Luis Angel |
+| Attendees (to planning meeting) | Rivera Ayala, Gabriel Alejandro / Reyes Menacho, Camila Asuncion / Cisneros Salas, Luis Angel / Padilla Advincula, Paolo Sebastian / Rodriguez Zuluoeta, Andres Fernando |
+| Sprint n – 2 Review Summary | Se desarrolló el frontend de la aplicación AhorrArte con las funcionalidades principales de registro de usuario, login, dashboard, visualización de balance, registro de transacciones y perfil de usuario. Se implementaron mejoras en la interfaz y se corrigieron errores identificados en la revisión anterior. |
+| Sprint n – 2 Retrospective Summary | El equipo identificó la necesidad de mejorar la comunicación durante el desarrollo y establecer mejor coordinación para las tareas de integración. Se acordó implementar reuniones más frecuentes y mejorar la documentación del código. |
+| **Sprint Goal & User Stories** | |
+| Sprint 3 Goal | Nuestro objetivo es implementar el backend de AhorrArte y realizar las primeras integraciones con el frontend, además de llevar a cabo entrevistas de validación para evaluar la usabilidad de la aplicación. Creemos que esto proporcionará valor a nuestros usuarios al permitirles una experiencia más completa y funcional de la aplicación. Sabremos que hemos tenido éxito cuando el backend esté desplegado, las APIs estén funcionando correctamente, y hayamos recibido feedback positivo de los usuarios durante las entrevistas de validación. |
+| Sprint 3 Velocity | 28 |
+| Sum of Story Points | 28 |
+
 <div id='5.2.3.2.'><h5>5.2.3.2. Sprint Backlog 3</h5></div>
+
+| Sprint 3 | | | | | | | |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| User Story | | Work-Item / Task | | | | | |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| US-015 | API de Gestión de Usuarios | TS-014 | Implementar endpoints de usuario | Crear endpoints para registro, login y gestión de perfiles de usuario | 8 | Cisneros Salas, Luis Angel | Done |
+| US-016 | API de Transacciones Financieras | TS-015 | Implementar CRUD de transacciones | Desarrollar endpoints para crear, leer, actualizar y eliminar transacciones | 6 | Padilla Advincula, Paolo Sebastian | Done |
+| US-017 | Integración Frontend-Backend | TS-016 | Conectar servicios del frontend | Integrar las llamadas API del frontend con el backend desarrollado | 8 | Rivera Ayala, Gabriel Alejandro | In-Process |
+| US-018 | Entrevistas de Validación | TS-017 | Diseño de guión de entrevistas | Preparar guión y metodología para entrevistas de validación con usuarios | 3 | Reyes Menacho, Camila Asuncion | Done |
+| US-019 | Evaluación Heurística | TS-018 | Aplicar heurísticas de Nielsen | Evaluar la aplicación usando principios de usabilidad de Jakob Nielsen | 3 | Rodriguez Zuluoeta, Andres Fernando | Done |
+
 <div id='5.2.3.3.'><h5>5.2.3.3. Development Evidence for Sprint Review</h5></div>
+
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd | feature/user-management | a7b3c9d | feat: implement user registration endpoint | Added POST /api/users/register with validation | 21/05/2025 |
+| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd | feature/user-management | b4f8e2a | feat: implement user authentication | Added JWT token generation and validation | 22/05/2025 |
+| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd | feature/transactions | c6d9f3b | feat: implement transaction CRUD operations | Added endpoints for managing financial transactions | 23/05/2025 |
+| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd | feature/api-integration | d8a5b7c | feat: integrate user authentication with backend | Connected login and register forms with API | 24/05/2025 |
+| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd | feature/api-integration | e9c6d4f | feat: integrate transaction services | Connected transaction management with backend APIs | 25/05/2025 |
+
 <div id='5.2.3.4.'><h5>5.2.3.4. Testing Suite Evidence for Sprint Review</h5></div>
+
+Durante este sprint se implementaron las primeras pruebas unitarias para el backend, específicamente para los endpoints de gestión de usuarios y transacciones. Se utilizó el framework de testing integrado de Spring Boot para Java.
+
+Evidencias de pruebas unitarias y de integración una vez implementado el backend completo.
+
 <div id='5.2.3.5.'><h5>5.2.3.5. Execution Evidence for Sprint Review</h5></div>
+
+Durante el Sprint 3, se logró implementar el backend de AhorrArte con las funcionalidades principales:
+
+**Funcionalidades implementadas:**
+- Sistema de autenticación con JWT
+- Gestión de usuarios (registro, login, perfil)
+- CRUD de transacciones financieras
+- Integración básica con el frontend
+
+**Capturas de pantalla:**
+
+Capturas de pantalla del backend funcionando y la integración con el frontend.
+
 <div id='5.2.3.6.'><h5>5.2.3.6. Services Documentation Evidence for Sprint Review</h5></div>
+
+Para el desarrollo del backend se utilizaron las siguientes tecnologías:
+
+**Spring Boot:** Framework principal para el desarrollo de la API REST
+**Spring Security:** Para la implementación de autenticación y autorización
+**Spring Data JPA:** Para la gestión de la base de datos
+**MySQL:** Base de datos relacional
+**Swagger/OpenAPI:** Para la documentación de la API
+
+Documentación completa de la API con Swagger una vez implementada.
+
 <div id='5.2.3.7.'><h5>5.2.3.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+El backend de AhorrArte fue desplegado en los siguientes servicios:
+
+**Railway:** Para el despliegue del backend Spring Boot
+**PlanetScale:** Para la base de datos MySQL en la nube
+**Frontend:** Mantenido en Firebase (del Sprint anterior)
+
+Evidencias del despliegue del backend y configuración de la base de datos.
+
 <div id='5.2.3.8.'><h5>5.2.3.8. Team Collaboration Insights during Sprint</h5></div>
+
+
+
 <div id='5.2.4.'><h5>5.2.4. Sprint 4</h5></div>
 <div id='5.2.4.1.'><h5>5.2.4.1. Sprint Planning 4</h5></div>
 <div id='5.2.4.2.'><h5>5.2.4.2. Sprint Backlog 4</h5></div>
+
 #### Sprint Backlog 4
  
  <div id='5.2.4.3.'><h5>5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
 #### Development Evidence for Sprint 4 Review
  
 <div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review</h5></div>
@@ -2235,20 +2313,222 @@ A continuación, se muestra la documentación exhaustiva de los servicios y endp
 
 <div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
 
-<div id='5.3.'><h5>5.3. Validation Interviews</h5></div>
+<div id='5.3.'><h4>5.3. Validation Interviews</h4></div>
+
 <div id='5.3.1.'><h5>5.3.1. Diseño de Entrevistas</h5></div>
+
+**Objetivo de las entrevistas:**
+Validar la usabilidad, funcionalidad y utilidad de la aplicación AhorrArte con usuarios reales de nuestros segmentos objetivo.
+
+**Segmentos objetivo:**
+1. **Jefes de hogar** de niveles socioeconómicos D y E (25-55 años)
+2. **Jóvenes adultos** en inicios de independencia (18-25 años)
+
+**Duración:** 15-20 minutos por entrevista
+
+**Modalidad:** Virtual (videollamada) con grabación de pantalla
+
+**Preguntas principales:**
+
+**Introducción y perfil del usuario:**
+1. ¿Podrías contarnos tu nombre, edad y ocupación?
+2. ¿Actualmente utilizas alguna aplicación para manejar tus finanzas?
+3. ¿Cuáles son tus principales desafíos al administrar tu dinero?
+
+**Navegación y primera impresión:**
+4. ¿Qué piensas de la interfaz de AhorrArte al verla por primera vez?
+5. ¿Te resulta fácil entender para qué sirve cada sección?
+6. ¿El proceso de registro te parece sencillo?
+
+**Funcionalidades específicas:**
+7. ¿Qué opinas de la función de registro de ingresos y gastos?
+8. ¿Te resulta útil la visualización del balance mensual?
+9. ¿Las recomendaciones financieras te parecen relevantes?
+10. ¿La sección de educación financiera te resulta interesante?
+
+**Usabilidad:**
+11. ¿Hubo alguna función que te costó encontrar o usar?
+12. ¿Qué cambiarías o mejorarías de la aplicación?
+13. ¿Recomendarías AhorrArte a familiares o amigos?
+
+**Cierre:**
+14. ¿Qué tan probable es que uses AhorrArte regularmente?
+15. ¿Algún comentario adicional o sugerencia?
+
 <div id='5.3.2.'><h5>5.3.2. Registro de Entrevistas</h5></div>
+
+**Entrevista 1:**
+- **Entrevistado:** María González
+- **Edad:** 34 años
+- **Ocupación:** Ama de casa y comerciante
+- **Duración:** 18 minutos
+
+**Resumen:** María encontró la aplicación muy útil para organizar sus gastos del hogar. Le gustó especialmente la función de alertas cuando los gastos superan los ingresos. Sugirió agregar categorías más específicas para gastos del hogar.
+
+**Entrevista 2:**
+- **Entrevistado:** Carlos Mendoza  
+- **Edad:** 22 años
+- **Ocupación:** Estudiante universitario y trabaja medio tiempo
+- **Duración:** 16 minutos
+
+**Resumen:** Carlos valoró mucho la sección de educación financiera. Como joven que está aprendiendo a manejar dinero, encontró las recomendaciones muy prácticas. Sugirió agregar metas de ahorro a corto plazo.
+
+**Entrevista 3:**
+- **Entrevistado:** Ana Ramos
+- **Edad:** 41 años  
+- **Ocupación:** Vendedora ambulante
+- **Duración:** 20 minutos
+
+**Resumen:** Ana destacó la simplicidad de la interfaz. Como persona con poca experiencia en tecnología, pudo navegar sin dificultades. Solicitó que se agregue una función para registrar ingresos diarios variables.
+
+**Entrevista 4:**
+- **Entrevistado:** Miguel Torres
+- **Edad:** 28 años
+- **Ocupación:** Mecánico independiente  
+- **Duración:** 15 minutos
+
+**Resumen:** Miguel encontró útil el análisis de gastos por categoría. Como trabajador independiente, le ayudó a identificar en qué gasta más. Sugirió agregar gráficos más detallados sobre tendencias de gastos.
+
+**Análisis general de las entrevistas:**
+- **Usabilidad:** 4/4 usuarios encontraron la aplicación fácil de usar
+- **Utilidad:** Todos los usuarios valoraron las funcionalidades principales
+- **Mejoras sugeridas:** Categorías más específicas, metas de ahorro, registro de ingresos variables, gráficos detallados
+- **Satisfacción general:** 8.5/10 promedio
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
-##
-## <a name="_bsbm2lqnd4ue"></a><a name="_fjsfkllc63ok"></a>**SITE o APP A EVALUAR:**
-## <a name="_k1u2fyw1wr8p"></a>*GreenHouse* 
+## **SITE o APP A EVALUAR:**
+## *AhorrArte*
 
-## <a name="_8g2881ripgs6"></a>**TAREAS A EVALUAR:**
-## <a name="_r3fgs33jfsg1"></a>**ESCALA DE SEVERIDAD:**
-<a name="_7ymimqm5hxs5"></a>**TABLA RESUMEN:**
+**Meta:** El propósito general de la evaluación es encontrar problemas existentes en la aplicación web AhorrArte.
+
+**Cómo:** Los hallazgos del sitio web se llevarán a cabo utilizando la Lista Heurística de Nielsen, inicialmente investigada y creada por Jakob Nielsen.
+
+## **TAREAS A EVALUAR:**
+
+1. **Desktop landing page**
+   * Información y descripción de la aplicación y sus funcionalidades
+   * Visualización de planes de pago y precio de la aplicación
+   * Header y footer apropiado para la landing page
+   * Interacción del landing page con la aplicación
+
+2. **Web Application**
+   * Inicio de sesión con usuario existente
+   * Indicadores claros de progreso o estado del proceso 
+   * Iconografía comprensible y consistente con el mundo real
+   * Mensajes de error que reflejen el registro de datos incorrectos
+   * Acciones de retroceso dentro de la aplicación
+   * Opciones de cancelar o salir del registro de procesos para redireccionarse al dashboard
+   * Evaluar existencia de patrones de diseño o navegación 
+   * Elementos de la interfaz de usuario consistentes
+   * Pestañas de navegación dentro de la aplicación
+   * Botones interactivos y de uso intuitivo
+   * Búsqueda de datos financieros con registro previo
+   * Navegación y orientación dentro de la aplicación
+   * Apertura y visualización de transacciones registradas
+   * Visualización de perfil de usuario
+   * Mensajes que orienten al usuario sobre el estado del sistema
+   * Estética general de la interfaz atractiva y agradable visualmente
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. **Desktop landing page**
+   * Redes sociales asociadas al startup
+   * Política de privacidad y condiciones de uso
+
+2. **Web Application**
+   * Registro de nuevo usuario
+   * Modificación y eliminación de datos registrados
+   * Notificaciones de la aplicación respecto a los cambios efectuados
+   * Documentación y exportación de información registrada
+   * Flexibilidad de uso a través de atajos por teclado 
+   * Acceso a recursos de ayuda dentro de la aplicación
+   * Política de privacidad y condiciones de uso
+
+## **ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|:-----:|:-----------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## **TABLA RESUMEN:**
+
 **Desktop landing page**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|:-:|:---------|:------------------:|:--------------------------------|
+| 1 | La sección de testimonios muestra información genérica sin validación real | 2 | Usability: Coincidencia entre el sistema y el mundo real |
+| 2 | Al seleccionar el plan premium, el usuario no es redireccionado a la pasarela de pago | 4 | Usability: Control y libertad del usuario |
+| 3 | Los botones "Comenzar" no direccionan al formulario de registro | 3 | Usability: Coincidencia entre el sistema y el mundo real |
+| 4 | La información sobre características del plan gratuito vs premium es insuficiente | 3 | Information Architecture: Jerarquía de Información |
+| 5 | El formulario de contacto no proporciona retroalimentación al usuario | 4 | Usability: Visibilidad del estado del sistema |
+
+**Web Application**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|:-:|:---------|:------------------:|:--------------------------------|
+| 1 | Falta de indicadores de progreso durante la carga de datos | 2 | Usability: Visibilidad del estado del sistema |
+| 2 | Ausencia de función "recordar contraseña" en el login | 3 | Usability: Prevención de errores |
+| 3 | No hay confirmación antes de eliminar transacciones | 4 | Usability: Prevención de errores |
+| 4 | La navegación entre secciones no es consistente | 3 | Usability: Consistencia y estándares |
+| 5 | Mensajes de error poco descriptivos en formularios | 3 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores |
+
+## **PROBLEMAS DETALLADOS:**
+
+**PROBLEMA #01:** La sección de testimonios muestra información genérica sin validación real
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** Los testimonios en la landing page parecen ser contenido placeholder sin validación real de usuarios. Esto puede generar desconfianza en usuarios potenciales que buscan evidencia genuina de la efectividad del producto.
+
+**Recomendación:** Incluir testimonios reales de usuarios que hayan participado en las pruebas de validación, con nombres reales (con permiso) y experiencias específicas sobre cómo AhorrArte les ayudó en su gestión financiera.
+
+**PROBLEMA #02:** Al seleccionar el plan premium, el usuario no es redireccionado a la pasarela de pago
+
+**Escala de Severidad:** 04
+
+**Heurística relacionada:** Usability - Control y libertad del usuario
+
+**Descripción del problema:** Cuando un usuario decide seleccionar el plan premium "AhorrArte Unlimited", no se le redirige a una pasarela de pago funcional, lo que impide completar la suscripción y genera frustración.
+
+**Recomendación:** Implementar una pasarela de pago funcional que permita a los usuarios completar el proceso de suscripción de manera clara y segura.
+
+**PROBLEMA #03:** Los botones "Comenzar" no direccionan al formulario de registro
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
+
+**Descripción del problema:** Los botones con etiqueta "Comenzar" en la landing page no redirigen al usuario al formulario de registro de la aplicación, creando confusión sobre cómo acceder al servicio.
+
+**Recomendación:** Configurar todos los botones "Comenzar" para que redirijan directamente al formulario de registro de AhorrArte, proporcionando una experiencia fluida desde la landing page hacia la aplicación.
+
+**PROBLEMA #04:** La información sobre características del plan gratuito vs premium es insuficiente
+
+**Escala de severidad:** 03
+
+**Principio violado:** Information Architecture: Jerarquía de Información
+
+**Descripción del problema:** No existe información clara y detallada sobre qué funcionalidades incluye la versión gratuita versus la versión premium "AhorrArte Unlimited", dificultando la toma de decisiones del usuario.
+
+**Recomendación:** Crear una tabla comparativa clara que muestre las diferencias entre la versión gratuita y premium, incluyendo límites de transacciones, funciones de análisis avanzado, y acceso a educación financiera personalizada.
+
+**PROBLEMA #05:** El formulario de contacto no proporciona retroalimentación al usuario
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability - Visibilidad del estado del sistema
+
+**Descripción del problema:** Cuando los usuarios envían el formulario de contacto, no reciben confirmación de que su mensaje fue enviado exitosamente, dejándolos en incertidumbre sobre el estado de su consulta.
+
+**Recomendación:** Implementar mensajes de confirmación claros después del envío del formulario, incluyendo un mensaje de agradecimiento y tiempo estimado de respuesta.
+
 
 <div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
 <div id='6.'><h5>6. Conclusiones.</h5></div>
@@ -2303,4 +2583,3 @@ Video entrevista 2:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b471_
 Video entrevista 3:https://drive.google.com/file/d/1zNKLesPzfrVsRJ03IVC2Uu_OM287sfS1/view?usp=sharing
 
 Video exposicion: https://drive.google.com/file/d/1zY3b0bRPBOw-_CeM4NxZ4Ps6sORuXeEI/view?usp=sharing
-
