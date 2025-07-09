@@ -39,6 +39,7 @@
 | **TB1** | 15/04/2025 | Cisneros Salas, Luis Ángel<br>Padilla Advíncula, Paolo Sebastian<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando | **Capítulo I: Introducción**<br>- Redacción del startup profile y solution profile<br>- Delimitación de segmentos objetivo<br>- Redacción de preguntas para el diseño de entrevistas<br><br>**Capítulo II: Requirements Elicitation & Analysis**<br>- Elaboración y registro de entrevistas a segmentos objetivo<br>- Análisis de entrevistas<br><br>**Capítulo III: Requirements Specification**<br>- Elaboración de user stories y product backlog<br>- Elaboración de user personas, impact mapping, as-is y to-be<br><br>**Capítulo IV: Product Design**<br>- Elaboración de diagramas de base de datos, clases y componentes<br>- Elaboración de prototipos, wireframes y mockups<br>- Redacción de style guidelines e information architecture<br><br>**Capítulo V: Product Implementation, Validation & Deployment**<br>- Registro de evidencias y entrega del TB1 |
 | **TP** | 15/05/2025 | Cisneros Salas, Luis Ángel<br>Padilla Advíncula, Paolo Sebastian<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando | - Realización del Sprint 2<br>- Corrección de los cinco capítulos según la rúbrica<br>- Desarrollo del Frontend de la aplicación AhorrArte |
 | **TB2** | 20/06/2025 | Cisneros Salas, Luis Ángel<br>Padilla Advíncula, Paolo Sebastian<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando | - Realización del Sprint 3<br>- Corrección de los cinco capítulos según la rúbrica<br>- Ajustes en el frontend de la aplicación<br>- Desarrollo del backend |
+|**TF**|30/07/2025| Cisneros Salas, Luis Ángel<br>Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando|Se realizo el Sprint 4 y la Corrección de los cinco capítulos presentes en el informe, de acuerdo con lo indicado en la rúbrica. Se realizaron los últimos ajustes en el frontend y backend, y se completó el deployment.|
 
 ---
 
@@ -921,7 +922,7 @@ El equipo ha elegido la fuente Nunito, un tipo de letra contemporáneo y de fác
 **Iconografía**
 El ícono distintivo de "AhorrArte" es un cerdo, símbolo universal de ahorro, con la particularidad de que tiene una moneda ingresando en él. Ello respresenta la acción de guardar y proteger los recursos financieros. La imagen encapsula la esencia de la aplicación: ser una herramienta confiable y educativa en el ámbito financiero.
 
-
+![Icono](https://raw.githubusercontent.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/refs/heads/main/assets/logo-ahorrarte.png)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1243,7 +1244,7 @@ Registro de Transacciones:
 
 <div id='4.6.1'><h4> 4.6.1. Software Architecture Context Diagram</h4></div>
 
-![Diagrama de Contexto del Sistema](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/develop/assets/SystemContext.png?raw=true)
+![Diagrama de Contexto del Sistema](https://raw.githubusercontent.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/refs/heads/main/assets/SoftwareArchitectureContextDiagramAhorrArte.jpg)
 
 <div id='4.6.2'><h4> 4.6.2. Software Architecture Container Diagrams</h4></div>
 
@@ -1519,6 +1520,16 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/AhorrArte-LandingPage/)
 
+
+|Sprint #|Date|Time|Location|Prepared By|Attendees|
+|-|-|-|-|-|-|
+|1|13/04/2025|09:00 AM|Reunión virtual mediante la aplicación Google Meet|Cisneros Salas, Luis Ángel|Reyes Menacho, Camila Asunción<br>Rivera Ayala, Gabriel Alejandro<br>Rodríguez Zulueta, Andrés Fernando<br>Padilla Advíncula, Paolo Sebastian|
+
+|Sprint 1 Goal|Sprint 1 Velocity|Sum of Story Points|
+|-|-|-|
+|Elaborar y diseñar una landing page atractiva e informativa para la aplicación AhorrArte|19|19|
+
+
 ## 5.2 Landing Page, Services & Applications Implementation
 
 <div id='5.2.1'><h4> 5.2.1. Sprint 1</h4></div>
@@ -1585,6 +1596,56 @@ Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io
             <td>Done</td>
         </tr>
     </table>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
+Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle a cada uno de los miembros del grupo una tarea que debía cumplirla hasta cierta fecha para mayor organización
+
+<table>
+  
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Planning</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Date</td>
+    <td>14/04/2025</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Time</td>
+    <td>11:00 P.M</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Point</td>
+    <td>Reunión por Google Meet</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Prepared By</td>
+    <td>Cisneros Salas,Luis Angel</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Assistants</td>
+    <td>
+      <ul>
+        <li>Rivera Ayala, Gabriel Alejandro</li>
+        <li>Reyes Menacho, Camila Asunción</li>
+        <li>Cisneros Salas,Luis Angel</li>
+        <li>Padilla Advíncula, Paolo Sebastian</li>
+        <li>Rodríguez Zulueta, Andrés Fernando</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align: center;">Sprint Goal</th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre Saifu a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Sprint n Velocity</td>
+    <td>10 días</td>
+  </tr>
+</table>
+
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
 
@@ -1682,31 +1743,33 @@ Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implem
 
 
 En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones sobre información de la aplicación para los usuarios
-1. Sección Beneficios
 
-    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+ 1 Sección Beneficios
 
+  En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+  ![features](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/FeaturesMockup.png)
 
+ 2 Sección Saber más
 
-2. Sección Saber más
+  En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+  ![Aboutus](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/AboutUsMockup.png)
 
-   En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+3 Sección planes
 
+  En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+  ![pricingplan](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/PricingPlanMockup.png)
 
+4 Sección Ayuda
+    
+  ![help](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/HelpCenterMockup.png)
 
-3. Sección planes
+5 Sección Contactanos
 
-   En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+  ![Contactus](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/ContactUsMockup.png)
 
+6 Sección FAQs
 
-
-3. Sección Ayuda
-
-
-4. Sección Contactanos
-
-
-5. Sección FAQs
+  ![Sectionfaqs](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/FAQsMockup.png)
 
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
@@ -1916,12 +1979,81 @@ Link del Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f3
 
 
 ### Evidencia Deployment:
-<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
-<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5></div>
-<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5></div>
-<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5></div>
-<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
-<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5></div>
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5>
+
+
+|Repository|Branch| Commit ID |
+|----|----|----|
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 0dc928745858b4e0a5c06575b075d499817c3598 | Update Development Evidence for Sprint Review |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 0b912d22277b657e55782a3291d3ae21fad4abf8 | Update Sprint Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | fa57166af02dfd923e453902ddd55f53173d3a73 | Add Sprint Backlog 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 0f12e60759ad08ff27faa11303219daf64e75573 | Update Spring Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | ade5da8678b864b888d18920f5bcec49d6fe09b7 | Add Sprint Planning 1 |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 01462f7ebc8d772902899fe68fcfd1453323aba9 | Update Project Report.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 57c74ad8872cffeca02c5c84a83660b264332d6e | Update README.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 06db01d225cee7b35f40fa9f1ba914d06aa4fa3d | Update Project Report.md |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 05ed8f34bb96d60407520ba644cfd2c23f2e22f0 | Add Architecture Component Diagram |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 935f937eca37489893bb8728e842bdd1be8b0843 | Add files via upload |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 9976d27f0e882082994c99a5fe44a904e4bc1265 | Update Domain Driven Software Architecture |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | dd854ac9f68067adb16904fcbe1d205c8fbe4422 | Update Content Diagrams |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 1fdc819e3d64f9c5cc2986e06b699f19bf052886 | Merge branch 'main' of https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report |
+|https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report | 1aa470c5709a52b7b2a6291dce88a203b39fdc40 | Merge pull request #2 from AppWeb-Grupo3/patch-1 |
+
+
+</div>
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review.</h5>
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "Testing" se centro en la implementación de los archivos feature que contiene nuestro landing page. Dichos features se basan en los User Stories especificados en el sprint backlog y detallando cada uno de los escenarios que planeamos desarrollar.
+</div>
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review.</h5>
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones sobre información de la aplicación para los usuarios
+
+1- Sección Beneficios
+    En la sección planes, el usuario puede visualizar e interactuar con los diferentes planes que ofrecemos.
+![Features -mock](https://github.com/user-attachments/assets/56523959-8b74-4ae9-8bda-d0c8feb9eb03)
+
+2- Sección Saber más
+    En la sección contacto el usuario puede introducir su información para que la empresa se ponga en contacto con ellos, o en su defecto, ingresar a los medio de comunicación de la empresa.
+![About us -mock](https://github.com/user-attachments/assets/e389b99f-bdf9-4120-a9a2-ca24017e8799)
+
+3- Sección planes
+    En la sección FAQ los usuarios pueden visualizar una serie de preguntas usuales y la respuesta de la misma. 
+![Pricing plan -mock](https://github.com/user-attachments/assets/f5f42b6c-42f1-48cb-82fe-7b7a9d444ea3)
+
+4- Sección Ayuda
+![Help center -mock](https://github.com/user-attachments/assets/b11d7ac8-66d8-4eab-94a7-a76ea6404e21)
+
+5- Sección Contactanos
+![Contact us -mock](https://github.com/user-attachments/assets/392dfcc0-3cf2-415e-8b5b-ae868fee96da)
+
+6- Sección FAQs
+![FAQs -moc](https://github.com/user-attachments/assets/b596f169-4470-44d5-a2f1-5dd70ea34cd3)
+
+</div>
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h5>
+
+Webstorm: Se optó por utilizar Webstorm como el Entorno Integrado de Desarrollo (IDE) principal para el desarrollo del landing page. Webstorm ofrece una amplia gama de características y funcionalidades que facilitan la escritura de código, la depuración y la gestión de proyectos.
+
+JavaScript:Se hizo uso de JavaScript, concretamente TypeScript, para dotar de interactividad y lógica a los diversos componentes del landing page.
+
+GitHub:Se decidió alojar el repositorio del landing page en GitHub, una plataforma de desarrollo colaborativo basada en Git. GitHub ofrece una serie de ventajas significativas, como la capacidad de colaborar de manera efectiva en equipo.
+
+</div>
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5>
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa. Teniendo ciertos errores y bugs que seran solucionados en posteriores entregas.
+
+Enlace para acceder a la landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/features.html
+
+</div>
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint.</h5>
+
+|Alumno|Actividad|
+|-|-|
+|Rivera Ayala, Gabriel Alejandro|Implementación de la sección footer y Plans|
+|Cisneros Salas,Luis Angel|Implementación de la sección FAQ|
+|Reyes Menacho, Camila Asunción|Implementación de la sección contact-us|
+|Padilla Advíncula, Paolo Sebastian|Implementación de la sección features|
+|Rodríguez Zulueta, Andrés Fernando|Implementación de la sección header,about-us y homepage|
+</div>
 <div id='5.2.2'><h4> 5.2.2. Sprint 2</h4></div>
 - A continuacion se presenta el sprint 2 para la implementacion del frontend
 Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos.
@@ -2164,6 +2296,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review.</h5></div>
 
+- Ejecucion del frontend
+
 <div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h5></div>
 Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
 
@@ -2208,7 +2342,7 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 | Time | 3:00 PM |
 | Location | Reunión virtual por Discord |
 | Prepared By | Cisneros Salas, Luis Angel |
-| Attendees (to planning meeting) | Rivera Ayala, Gabriel Alejandro / Reyes Menacho, Camila Asuncion / Cisneros Salas, Luis Angel / Padilla Advincula, Paolo Sebastian / Rodriguez Zuluoeta, Andres Fernando |
+| Attendees (to planning meeting) | Rivera Ayala, Gabriel Alejandro / Reyes Menacho, Camila Asuncion / Cisneros Salas, Luis Angel / Rodríguez Zulueta, Andrés Fernando / Rivera Ayala, Gabriel Alejandro |
 | Sprint n – 2 Review Summary | Se desarrolló el frontend de la aplicación AhorrArte con las funcionalidades principales de registro de usuario, login, dashboard, visualización de balance, registro de transacciones y perfil de usuario. Se implementaron mejoras en la interfaz y se corrigieron errores identificados en la revisión anterior. |
 | Sprint n – 2 Retrospective Summary | El equipo identificó la necesidad de mejorar la comunicación durante el desarrollo y establecer mejor coordinación para las tareas de integración. Se acordó implementar reuniones más frecuentes y mejorar la documentación del código. |
 | **Sprint Goal & User Stories** | |
@@ -2218,177 +2352,746 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 
 <div id='5.2.3.2.'><h5>5.2.3.2. Sprint Backlog 3</h5></div>
 
-| Sprint 3 | | | | | | | |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-| User Story | | Work-Item / Task | | | | | |
-| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-| US-015 | API de Gestión de Usuarios | TS-014 | Implementar endpoints de usuario | Crear endpoints para registro, login y gestión de perfiles de usuario | 8 | Cisneros Salas, Luis Angel | Done |
-| US-016 | API de Transacciones Financieras | TS-015 | Implementar CRUD de transacciones | Desarrollar endpoints para crear, leer, actualizar y eliminar transacciones | 6 | Padilla Advincula, Paolo Sebastian | Done |
-| US-017 | Integración Frontend-Backend | TS-016 | Conectar servicios del frontend | Integrar las llamadas API del frontend con el backend desarrollado | 8 | Rivera Ayala, Gabriel Alejandro | In-Process |
-| US-018 | Entrevistas de Validación | TS-017 | Diseño de guión de entrevistas | Preparar guión y metodología para entrevistas de validación con usuarios | 3 | Reyes Menacho, Camila Asuncion | Done |
-| US-019 | Evaluación Heurística | TS-018 | Aplicar heurísticas de Nielsen | Evaluar la aplicación usando principios de usabilidad de Jakob Nielsen | 3 | Rodriguez Zuluoeta, Andres Fernando | Done |
 
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">TS01</td>
+    <td align="center">Añadir un perfil con el uso del RESTful API</td>
+    <td align="center">WI01</td>
+    <td align="center">Crear endpoint para la creacion de un perfil</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">5</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS02</td>
+    <td align="center">Visualizar un perfil con el uso del RESTful API</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear endpoint para la vizualizacion de un perfil</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">Reyes Menacho, Camila Asunción
+</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS03</td>
+    <td align="center">Añadir un ... con el uso del RESTful API</td>
+    <td align="center">WI03</td>
+    <td align="center">Crear endpoint para la creacion de un ....</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Cisneros Salas, Luis Ángel</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS04</td>
+    <td align="center">Editar un ... con el uso del RESTful API</td>
+    <td align="center">WI04</td>
+    <td align="center">Crear endpoint para la edicion de un ...</td>
+    <td align="center">Implementación de un método PUT para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Cisneros Salas, Luis Ángel</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar un ... con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un ... </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Rodríguez Zulueta, Andrés Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS06</td>
+    <td align="center">Añadir person con el uso del RESTful API</td>
+    <td align="center">WI01</td>
+    <td align="center">Crear endpoint para la creacion de un person</td>
+    <td align="center">Implementación de un método POST para el ingreso de datos</td>
+    <td align="center">5</td>
+    <td align="center">Rodríguez Zulueta, Andrés Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS07</td>
+    <td align="center">Visualizar el endpoint person con el uso del RESTful API</td>
+    <td align="center">WI02</td>
+    <td align="center">Crear endpoint para la vizualizacion de un persona</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">Reyes Menacho, Camila Asunción</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar una persona con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un persona </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS05</td>
+    <td align="center">Eliminar una persona con el uso del RESTful API</td>
+    <td align="center">WI05</td>
+    <td align="center">Crear endpoint para la eliminacion de un persona </td>
+    <td align="center">Implementación de un método DELETE para el ingreso de datos</td>
+    <td align="center">4</td>
+    <td align="center">Cisneros Salas, Luis Ángel</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">TS02</td>
+    <td align="center">Eliminacion de una persona con el uso del RESTful API con el id</td>
+    <td align="center">WI02</td>
+    <td align="center">Eliminar endpoint para la vizualizacion de una persona</td>
+    <td align="center">Implementación de un método GET para la obtencion de datos</td>
+    <td align="center">4</td>
+    <td align="center">
+Rodríguez Zulueta, Andrés Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+</table>
 <div id='5.2.3.3.'><h5>5.2.3.3. Development Evidence for Sprint Review</h5></div>
 
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
-|------------|--------|-----------|----------------|---------------------|---------------------|
-| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd | feature/user-management | a7b3c9d | feat: implement user registration endpoint | Added POST /api/users/register with validation | 21/05/2025 |
-| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd | feature/user-management | b4f8e2a | feat: implement user authentication | Added JWT token generation and validation | 22/05/2025 |
-| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd | feature/transactions | c6d9f3b | feat: implement transaction CRUD operations | Added endpoints for managing financial transactions | 23/05/2025 |
-| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd | feature/api-integration | d8a5b7c | feat: integrate user authentication with backend | Connected login and register forms with API | 24/05/2025 |
-| https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd | feature/api-integration | e9c6d4f | feat: integrate transaction services | Connected transaction management with backend APIs | 25/05/2025 |
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/userContext</td>
+    <td align="center">8e3d170c49f229132cf1e73436a724e9255a6721</td>
+    <td align="center">feat(userContext): add bounded userContext</td>
+    <td align="center">add bounded userContext</td>
+  <td align="center">20/06/2025</td>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">20/06/2025</td>
+</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+    <td align="center">20/06/2025</td>
+  </tr>
+
+</table>
 
 <div id='5.2.3.4.'><h5>5.2.3.4. Testing Suite Evidence for Sprint Review</h5></div>
+Para este sprint se contempló la realización funcionalidades referente al testing de los endpoints de nuestra API, por lo que se mostrarra todos los endpoints
 
-Durante este sprint se implementaron las primeras pruebas unitarias para el backend, específicamente para los endpoints de gestión de usuarios y transacciones. Se utilizó el framework de testing integrado de Spring Boot para Java.
-
-Evidencias de pruebas unitarias y de integración una vez implementado el backend completo.
-
+Sin embargo, la comprobación de los endpoints se realizó mediante la herramienta de Swagger:
 <div id='5.2.3.5.'><h5>5.2.3.5. Execution Evidence for Sprint Review</h5></div>
+Para esta entrega se ha logrado implementar y desplegar la segunda version del Landing Page, se implemento el metodo el cambio de ingles a español y primera version del backend.
 
-Durante el Sprint 3, se logró implementar el backend de AhorrArte con las funcionalidades principales:
+- Landing Page
 
-**Funcionalidades implementadas:**
-- Sistema de autenticación con JWT
-- Gestión de usuarios (registro, login, perfil)
-- CRUD de transacciones financieras
-- Integración básica con el frontend
 
-**Capturas de pantalla:**
-
-Capturas de pantalla del backend funcionando y la integración con el frontend.
+- Backend
 
 <div id='5.2.3.6.'><h5>5.2.3.6. Services Documentation Evidence for Sprint Review</h5></div>
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git
+Se adjunta el enlace del back end desplegado: 
 
-Para el desarrollo del backend se utilizaron las siguientes tecnologías:
-
-**Spring Boot:** Framework principal para el desarrollo de la API REST
-**Spring Security:** Para la implementación de autenticación y autorización
-**Spring Data JPA:** Para la gestión de la base de datos
-**MySQL:** Base de datos relacional
-**Swagger/OpenAPI:** Para la documentación de la API
-
-Documentación completa de la API con Swagger una vez implementada.
+||||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Person|/api/v1/Person|!![foto_person_](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
+|User Consult|//api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
 
 <div id='5.2.3.7.'><h5>5.2.3.7. Software Deployment Evidence for Sprint Review</h5></div>
+# Documentación de Endpoints
 
-El backend de AhorrArte fue desplegado en los siguientes servicios:
+## Roles
+| **Endpoint**         | **Acción HTTP** | **Descripción**                       |
+|-----------------------|-----------------|---------------------------------------|
+| `/ap/v1/roles`       | GET             | Recuperar todos los roles disponibles.|
 
-**Railway:** Para el despliegue del backend Spring Boot
-**PlanetScale:** Para la base de datos MySQL en la nube
-**Frontend:** Mantenido en Firebase (del Sprint anterior)
+## Personas
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                          |
+|-------------------------------|-----------------|------------------------------------------|
+| `/api/v1/persons`             | GET             | Obtener todas las personas.              |
+| `/api/v1/persons`             | POST            | Crear una nueva persona.                 |
+| `/api/v1/persons/{personId}`  | GET             | Obtener los datos de una persona específica.|
 
-Evidencias del despliegue del backend y configuración de la base de datos.
+
+## Consultas de Usuarios
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user_consults`                        | GET             | Lista todas las consultas de usuarios.  |
+| `/api/v1/user_consults`                        | POST            | Crear una nueva consulta.               |
+| `/api/v1/user_consults/{userId}/{consultId}`   | GET             | Obtener una consulta específica.        |
+| `/api/v1/user_consults/{userId}/{consultId}`   | DELETE          | Eliminar una consulta específica.       |
+
+## Usuarios
+| **Endpoint**              | **Acción HTTP** | **Descripción**              |
+|---------------------------|-----------------|------------------------------|
+| `/api/v1/users`           | GET             | Obtener todos los usuarios.  |
+| `/api/v1/users/{userId}`  | GET             | Obtener un usuario por su ID.|
+
+
+## Reportes de Inflación
+| **Endpoint**             | **Acción HTTP** | **Descripción**                    |
+|--------------------------|-----------------|------------------------------------|
+| `/api/reports/{id}`      | GET             | Obtener un reporte por ID.         |
+| `/api/reports/{id}`      | PUT             | Actualizar un reporte por ID.      |
+| `/api/reports/{id}`      | DELETE          | Eliminar un reporte por ID.        |
+| `/api/reports`           | GET             | Obtener todos los reportes.        |
+| `/api/reports`           | POST            | Crear un nuevo reporte.            |
+
+## Educación Financiera
+| **Endpoint**                        | **Acción HTTP** | **Descripción**                    |
+|-------------------------------------|-----------------|------------------------------------|
+| `/api/finantial-education/{id}`     | GET             | Obtener un recurso por ID.         |
+| `/api/finantial-education/{id}`     | PUT             | Actualizar un recurso por ID.      |
+| `/api/finantial-education/{id}`     | DELETE          | Eliminar un recurso por ID.        |
+| `/api/finantial-education`          | GET             | Obtener todos los recursos.        |
+| `/api/finantial-education`          | POST            | Crear un nuevo recurso.            |
+
+## Datos Financieros
+| **Endpoint**                 | **Acción HTTP** | **Descripción**                    |
+|------------------------------|-----------------|------------------------------------|
+| `/api/finantial-data/{id}`   | GET             | Obtener datos por ID.              |
+| `/api/finantial-data/{id}`   | PUT             | Actualizar datos por ID.           |
+| `/api/finantial-data/{id}`   | DELETE          | Eliminar datos por ID.             |
+| `/api/finantial-data`        | GET             | Obtener todos los datos.           |
+| `/api/finantial-data`        | POST            | Crear nuevos datos.                |
+
+## Transacciones de Usuarios
+| **Endpoint**                                  | **Acción HTTP** | **Descripción**                         |
+|-----------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user-transactions`                   | POST            | Crear una nueva transacción.            |
+| `/api/v1/user-transactions/{userId}`          | GET             | Obtener transacciones por ID de usuario.|
+
+## Relación Usuario-Reporte de Inflación
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|-------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/users/{userId}/reports/{reportId}`       | POST            | Relacionar un usuario con un reporte.   |
+| `/api/users/{userId}/reports/{reportId}`       | DELETE          | Eliminar relación usuario-reporte.      |
+
+## Consultas y Asesorías
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                     |
+|-------------------------------|-----------------|-------------------------------------|
+| `/api/v1/consultas-asesoria`  | GET             | Obtener todas las consultas.        |
+| `/api/v1/consultas-asesoria/{id}` | GET         | Obtener una consulta específica.    |
 
 <div id='5.2.3.8.'><h5>5.2.3.8. Team Collaboration Insights during Sprint</h5></div>
 
+- Para este sprint se mejoraron las vistas en todas las pestañas del front-end, backe-end y el informe. A continuación se presentará los insights del grupo.
 
+Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/
 
 <div id='5.2.4.'><h5>5.2.4. Sprint 4</h5></div>
 <div id='5.2.4.1.'><h5>5.2.4.1. Sprint Planning 4</h5></div>
-<div id='5.2.4.2.'><h5>5.2.4.2. Sprint Backlog 4</h5></div>
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2025-07-01</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Meet</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Cisneros Salas, Luis Ángel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro<br>Reyes Menacho, Camila Asunción<br>Cisneros Salas, Luis Ángel<br>Rodríguez Zulueta, Andrés Fernando<br>Rivera Ayala, Gabriel Alejandro</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 - 3 - 2 – 1 Review Summary</td>
+    <td align="center">Aunque el desarrollo avanzó según lo esperado, algunos endpoints de autenticación tuvieron pequeños retrasos</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 - 3 - 2 – 1 Retrospective Summary</td>
+    <td align="center">Mejorar la documentación de las APIs antes de cada sprint y establecer criterios más claros para las pruebas de validación de datos</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 Goal</td>
+    <td align="center">Se debe realizar correcciones Backend, conectar el backend con el Fronted, implementar temas de seguridad y testeos.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">2 semanas</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">5</td>
+  </tr>
+</table><br>
 
 #### Sprint Backlog 4
- 
- <div id='5.2.4.3.'><h5>5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">WI01</td>
+    <td align="center">TS01</td>
+    <td align="center">WI01</td>
+    <td align="center">Conectar el Frontend con el Backend</td>
+    <td align="center">	Conectar el Frontend con el Backend</td>
+    <td align="center">6</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI02</td>
+    <td align="center">TS02</td>
+    <td align="center">WI02</td>
+    <td align="center">Relizar los testeos</td>
+    <td align="center">Relizar el conjunto de testing a nuestro proyecto para asegurar la calidad del software</td>
+    <td align="center">3</td>
+    <td align="center">Reyes Menacho, Camila Asunción</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI03</td>
+    <td align="center">TS03</td>
+    <td align="center">WI03</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">3</td>
+    <td align="center">Cisneros Salas, Luis Ángel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI04</td>
+    <td align="center">TS04</td>
+    <td align="center">WI04</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">4</td>
+    <td align="center">Rodríguez Zulueta, Andrés Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">WI05</td>
+    <td align="center">TS05</td>
+    <td align="center">WI05</td>
+    <td align="center">Security</td>
+    <td align="center">Security</td>
+    <td align="center">4</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
 
 #### Development Evidence for Sprint 4 Review
- 
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/finantialData</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">feat: added description in data</td>
+    <td align="center">feat: added description in data</td>
+    <td align="center">1/07/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/finantialEducation  </td>
+    <td align="center">520177f55b86249cd28f65997fc2a82c71b7b8e6</td>
+    <td align="center">feat: added finantial education</td>
+    <td align="center">feat: added finantial education</td>
+  <td align="center">01/07/2025</td>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/iam</td>
+    <td align="center">77668ab7cecba8cfa78e07be38a584901001105f</td>
+    <td align="center">feat: added bounded context iam</td>
+    <td align="center">feat: added bounded context iam</td>
+  <td align="center">01/07/2025</td>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/inflationReport</td>
+    <td align="center">96125430a0c7f54aa16d4a31a4f75c5b79f7c87d</td>
+    <td align="center">feat:add InflationReport</td>
+    <td align="center">feat:add InflationReport</td>
+    <td align="center">01/07/2025</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/profile  </td>
+    <td align="center">a72f1b0a0d012c7c2c4643f2cdd479f6d2bcbbc5</td>
+    <td align="center">feat(profile): add bounded profile</td>
+    <td align="center">feat(profile): add boundedhttps://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/userContext</td>
+    <td align="center">deee47d0bf55a0dcb29726c9d57a920e752a8cda</td>
+    <td align="center">feat:added bounded context user Context</td>
+    <td align="center">feat:added bounded context user Context</td>
+  <td align="center">01/07/2025</td>
+  <tr>
+    <td align="center">https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd</td>
+    <td align="center">feature/userInflation</td>
+    <td align="center">4e821a76ee72245de325817b644998c5657b5cf2</td>
+    <td align="center">feat:added bounded context user inflation</td>
+    <td align="center">feat:added bounded context user inflation</td>
+  <td align="center">01/07/2025</td>
+  
+</table>
+
+
 <div id='5.2.4.4.'><h5>5.2.4.4. Testing Suite Evidence for Sprint Review</h5></div>
+
 - A continuación, se presenta una breve descripción de los endpoints que forman parte de la plataforma financiera, que permiten a los usuarios gestionar sus datos, acceder a reportes y realizar configuraciones relacionadas con su economía personal y familiar.
- 
+
+**Acceptance Tests - Test en el gherkin del backend**
+
+
+|Endpoints|Test Gherkin del Backend|
+| :- | :- |
+|<p>![image](assets/authentication.png)</p><p>![image](assets/role.png)</p><p>![image](assets/Users.png)</p>|![image](assets/auth_gherkin.png)|
+|![image](assets/Finatial\_Data.png)|![image](assets/financial-data\_gherkin.png)|
+|![image](assets/Plans.png)|![image](assets/plans\_gherkin.png)|
+|![image](assets/Inflation\_Report.png)|![image](assets/reporte\_inflacion\_gherkin.png)|
+|![image](assets/userconsult.png)|![image](assets/user\_consults\_gherkin.png)|
+|![image](assets/User\_Inflation.png)|![image](assets/user\_inflation\_gherkin.png)|
+|![image](assets/Families.png)|![image](assets/families\_gherkin.png)|
+|![image](assets/Finatial\_Education.png)|![image](assets/finantial-education\_\_gherkin.png)|
+
 <div id='5.2.4.5.'><h5>5.2.4.5. Execution Evidence for Sprint Review</h5></div>
- 
+
+- Durante el Sprint Review, se evalúan las evidencias de ejecución para verificar que todas las funcionalidades planificadas y las tareas del sprint se hayan completado conforme a los criterios establecidos. En este caso, tanto el frontend como el backend han sido desplegados, con sus correspondientes endpoints y funcionalidades listos para su uso. Por lo tanto, se registrarán como Execution Evidence.
+
+Execution Evidence Backend
+
+||||
+| :- | :- | :- |
+|Entity|EndPoint URL|Swagger|
+|Person|/api/v1/Person|!![foto_person](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
+|User Consult|/api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
+|Users|/api/v1/users|![users](assets/Users.png)|
+|Families|/api/v1/families|![families](assets/Families.png)|
+|Plans|/api/v1/plans|![plans](assets/Plans.png)|
+|Inflation Report|/api/reports|![reports](assets/Inflation_Report.png)|
+|Finantial Education|/api/finantial-education|![Education](assets/Finatial_Education.png)|
+|Finantial Data|/api/finantial-data|![data](assets/Finatial_Data.png)|
+|User Inflation|/api/users/{userId}/reports/{reportId}|![inflation](assets/User_Inflation.png)|
+|Consulta Asesoria|/api/v1/consultas-asesoria|![asesoria](assets/Consulta_Asesoria.png)|
+|Roles|/api/v1/roles|![roles](assets/role.png)|
+|Authentication|/api/v1/authentication/sign-up  /api/v1/authentication/sign-in|![auth](assets/authentication.png)|
+
+Execution Evidence Frontend
+Login
+
+![login](assets/login.png)
+
+Registro
+
+![registro](assets/registro.png)
+
+Registro  de datos
+
+![registro](assets/registro_datos.png)
+
+Registro de transacciones
+
+![registro](assets/registro_transacciones.png)
+
+Servicio al cliente 
+
+![registro](assets/servicio_cliente.png)
+
+Suscripcion
+
+![registro](assets/suscripcion.png)
+
+Notificaciones
+![registro](assets/notificaciones.png)
+
+Perfiles
+
+![registro](assets/perfiles.png)
+
+
 <div id='5.2.4.6.'><h5>5.2.4.6. Services Documentation Evidence for Sprint Review</h5></div>
 A continuación, se muestra la documentación exhaustiva de los servicios y endpoints de la API relacionados con los objetivos definidos. Esta documentación utiliza OpenAPI para garantizar claridad, accesibilidad y compatibilidad, proporcionando un recurso invaluable para desarrolladores y equipos de soporte.
 
 # Documentación de Endpoints
 
+## Roles
+| **Endpoint**         | **Acción HTTP** | **Descripción**                       |
+|-----------------------|-----------------|---------------------------------------|
+| `/ap/v1/roles`       | GET             | Recuperar todos los roles disponibles.|
+
+## Personas
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                          |
+|-------------------------------|-----------------|------------------------------------------|
+| `/api/v1/persons`             | GET             | Obtener todas las personas.              |
+| `/api/v1/persons`             | POST            | Crear una nueva persona.                 |
+| `/api/v1/persons/{personId}`  | GET             | Obtener los datos de una persona específica.|
+
+## Autenticación
+| **Endpoint**                      | **Acción HTTP** | **Descripción**                     |
+|-----------------------------------|-----------------|-------------------------------------|
+| `/api/v1/authentication/sign-up` | POST            | Registro de nuevos usuarios.        |
+| `/api/v1/authentication/sign-in` | POST            | Inicio de sesión.                   |
+
+## Consultas de Usuarios
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user_consults`                        | GET             | Lista todas las consultas de usuarios.  |
+| `/api/v1/user_consults`                        | POST            | Crear una nueva consulta.               |
+| `/api/v1/user_consults/{userId}/{consultId}`   | GET             | Obtener una consulta específica.        |
+| `/api/v1/user_consults/{userId}/{consultId}`   | DELETE          | Eliminar una consulta específica.       |
+
+## Usuarios
+| **Endpoint**              | **Acción HTTP** | **Descripción**              |
+|---------------------------|-----------------|------------------------------|
+| `/api/v1/users`           | GET             | Obtener todos los usuarios.  |
+| `/api/v1/users/{userId}`  | GET             | Obtener un usuario por su ID.|
+
+## Reportes de Inflación
+| **Endpoint**             | **Acción HTTP** | **Descripción**                    |
+|--------------------------|-----------------|------------------------------------|
+| `/api/reports/{id}`      | GET             | Obtener un reporte por ID.         |
+| `/api/reports/{id}`      | PUT             | Actualizar un reporte por ID.      |
+| `/api/reports/{id}`      | DELETE          | Eliminar un reporte por ID.        |
+| `/api/reports`           | GET             | Obtener todos los reportes.        |
+| `/api/reports`           | POST            | Crear un nuevo reporte.            |
+
+## Educación Financiera
+| **Endpoint**                        | **Acción HTTP** | **Descripción**                    |
+|-------------------------------------|-----------------|------------------------------------|
+| `/api/finantial-education/{id}`     | GET             | Obtener un recurso por ID.         |
+| `/api/finantial-education/{id}`     | PUT             | Actualizar un recurso por ID.      |
+| `/api/finantial-education/{id}`     | DELETE          | Eliminar un recurso por ID.        |
+| `/api/finantial-education`          | GET             | Obtener todos los recursos.        |
+| `/api/finantial-education`          | POST            | Crear un nuevo recurso.            |
+
+## Datos Financieros
+| **Endpoint**                 | **Acción HTTP** | **Descripción**                    |
+|------------------------------|-----------------|------------------------------------|
+| `/api/finantial-data/{id}`   | GET             | Obtener datos por ID.              |
+| `/api/finantial-data/{id}`   | PUT             | Actualizar datos por ID.           |
+| `/api/finantial-data/{id}`   | DELETE          | Eliminar datos por ID.             |
+| `/api/finantial-data`        | GET             | Obtener todos los datos.           |
+| `/api/finantial-data`        | POST            | Crear nuevos datos.                |
+
+## Transacciones de Usuarios
+| **Endpoint**                                  | **Acción HTTP** | **Descripción**                         |
+|-----------------------------------------------|-----------------|-----------------------------------------|
+| `/api/v1/user-transactions`                   | POST            | Crear una nueva transacción.            |
+| `/api/v1/user-transactions/{userId}`          | GET             | Obtener transacciones por ID de usuario.|
+
+## Relación Usuario-Reporte de Inflación
+| **Endpoint**                                    | **Acción HTTP** | **Descripción**                         |
+|-------------------------------------------------|-----------------|-----------------------------------------|
+| `/api/users/{userId}/reports/{reportId}`       | POST            | Relacionar un usuario con un reporte.   |
+| `/api/users/{userId}/reports/{reportId}`       | DELETE          | Eliminar relación usuario-reporte.      |
+
+## Consultas y Asesorías
+| **Endpoint**                  | **Acción HTTP** | **Descripción**                     |
+|-------------------------------|-----------------|-------------------------------------|
+| `/api/v1/consultas-asesoria`  | GET             | Obtener todas las consultas.        |
+| `/api/v1/consultas-asesoria/{id}` | GET         | Obtener una consulta específica.    |
+
+# Tabla Resumen de Endpoints Documentados
+
+| **Endpoint**                              | **Acción HTTP** | **Descripción**                                   |
+|-------------------------------------------|-----------------|-------------------------------------------------|
+| `/ap/v1/roles`                            | GET             | Recuperar todos los roles disponibles.          |
+| `/api/v1/persons`                         | GET, POST       | Gestionar datos de personas.                    |
+| `/api/v1/persons/{personId}`              | GET             | Obtener datos de una persona específica.        |
+| `/api/v1/authentication/sign-up`          | POST            | Registro de nuevos usuarios.                    |
+| `/api/v1/authentication/sign-in`          | POST            | Inicio de sesión.                               |
+| `/api/v1/user_consults`                   | GET, POST       | Gestión de consultas de usuarios.               |
+| `/api/v1/user_consults/{userId}/{consultId}` | GET, DELETE   | Operaciones con consultas específicas.          |
+| `/api/v1/users`                           | GET             | Recuperar todos los usuarios.                  |
+| `/api/v1/users/{userId}`                  | GET             | Obtener un usuario por su ID.                   |
+| `/api/reports/{id}`                       | GET, PUT, DELETE | Operaciones con reportes de inflación.         |
+| `/api/reports`                            | GET, POST       | Gestión de reportes de inflación.               |
+| `/api/finantial-education/{id}`           | GET, PUT, DELETE | Operaciones con recursos educativos.           |
+| `/api/finantial-education`                | GET, POST       | Gestión de recursos educativos financieros.     |
+| `/api/finantial-data/{id}`                | GET, PUT, DELETE | Operaciones con datos financieros.             |
+| `/api/finantial-data`                     | GET, POST       | Gestión de datos financieros.                   |
+| `/api/v1/user-transactions`               | POST            | Crear una nueva transacción.                    |
+| `/api/v1/user-transactions/{userId}`      | GET             | Obtener transacciones por ID de usuario.        |
+| `/api/users/{userId}/reports/{reportId}`  | POST, DELETE    | Relacionar o eliminar usuario con un reporte.   |
+| `/api/v1/consultas-asesoria`              | GET             | Obtener todas las consultas.                    |
+| `/api/v1/consultas-asesoria/{id}`         | GET             | Obtener una consulta específica.                |
+
+### Web Services
+![image (1)](https://github.com/user-attachments/assets/20479866-2751-48c7-8720-2889ffa305ad)
+![image (2)](https://github.com/user-attachments/assets/e1a0abbd-242a-4cad-b380-07aefa383573)
+![image (9)](https://github.com/user-attachments/assets/80fe8994-f503-4643-bbf8-608ec37f3fdf)
+![image (10)](https://github.com/user-attachments/assets/363cb2e4-166a-4fdb-bc91-2cf2a981b466)
+![image (3)](https://github.com/user-attachments/assets/e4ca9a05-56ed-442f-911c-be69f4dc2234)
+![image (4)](https://github.com/user-attachments/assets/849933f6-aee1-48fe-8727-23d9e3cf8d65)
+![image (5)](https://github.com/user-attachments/assets/c1b90ba8-9f53-45c2-9b63-e207c45e87e8)
+![image (6)](https://github.com/user-attachments/assets/f37d80ee-52bc-42f6-afa2-5a9e4d5ebe32)
+![image (7)](https://github.com/user-attachments/assets/c8297871-2a27-4b00-937b-3ff04f0a30dd)
+![image (8)](https://github.com/user-attachments/assets/98a87ee5-ff1e-4f40-a352-5c8ea60d2dc5)
+
 <div id='5.2.4.7.'><h5>5.2.4.7. Software Deployment Evidence for Sprint Review</h5></div>
+
+Para la entrega del cuarto sprint, se desplego el landing page completamente funcional. Cumpliendo los user stories correspondientes al entregable. De la misma forma se desplego la web application parcialmente completa. Asimismo, se desplego el back-end totalmente concluido.
+
+Landing page:
+
+El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
+
+Enlace de despliegue del landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/index.html
+
+![landing](https://github.com/user-attachments/assets/59f87f4e-9139-4e18-9318-9cb1583c5fcb)
+
+ 
+Web Application front-end:
+
+Al netlify estar conectado a github, al realizar un merge en la rama principal ("master") netlify detecta los cambios y realiza un nuevo deploy con los cambios.
+
+Enlace de despliegue: http://48.209.16.151 
+
+Web Services back-end:
+
+Enlace de despligue del web service: http://172.211.129.172:8080/swagger-ui/index.html#/ 
+
+![backend](https://github.com/user-attachments/assets/5d5e7e9f-eb15-4fb5-b9cd-ba016e99e479)
+![backend01](https://github.com/user-attachments/assets/224362b3-4aad-4b27-928a-5014f3e64cc3)
+
 
 <div id='5.2.4.8.'><h5>5.2.4.8. Team Collaboration Insights during Sprint</h5></div>
 
+- Para este sprint se mejoraron las vistas en todas las pestañas del front-end, backe-end y el informe. A continuación se presentará los insights del grupo.
+
+Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report
+
+Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-FrontEnd
+
+
+Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd
+
 <div id='5.3.'><h4>5.3. Validation Interviews</h4></div>
 
+Con el objetivo de abarcar diferentes aspectos, se llevarán a cabo entrevistas durante la etapa de diseño o mientras el usuario interactúe con la aplicación, abordando temas generales, de navegación, flujo de usuario y experiencia en general.
+
 <div id='5.3.1.'><h5>5.3.1. Diseño de Entrevistas</h5></div>
-
-**Objetivo de las entrevistas:**
-Validar la usabilidad, funcionalidad y utilidad de la aplicación AhorrArte con usuarios reales de nuestros segmentos objetivo.
-
-**Segmentos objetivo:**
-1. **Jefes de hogar** de niveles socioeconómicos D y E (25-55 años)
-2. **Jóvenes adultos** en inicios de independencia (18-25 años)
-
-**Duración:** 15-20 minutos por entrevista
-
-**Modalidad:** Virtual (videollamada) con grabación de pantalla
-
-**Preguntas principales:**
-
-**Introducción y perfil del usuario:**
-1. ¿Podrías contarnos tu nombre, edad y ocupación?
-2. ¿Actualmente utilizas alguna aplicación para manejar tus finanzas?
-3. ¿Cuáles son tus principales desafíos al administrar tu dinero?
-
-**Navegación y primera impresión:**
-4. ¿Qué piensas de la interfaz de AhorrArte al verla por primera vez?
-5. ¿Te resulta fácil entender para qué sirve cada sección?
-6. ¿El proceso de registro te parece sencillo?
-
-**Funcionalidades específicas:**
-7. ¿Qué opinas de la función de registro de ingresos y gastos?
-8. ¿Te resulta útil la visualización del balance mensual?
-9. ¿Las recomendaciones financieras te parecen relevantes?
-10. ¿La sección de educación financiera te resulta interesante?
-
-**Usabilidad:**
-11. ¿Hubo alguna función que te costó encontrar o usar?
-12. ¿Qué cambiarías o mejorarías de la aplicación?
-13. ¿Recomendarías AhorrArte a familiares o amigos?
-
-**Cierre:**
-14. ¿Qué tan probable es que uses AhorrArte regularmente?
-15. ¿Algún comentario adicional o sugerencia?
+<strong>Impresión Inicial:</strong>
+<ul>
+ <li>¿Qué te transmite esta landing page a primera vista?</li>
+ <li>¿Cuál crees que es la finalidad de esta página/aplicación?</li>
+ <li>¿Hay algún elemento que te haya llamado mucho la atención o que te parezca fuera de lugar?</li>
+</ul>
+<strong>Sobre la Navegación y el Flujo del Usuario:</strong>
+<ul>
+ <li><strong>(Durante una acción concreta que realiza el usuario)</strong></li> 
+ <li>¿Cómo te fue al realizar esta acción?</li>
+ <li>¿Fue un proceso sencillo o encontraste algún obstáculo?</li>
+ <li>¿En algún momento te sentiste confundido o sin saber qué hacer?</li>
+</ul>
+<strong>Claridad de la Información:</strong>
+<ul>
+ <li>¿Te parece que el contenido de la página es comprensible y está bien explicado?</li>
+ <li>¿Hubo algo que no entendiste o que crees que se debería explicar con más detalle?</li>
+</ul>
+<strong>Interacción y Experiencia con la Página:</strong>
+<ul>
+ <li><strong>(Durante la interacción con un componente específico de la página)</strong></li> 
+ <li>Cuando usaste este elemento, ¿la aplicación respondió como lo esperabas?</li>
+</ul>
+<strong>Opinión General:</strong>
+<ul>
+ <li>En una escala del 1 al 10, ¿cómo valorarías tu experiencia al usar la landing page y la aplicación?</li>
+ <li>¿Qué fue lo que más te gustó y lo que menos te gustó de la aplicación?</li>
+ <li>¿Qué modificarías o añadirías para mejorar tu experiencia?</li>
+</ul>
 
 <div id='5.3.2.'><h5>5.3.2. Registro de Entrevistas</h5></div>
-
-**Entrevista 1:**
-- **Entrevistado:** María González
-- **Edad:** 34 años
-- **Ocupación:** Ama de casa y comerciante
-- **Duración:** 18 minutos
-
-**Resumen:** María encontró la aplicación muy útil para organizar sus gastos del hogar. Le gustó especialmente la función de alertas cuando los gastos superan los ingresos. Sugirió agregar categorías más específicas para gastos del hogar.
-
-**Entrevista 2:**
-- **Entrevistado:** Carlos Mendoza  
-- **Edad:** 22 años
-- **Ocupación:** Estudiante universitario y trabaja medio tiempo
-- **Duración:** 16 minutos
-
-**Resumen:** Carlos valoró mucho la sección de educación financiera. Como joven que está aprendiendo a manejar dinero, encontró las recomendaciones muy prácticas. Sugirió agregar metas de ahorro a corto plazo.
-
-**Entrevista 3:**
-- **Entrevistado:** Ana Ramos
-- **Edad:** 41 años  
-- **Ocupación:** Vendedora ambulante
-- **Duración:** 20 minutos
-
-**Resumen:** Ana destacó la simplicidad de la interfaz. Como persona con poca experiencia en tecnología, pudo navegar sin dificultades. Solicitó que se agregue una función para registrar ingresos diarios variables.
-
-**Entrevista 4:**
-- **Entrevistado:** Miguel Torres
-- **Edad:** 28 años
-- **Ocupación:** Mecánico independiente  
-- **Duración:** 15 minutos
-
-**Resumen:** Miguel encontró útil el análisis de gastos por categoría. Como trabajador independiente, le ayudó a identificar en qué gasta más. Sugirió agregar gráficos más detallados sobre tendencias de gastos.
-
-**Análisis general de las entrevistas:**
-- **Usabilidad:** 4/4 usuarios encontraron la aplicación fácil de usar
-- **Utilidad:** Todos los usuarios valoraron las funcionalidades principales
-- **Mejoras sugeridas:** Categorías más específicas, metas de ahorro, registro de ingresos variables, gráficos detallados
-- **Satisfacción general:** 8.5/10 promedio
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluaciones según heurísticas.</h5></div>
 
@@ -2451,79 +3154,512 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
 ## **TABLA RESUMEN:**
-
 **Desktop landing page**
 
-| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-|:-:|:---------|:------------------:|:--------------------------------|
-| 1 | La sección de testimonios muestra información genérica sin validación real | 2 | Usability: Coincidencia entre el sistema y el mundo real |
-| 2 | Al seleccionar el plan premium, el usuario no es redireccionado a la pasarela de pago | 4 | Usability: Control y libertad del usuario |
-| 3 | Los botones "Comenzar" no direccionan al formulario de registro | 3 | Usability: Coincidencia entre el sistema y el mundo real |
-| 4 | La información sobre características del plan gratuito vs premium es insuficiente | 3 | Information Architecture: Jerarquía de Información |
-| 5 | El formulario de contacto no proporciona retroalimentación al usuario | 4 | Usability: Visibilidad del estado del sistema |
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto.|2|Usability: Coincidencia entre el sistema y el mundo real|
+|2|Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.|4|Usability: Control y libertad del usuario|
+|3|Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión|3|Usability: Coincidencia entre el sistema y el mundo real|
+|4|La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.|2|Usability: Diseño estético y minimalista|
+|5|La información relacionada con el start up y utilidad del producto es inexacta e insuficiente|3|Inclusive Design: Diseño Centrado en el Usuario|
+|6|Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de suscripción|3|Information Arquitecture: Jerarquía de Información|
+|7|El formulario de Contacto no muestra funcionalidad|4|Usability: Visibilidad del estado del sistema|
+|8|Tamaño inapropiado de botones “Start” del landing|2|Usability: Consistencia y estándares|
+|9|Espaciado inadecuado entre las secciones de la barra de navegación|1|Information Arquitecture: Jerarquía de información|
+|10|La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.|2|Information Arquitecture: Organaización y Estructura|
+|11|La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas|2|Usability: Estética y diseño minimalista|
+|12|La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.|1|Usability: Visibilidad del estado del sistema|
+|13|El título “About the team” no muestra internacionalización (cambio de idioma al inglés)|1|Usability: Flexibilidad y eficiencia de uso|
 
-**Web Application**
+<br>
 
-| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
-|:-:|:---------|:------------------:|:--------------------------------|
-| 1 | Falta de indicadores de progreso durante la carga de datos | 2 | Usability: Visibilidad del estado del sistema |
-| 2 | Ausencia de función "recordar contraseña" en el login | 3 | Usability: Prevención de errores |
-| 3 | No hay confirmación antes de eliminar transacciones | 4 | Usability: Prevención de errores |
-| 4 | La navegación entre secciones no es consistente | 3 | Usability: Consistencia y estándares |
-| 5 | Mensajes de error poco descriptivos en formularios | 3 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores |
-
-## **PROBLEMAS DETALLADOS:**
-
-**PROBLEMA #01:** La sección de testimonios muestra información genérica sin validación real
+**PROBLEMA #01:** La sección de “About the Team”, aparte de no integrar información pertinente, está ubicada por encima del producto:
 
 **Escala de severidad:** 02
 
 **Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
 
-**Descripción del problema:** Los testimonios en la landing page parecen ser contenido placeholder sin validación real de usuarios. Esto puede generar desconfianza en usuarios potenciales que buscan evidencia genuina de la efectividad del producto.
+**Descripción del problema:** La ubicación de la sección "About the Team" por encima del producto en un landing page puede ser problemática desde una perspectiva de arquitectura de la información y usabilidad. Por lo general, en un landing page, se espera que la información más relevante y crucial para los usuarios, como la descripción del producto o servicio, esté ubicada en la parte superior de la página. La sección "About the Team" generalmente no es la información más relevante para los visitantes que llegan a la página en busca de información sobre el producto o servicio.
 
-**Recomendación:** Incluir testimonios reales de usuarios que hayan participado en las pruebas de validación, con nombres reales (con permiso) y experiencias específicas sobre cómo AhorrArte les ayudó en su gestión financiera.
+![WhatsApp Image 2024-10-31 at 9 20 56 AM](https://github.com/user-attachments/assets/a696da58-cff6-464b-80b9-a334be29c1a2)
 
-**PROBLEMA #02:** Al seleccionar el plan premium, el usuario no es redireccionado a la pasarela de pago
+**Recomendación:** Para mejorar la usabilidad y la eficacia de la página, se recomienda reorganizar la página de manera que la información principal del producto esté en la parte superior y sea lo primero que los visitantes perciban. Luego, la información sobre el equipo podría estar ubicada más abajo en la página o en una sección separada. 
+
+<br>
+
+**Problema #02:** Al seleccionar el plan de suscripción, el usuario es redireccionado al dashboard de la aplicación y no a la pasarela de pago.
 
 **Escala de Severidad:** 04
 
 **Heurística relacionada:** Usability - Control y libertad del usuario
 
-**Descripción del problema:** Cuando un usuario decide seleccionar el plan premium "AhorrArte Unlimited", no se le redirige a una pasarela de pago funcional, lo que impide completar la suscripción y genera frustración.
+**Descripción del problema:** Cuando un usuario decide seleccionar un plan de suscripción, es de suma importancia proporcionarle un control claro y libertad para completar el proceso de suscripción. Redirigir al usuario al dashboard de la aplicación en lugar de llevarlo directamente a la pasarela de pago puede generar confusión y una sensación de falta de control para el usuario. Esto podría hacer que los usuarios se pregunten si su selección se ha registrado correctamente o si han cometido un error.
 
-**Recomendación:** Implementar una pasarela de pago funcional que permita a los usuarios completar el proceso de suscripción de manera clara y segura.
+![image](https://github.com/user-attachments/assets/eaeda8ff-b890-48f5-8eab-2c1308f3aa8b)
 
-**PROBLEMA #03:** Los botones "Comenzar" no direccionan al formulario de registro
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con la heurística de Control y libertad del usuario, se recomienda redirigir de manera clara y visible al usuario a la pasarela de pago una vez que haya seleccionado un plan de suscripción. Además, se puede proporcionar un proceso de confirmación visual o un mensaje de confirmación para asegurarse de que el usuario esté al tanto de que su selección de plan de suscripción se ha registrado correctamente.
+
+<br>
+
+**Problema #03:** Al seleccionar los botones interactivos “Start” del landing, el usuario no es direccionado al formulario de registro o inicio de sesión
 
 **Escala de severidad:** 03
 
 **Principio violado:** Usability - Coincidencia entre el sistema y el mundo real
 
-**Descripción del problema:** Los botones con etiqueta "Comenzar" en la landing page no redirigen al usuario al formulario de registro de la aplicación, creando confusión sobre cómo acceder al servicio.
+**Descripción del problema:** Cuando un usuario hace clic en un botón con etiqueta "Start", se espera que sea redirigido a una acción que esté relacionada de manera lógica y directa con el inicio de un proceso, como el registro o el inicio de sesión. Si al hacer clic en "Start" no se direcciona al usuario a un formulario de registro o inicio de sesión, esto puede ser confuso y no coincide con la expectativa del usuario.
 
-**Recomendación:** Configurar todos los botones "Comenzar" para que redirijan directamente al formulario de registro de AhorrArte, proporcionando una experiencia fluida desde la landing page hacia la aplicación.
+![image (1)](https://github.com/user-attachments/assets/658eba60-6843-4d86-9451-10462059a8ce)
 
-**PROBLEMA #04:** La información sobre características del plan gratuito vs premium es insuficiente
+**Recomendación:** Para mejorar la experiencia del usuario y cumplir con las heurísticas mencionadas, se recomienda que al seleccionar los botones "Start", el usuario sea redirigido de manera clara y visible al formulario de registro o inicio de sesión correspondiente. La etiqueta "Start" debe ser descriptiva y coincidir con la acción que el usuario está a punto de emprender. Este ajuste en la interacción del usuario mejorará la coherencia y la usabilidad del landing page al alinear las expectativas del usuario con las acciones reales que se pueden llevar a cabo al hacer clic en los botones "Start".
+
+<br>
+
+**PROBLEMA #04:** La iconografía empleada en la sección “Benefits” resalta más que el contenido informativo.
+
+**Escala de severidad:** 02
+
+**Principios violados:**
+
+**Heurística**: Usabilidad-Diseño estético y minimalista
+
+La iconografía y el contenido deberían equilibrarse de manera que el diseño sea atractivo y agradable visualmente sin que sugiera predominancia por parte de los iconos. Ello evita la distracción del contenido informativo.
+
+**Information Arquitecture:** Jerarquía de la información
+
+La información clave, en este caso, los beneficios del producto o servicio, debería destacarse más que la iconografía. La jerarquía de la información debe ser clara para que los usuarios puedan identificar fácilmente los beneficios.
+
+**Descripción del problema:** 
+
+El problema identificado es que en la sección "Benefits" de la página web, la iconografía utilizada destaca más que el contenido informativo. En otras palabras, la iconografía (como imágenes o gráficos) llama más la atención y ocupa un lugar más prominente que la información descriptiva sobre los beneficios del producto o servicio que se está presentando.
+
+Este problema puede resultar en una falta de equilibrio en la presentación de información en la página, lo que podría hacer que los visitantes tengan dificultades para comprender los beneficios del producto o servicio. La información escrita que detalla los beneficios es fundamental para que los usuarios tomen decisiones informadas, y si se ve opacada por la iconografía, la comunicación efectiva de estos beneficios se ve comprometida.
+
+![WhatsApp Image 2024-10-31 at 9 19 20 AM](https://github.com/user-attachments/assets/17a7cdb1-5033-4610-b01a-d215866cccb6)
+
+**Recomendación:**
+
+Para mejorar la página, se recomienda ajustar el equilibrio entre la iconografía y el contenido informativo en la sección "Benefits" de manera que la información relevante sea la que más destaque:
+
+- Utilizar tamaños de fuente más grandes o colores llamativos.
+- Utiliza la iconografía de manera complementaria para ilustrar visualmente los beneficios, pero no permitas que supere o eclipse la información escrita.
+- Realiza pruebas de usuario para obtener retroalimentación directa sobre la percepción de la sección "Benefits".
+
+<br>
+
+**Problema #05:** La información relacionada con el start up y utilidad del producto es inexacta e insuficiente
 
 **Escala de severidad:** 03
 
-**Principio violado:** Information Architecture: Jerarquía de Información
+**Principio Violado:** Inclusive Design: Diseño Centrado en el Usuario
 
-**Descripción del problema:** No existe información clara y detallada sobre qué funcionalidades incluye la versión gratuita versus la versión premium "AhorrArte Unlimited", dificultando la toma de decisiones del usuario.
+El diseño centrado en el usuario implica satisfacer las necesidades y expectativas del usuario. La información inexacta e insuficiente no cumple con este principio, ya que no aborda las necesidades del usuario de comprender y utilizar el producto de manera efectiva.
 
-**Recomendación:** Crear una tabla comparativa clara que muestre las diferencias entre la versión gratuita y premium, incluyendo límites de transacciones, funciones de análisis avanzado, y acceso a educación financiera personalizada.
+**Descripción del problema:** 
 
-**PROBLEMA #05:** El formulario de contacto no proporciona retroalimentación al usuario
+El problema identificado radica en la inexactitud y la insuficiencia de la información relacionada con el inicio y la utilidad del producto, lo que puede llevar a malentendidos, desinformación y dificultades en la comprensión por parte de los usuarios, impactando negativamente en su experiencia y en la percepción del producto o servicio.
+
+
+**Recomendación:**
+
+Para resolver este problema, se recomienda lo siguiente:
+
+- Verificar y corregir cualquier inexactitud en la información relacionada con el inicio y la utilidad del producto. 
+- Proporciona información más detallada y completa sobre el inicio y la utilidad del producto. 
+
+<br>
+
+**Problema #06:** Resulta imposible encontrar información precisa respecto a las funcionalidades ofrecidas por cada plan de la suscripción
+
+**Escala de severidad:** 03
+
+**Principio violado:** Information Arquitecture: Jerarquía de información: 
+
+La falta de información precisa sobre las funcionalidades de los planes de suscripción sugiere una deficiente jerarquía de información. Es probable que la información relevante no esté organizada de manera efectiva, lo que dificulta su acceso por parte de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado radica en la imposibilidad de encontrar información precisa sobre las funcionalidades ofrecidas por cada plan de suscripción en el sitio web. Esto se debe a una deficiente organización y presentación de la información, lo que dificulta que los usuarios accedan de manera efectiva a los detalles de cada plan y tomen decisiones informadas. La falta de claridad en la arquitectura de la información obstaculiza la navegación de los usuarios y puede resultar en una experiencia frustrante y confusa al intentar seleccionar el plan de suscripción adecuado.
+
+
+**Recomendación:**
+
+- Estructurar la información sobre los planes de suscripción de manera lógica y organizada. Utilizar una jerarquía clara para destacar las funcionalidades de cada plan 
+- Utilizar tablas comparativas u otros elementos visuales para presentar las funcionalidades de manera más clara y efectiva.
+- Asegurarse de que las etiquetas y la navegación relacionadas con los planes de suscripción sean consistentes.
+
+<br>
+
+**Problema #07:** El formulario de Contacto no muestra funcionalidad
 
 **Escala de severidad:** 04
 
-**Principio violado:** Usability - Visibilidad del estado del sistema
+**Principio violado:** Usability- Visibilidad del estado del sistema:
 
-**Descripción del problema:** Cuando los usuarios envían el formulario de contacto, no reciben confirmación de que su mensaje fue enviado exitosamente, dejándolos en incertidumbre sobre el estado de su consulta.
+La falta de funcionalidad en el formulario de contacto va en contra de esta heurística. Los usuarios esperan que los elementos interactivos, como un formulario de contacto, les proporcionen retroalimentación sobre su estado. La ausencia de funcionalidad o la falta de respuesta por parte del formulario puede dejar a los usuarios en la incertidumbre sobre si el formulario está funcionando o si su mensaje se envió correctamente.
 
-**Recomendación:** Implementar mensajes de confirmación claros después del envío del formulario, incluyendo un mensaje de agradecimiento y tiempo estimado de respuesta.
+**Descripción del problema:**
 
+El problema identificado consiste en que el formulario de contacto en el sitio web o aplicación no muestra funcionalidad. En otras palabras, los usuarios no pueden utilizar el formulario para enviar consultas, comentarios o mensajes, lo que limita su capacidad para comunicarse con el sitio o la empresa. Esta falta de funcionalidad en el formulario de contacto dificulta que los usuarios se comuniquen de manera efectiva, lo que puede resultar en una experiencia frustrante y en la incapacidad de completar tareas importantes, como realizar preguntas o proporcionar retroalimentación.
+
+![image (2)](https://github.com/user-attachments/assets/f459ea38-320e-4625-ba0f-2184f328c67d)
+
+**Recomendación:**
+
+Asegurarse de que el formulario de contacto funcione correctamente y que los usuarios reciban retroalimentación después de enviar su mensaje, como un mensaje de confirmación o un redireccionamiento a una página de agradecimiento.
+
+<br>
+
+**Problema #08:**  Tamaño inapropiado de botones “Start” del landing
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability- Consistencia y estándares
+
+El tamaño inapropiado y excesivamente amplio de los botones "Start" viola el principio de consistencia y estándares. Los usuarios esperan que los botones tengan un tamaño razonable y estén en línea con las convenciones de diseño comunes. Cuando un elemento es demasiado grande, puede romper la consistencia visual y dificultar la identificación de su función.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+
+**Recomendación:**
+
+La corrección de este problema implica ajustar el tamaño de los botones "Start" para que sean más apropiados y estén en línea con las expectativas de los usuarios y las convenciones de diseño, lo que mejorará la experiencia de usuario en términos de usabilidad y diseño. 
+
+<br>
+
+**Problema #09:**  Espaciado inadecuado entre las secciones de la barra de navegación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Information Arquitecture – Jerarquía de Información
+
+El espaciado inadecuado entre las secciones de la barra de navegación puede afectar la jerarquía de información al no proporcionar una clara separación entre las secciones. Esto dificulta la identificación y la navegación de los usuarios.
+
+**Descripción del problema:**
+
+El problema identificado se refiere al tamaño inapropiado y excesivamente amplio de los botones "Start" en la página web. Este tamaño desproporcionado viola las expectativas de los usuarios y las convenciones de diseño comunes. Los botones "Start" son elementos clave de interacción en la página y, al ser demasiado amplios, afectan negativamente la usabilidad al dificultar la identificación y selección de estos botones.
+
+
+**Recomendación:**
+
+Para abordar el problema del espaciado inadecuado entre las secciones de la barra de navegación desde una perspectiva de arquitectura de la información, se recomienda ajustar el espaciado para proporcionar una separación clara entre las secciones y mejorar la jerarquía de la información. Esto permitirá a los usuarios identificar y navegar de manera más eficiente entre las opciones. Además, es importante asegurar una organización lógica de las secciones y realizar pruebas de usuario para evaluar la eficacia de los cambios y recopilar retroalimentación directa de los usuarios. Estas medidas mejorarán la experiencia de usuario y la usabilidad de la barra de navegación.
+
+<br>
+
+**Problema #10:** La sección que integra a la misión, visión y valores de la aplicación muestran un tamaño impreciso.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Information Arquitecture – Organización y Estructura
+
+El tamaño impreciso de la sección que contiene la misión, visión y valores de la aplicación afecta la organización y la estructura de la información en la página. Es esencial que esta sección se presente de manera clara y equilibrada en relación con el resto del contenido.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el tamaño impreciso de la sección que integra la misión, visión y valores en la página web. El tamaño inadecuado de esta sección afecta negativamente la organización y presentación de la información, lo que puede llevar a una experiencia de usuario confusa o desequilibrada
+
+
+**Recomendación:**
+
+Para abordar el problema del tamaño impreciso de la sección que integra la misión, visión y valores de la aplicación, se recomienda ajustar el tamaño de esta sección para que sea proporcionado y equilibrado en relación con el resto del contenido. Esto asegurará una organización coherente de la información y permitirá a los usuarios acceder y comprender la misión, visión y valores de la aplicación de manera más efectiva. Además, se deben mantener prácticas de diseño y arquitectura de la información coherentes en toda la página.
+
+<br>
+
+**Problema #11:** La iconografía e imágenes correspondientes a la sección “About the team” y “Benefits” sobresalen del margen de las tarjetas
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability - Estética y diseño minimalista
+
+La estética y el diseño minimalista son importantes para una buena usabilidad. El hecho de que las imágenes sobresalgan de las tarjetas podría violar la heurística de "Estética y diseño minimalista" al crear una apariencia visual confusa y poco organizada
+
+**Descripción del problema:**
+
+El problema identificado se refiere al hecho de que la iconografía e imágenes en las secciones "About the team" y "Benefits" sobresalen del margen de las tarjetas en la página web. Esta superposición afecta negativamente la presentación de la información al crear una apariencia visual desordenada y poco organizada.
+
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda ajustar la presentación de estas imágenes para que se ajusten adecuadamente al margen de las tarjetas, evitando la superposición. Esto mejorará la organización y la apariencia visual de la información, garantizando una experiencia más limpia y comprensible para los usuarios. Además, es esencial mantener un diseño limpio y organizado en toda la página, siguiendo principios de estética y diseño minimalista.
+
+<br>
+
+**Problema #12:**  La sección “Contact” del footer de la página no muestra interacción al redireccionar el correo del startup mediante Gmail.
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Visibilidad del estado del sistema
+
+La falta de interacción en la sección "Contact" al redireccionar el correo con Gmail afecta la visibilidad del estado del sistema. Los usuarios esperan que al hacer clic en un enlace o botón, ocurra una acción que les proporcione retroalimentación visual para indicar que la acción se ha completado con éxito.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la falta de interacción en la sección "Contact" ubicada en el footer de la página web. En particular, al hacer clic en esta sección, no se activa ninguna acción de redirección al correo del startup con Gmail, lo que impide a los usuarios contactar al startup de manera efectiva. La carencia de interacción y la ausencia de retroalimentación visual indicativa de que la acción se ha completado con éxito dificultan la usabilidad de la página en términos de acceso al correo de contacto.
+
+![image (3)](https://github.com/user-attachments/assets/280d0165-7ff7-4ffa-b8ca-57fb3af91a80)
+
+**Recomendación:**
+
+Para solucionar el problema de la falta de interacción en la sección "Contact" en el footer, se recomienda agregar funcionalidad de redirección al correo del startup con Gmail al hacer clic en esta sección. Además, es fundamental proporcionar indicadores visuales claros que confirmen el éxito de la acción de contacto. Esta mejora no solo facilitará a los usuarios la comunicación con el startup, sino que también brindará una experiencia más efectiva y satisfactoria en términos de usabilidad
+
+<br>
+
+**Problema #13:**  El título “About the team” no muestra internacionalización (cambio de idioma al inglés)
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La ausencia de la opción de cambiar el idioma al inglés en el título "About the team" puede dificultar la flexibilidad y la eficiencia de uso para usuarios que prefieren o necesitan el inglés como idioma de navegación.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de internacionalización en el título "About the team," lo que implica que no existe una opción para cambiar el idioma al inglés en esta sección de la página web o la aplicación
+
+La falta de internacionalización no cumple con las necesidades de usuarios multilingües y no ofrece flexibilidad en la navegación, lo que puede resultar en una experiencia de usuario menos efectiva y satisfactoria en términos de accesibilidad a la información en diferentes idiomas.
+
+
+Recomendación:
+
+Para abordar el problema de falta de internacionalización en el título "About the team," se recomienda incorporar una opción de cambio de idioma al inglés en esta sección y, en general, en toda la página. Esto permitirá a los usuarios acceder a la información en su idioma preferido y mejorar la flexibilidad de uso
+
+<br>
+
+**WEB APPLICATION:**
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :-: | :-: | :-: | :-: |
+|1|Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación|1|Usability- Estética y diseño minimalista|
+|2|Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario|3|<p>Usability - Flexibilidad y eficiencia de uso /</p><p>Usability – Prevenir errores</p>|
+|3|El botón “Invitar usaurios” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.|2|Usability- Consistencia y estándares|
+|4|El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.|3|Usability – Control y Libertad del usuario|
+|5|Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.|3|Usability – Control y Libertad del usuario|
+|6|Incapacidad de la aplicación para exportar un historial de registro de ingresos y egresos|4|Usability – Flexibilidad y eficiencia de uso|
+|7|Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario|1|Usability- Estética y diseño minimalista/ Consistencia y estándares|
+|8|Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.|3|Usability-Prevención de errores|
+|9|Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Usuarios”|2|Usability: Visibilidad del estado del sistema|
+|10|Incapacidad para modificar o eliminar la información previamente registrada.|4|Usability-Prevención de errores|
+|11|Sección “Educación Financiera” sobresaliente dentro de la vista de perfil de empresa|1|Usability- Estética y diseño minimalista|
+
+<br>
+
+**Problema #01:**  Espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability- Estética y diseño minimalista
+
+La heurística de "Estética y diseño minimalista" se ve afectada por el espaciado inadecuado, ya que puede crear una apariencia visual desordenada y poco organizada, lo que dificulta la comprensión y la estética general de la página.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con el espaciado inadecuado entre el nombre del servicio y el logotipo de la aplicación. El espacio insuficiente o desigual entre estos elementos afecta la presentación visual de la información y crea una apariencia desordenada, lo que puede dificultar la identificación y comprensión de ambos elementos. Este problema puede afectar negativamente la estética general de la aplicación y dificultar la interacción del usuario con estos componentes.
+
+![WhatsApp Image 2024-10-31 at 9 46 35 AM](https://github.com/user-attachments/assets/3888ee6c-d0c4-4311-bad8-d83529cdaa35)
+
+**Recomendación:**
+
+Para resolver el problema, se recomienda ajustar el espaciado de manera que sea adecuado y consistente. Esto mejorará la presentación general y la estética a través d un diseño limpio. 
+
+<br>
+
+**Problema #02:**  Funcionalidades indisponibles relacionados a la modificación o personalización de perfil, además de eliminar cuenta de usuario
+
+**Escala de severidad:** 03
+
+Principio violado:
+
+Usability - Flexibilidad y eficiencia de uso: La falta de funcionalidades para modificar perfiles o eliminar cuentas afecta la flexibilidad y eficiencia de uso, ya que los usuarios no pueden realizar estas acciones de manera efectiva, lo que puede dificultar la gestión de sus perfiles y cuentas.
+
+Usability - Prevenir errores: La heurística "Prevenir errores" implica proporcionar a los usuarios la capacidad de corregir errores o deshacer acciones. La ausencia de opciones para modificar perfiles o eliminar cuentas limita la capacidad de los usuarios para corregir o deshacer cambios en sus perfiles, lo que puede resultar en problemas de usabilidad y satisfacción del usuario.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de funcionalidades disponibles en la aplicación que permitan a los usuarios modificar o personalizar sus perfiles de usuario, así como la eliminación de sus cuentas. Esta carencia afecta la flexibilidad y la eficiencia de uso, ya que los usuarios no tienen la capacidad de gestionar sus perfiles de manera efectiva y no cuentan con opciones para corregir errores o deshacer acciones. Además, la aplicación no cumple con la heurística de "Flexibilidad y eficiencia de uso", ya que no proporciona estas funciones esenciales.
+
+![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
+
+**Recomendación:**
+
+Para solucionar el problema, se recomienda incorporar estas funcionalidades clave de manera eficiente y accesible en la interfaz. De igual forma, es esencial que se incluyan medidas de protección de datos y confirmación para la eliminación de cuentas, evitando así eliminaciones accidentales.
+
+<br>
+
+**Problema #03:**  El botón “Invitar Usuarios” no es interactivo, es decir, no es capaz de generar el enlace de invitación correspondiente.
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Consistencia y Estándares
+
+La heurística "Consistencia y estándares" se ve comprometida, ya que los usuarios pueden esperar que un botón con esta etiqueta realice una acción específica (generar un enlace de invitación) según las convenciones y estándares comunes en aplicaciones similares.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la falta de interactividad en el botón "Invitar Usuarios" de la aplicación. Este botón no es capaz de generar el enlace de invitación correspondiente, lo que significa que no cumple con su función esperada. Esta carencia de interactividad en el botón puede resultar en una experiencia frustrante y no satisfactoria. 
+
+![WhatsApp Image 2024-10-31 at 9 47 02 AM](https://github.com/user-attachments/assets/c614213d-af77-4aee-b762-5462613cd724)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda que este botón sea programado de manera que sea capaz de generar el enlace de invitación correspondiente cuando se hace clic en él. Además, es fundamental proporcionar retroalimentación visual inmediata, como mostrar el enlace de invitación generado o un mensaje de confirmación, para indicar que la acción se ha completado con éxito.
+
+<br>
+
+**Problema #04:**  El usuario es redireccionado al formulario de inicio de sesión al salir de cualquier sección principal del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La falta de control y libertad del usuario es evidente en este problema, ya que el usuario se ve forzado a regresar al formulario de inicio de sesión al salir de cualquier sección principal del dashboard, sin la opción de elegir continuar en la aplicación o regresar a una sección anterior.
+
+![WhatsApp Image 2024-10-31 at 9 47 20 AM](https://github.com/user-attachments/assets/9db1fe6a-8cc6-4733-96f7-d9d7e7ca6907)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda brindar a los usuarios un mayor control y libertad sobre su navegación. Esto implica ofrecer una opción clara y fácil de entender que permita a los usuarios decidir si desean regresar al formulario de inicio de sesión o continuar en la aplicación después de salir de una sección principal. Ello se puede realizar a través de la inserción de un botón “return”. La realización de pruebas de usuario será esencial para validar estas mejoras y garantizar que los usuarios puedan tomar decisiones informadas sobre su navegación.
+
+<br>
+
+**Problema #05:**  Ausencia de un componente que permita regresar al dashboard y poder seleccionar otra funcionalidad estando dentro de una de las secciones principales del dashboard.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Control y libertad del usuario
+
+La ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad limita su control y libertad en la navegación. Los usuarios pueden sentirse atrapados en una sección sin una forma clara de volver al dashboard.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la ausencia de un componente que permita a los usuarios regresar al dashboard y seleccionar otra funcionalidad mientras están dentro de una de las secciones principales del dashboard de la aplicación. Esta carencia limita la libertad y el control del usuario en su navegación, lo que puede resultar en una experiencia frustrante y poco eficiente.
+
+![WhatsApp Image 2024-10-31 at 9 47 27 AM](https://github.com/user-attachments/assets/69031ee3-bb28-48d6-9b48-cf3c2190dcbd)
+
+**Recomendación:**
+
+Para abordar este problema, se recomienda incorporar un componente de navegación claramente visible en todas las secciones principales del dashboard. Este componente, como un botón de regreso al dashboard, proporcionará a los usuarios una forma eficiente de cambiar entre diferentes funcionalidades,
+
+<br>
+
+**Problema #06:**  Incapacidad de la aplicación para exportar un historial de registro de ingresos y egresos
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Flexibilidad y eficiencia de uso
+
+La incapacidad de exportar el historial afecta la "Flexibilidad y eficiencia de uso". Los usuarios pueden requerir estos datos para diferentes propósitos, y la falta de funcionalidad para exportarlos ralentiza la eficiencia de uso.
+
+**Descripción del problema:**
+
+El problema identificado radica en la incapacidad de la aplicación para exportar un historial de registro de ingresos y egresos. Los usuarios no tienen la opción de extraer esta información de la aplicación en un formato accesible o descargable. Esto limita su capacidad para utilizar y compartir los datos registrados de manera eficiente
+
+![WhatsApp Image 2024-10-31 at 9 47 37 AM](https://github.com/user-attachments/assets/5846256c-b325-46fe-8479-b61d81530822)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar una función de exportación que permita a los usuarios descargar esta información en un formato a elección del usuario. Esta función debe ser claramente visible y accesible en la interfaz de usuario, facilitando a los usuarios la exportación eficiente de sus datos.
+
+<br>
+
+**Problema #07:**  Percepción imprecisa, dentro del header de la aplicación, respecto al componente de perfil de usuario y empresa
+
+**Escala de severidad:** 01
+
+**Principio violado:** Usability – Consistencia y estándares/ Estética y diseño minimalista
+
+La confusión sobre qué componente despliega el perfil del usuario sugiere una violación de la heurística de "Diseño y coherencia estética". Los usuarios podrían esperar que los componentes sigan un diseño y una ubicación coherentes que indiquen claramente cuál es cuál
+
+![WhatsApp Image 2024-10-31 at 9 46 24 AM](https://github.com/user-attachments/assets/ace75a85-8c89-4c2e-858a-a9638a43c54d)
+
+**Recomendación:**
+
+Para abordar el problema, se recomienda incorporar elementos visuales claros que permitan a los usuarios identificar con precisión cada perfil. Esto podría incluir el uso de íconos distintos, colores diferenciados o etiquetas claras para cada perfil. En ese sentido, segmentar el header en “Mi perfil”.
+
+<br>
+
+**Problema #08:** Inexistencia de la funcionalidad “recuperar contraseña” dentro del formulario de inicio de sesión.
+
+**Escala de severidad:** 03
+
+**Principio violado:** Usability – Prevención de errores
+
+La heurística "Prevención de errores" se ve afectada, ya que la falta de una funcionalidad de recuperación de contraseña puede aumentar la probabilidad de errores, como bloqueos de cuentas debido a contraseñas olvidadas.
+
+**Descripción del problema:**
+
+El problema identificado se relaciona con la inexistencia de la funcionalidad "recuperar contraseña" dentro del formulario de inicio de sesión. Los usuarios que olviden su contraseña no tienen una forma clara de restablecerla, lo que puede resultar en bloqueos de cuentas y una experiencia frustrante.
+
+![WhatsApp Image 2024-10-31 at 9 47 37 AM](https://github.com/user-attachments/assets/5846256c-b325-46fe-8479-b61d81530822)
+
+**Recomendación:**
+
+Para abordar la inexistencia de la funcionalidad "recuperar contraseña" en el formulario de inicio de sesión, se recomienda incorporar una función claramente visible, como un enlace o botón de "¿Olvidaste tu contraseña?". Esta función guiará a los usuarios a través del proceso de recuperación de contraseña de manera eficiente y prevendrá bloqueos de cuentas debido a contraseñas olvidadas.
+
+<br>
+
+**Problema #09:** Ausencia de la funcionalidad del filtrado de búsqueda relacionado a “Buscar Usuarios”
+
+**Escala de severidad:** 02
+
+**Principio violado:** Usability – Visibilidad del estado del sistema
+
+La ausencia de funcionalidad de filtrado de búsqueda afecta esta heurística, ya que no proporciona a los usuarios una retroalimentación clara sobre el estado del sistema después de ingresar un nombre de usuario y hacer clic en el botón de búsqueda. La falta de respuesta o resultados visibles hace que los usuarios no tengan información sobre el estado de su búsqueda.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la ausencia de la funcionalidad de filtrado de búsqueda relacionada con "Buscar Usuarios" en la aplicación. A pesar de contar con un botón de búsqueda y una caja de texto donde los usuarios pueden ingresar el nombre del usuario que desean buscar, la funcionalidad de búsqueda no está habilitada o no funciona correctamente.
+
+![WhatsApp Image 2024-10-31 at 9 46 35 AM](https://github.com/user-attachments/assets/3888ee6c-d0c4-4311-bad8-d83529cdaa35)
+
+**Recomendación:**
+
+Para abordar la ausencia de funcionalidad en la búsqueda, se recomienda habilitar y asegurarse de que la función de búsqueda funcione de manera efectiva. Cuando los usuarios ingresen el nombre y hagan clic en el botón de búsqueda, la aplicación debe proporcionar resultados relevantes o un mensaje informativo si no se encuentran resultados.
+
+<br>
+
+**Problema #10:** Incapacidad para modificar o eliminar la información previamente registrada.
+
+**Escala de severidad:** 04
+
+**Principio violado:** Usability – Prevención de errores
+
+La incapacidad de modificar o eliminar información de ingresos y egresos previamente registrados afecta esta heurística, ya que los usuarios pueden cometer errores al ingresar información incorrecta o desear corregir datos erróneos. Además, la falta de una función de edición o eliminación puede llevar a una experiencia frustrante y la pérdida de datos valiosos.
+
+**Descripción del problema:**
+
+El problema identificado se refiere a la incapacidad de modificar o eliminar la información previamente registrados en la aplicación. Los usuarios no tienen la opción de corregir errores, actualizar datos obsoletos o eliminar registros no deseados, lo que puede resultar en información inexacta y desactualizada en la aplicación. Esta limitación afecta la usabilidad y la capacidad de los usuarios para mantener registros precisos y completos de la información financiera cotidiana.
+
+![WhatsApp Image 2024-10-31 at 9 46 43 AM](https://github.com/user-attachments/assets/34c02b75-ab10-4b06-9c17-29850443262f)
+
+<div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
+
+A continuación, se presenta el video About the product, el cual evidencia el propósito, beneficios y principales características de la aplicación, adicionalmente, incluye testimonios de parte de los principales usuarios donde se valida la calidad del software elaborado.
+
+Enlace para visualizar el video About the product:
+
+Enlace del video subido a YouTube: 
+
+Enlace del video subido a Stream:
+
+<div id='6.'><h5>6. Conclusiones.</h5></div>
+<div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
+
+1. **El proyecto Saifu aborda un problema crítico en Perú** al enfocarse en mejorar la educación financiera y promover una gestión responsable de los recursos económicos entre los sectores más vulnerables.
+
+2. **La segmentación del mercado fue precisa y efectiva**, identificando a los jefes de hogar de los niveles económicos D y E, así como a los jóvenes adultos, como los principales usuarios de la plataforma.
+
+3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a Saifu de otras soluciones existentes.
+
+4. **El equipo demostró un uso eficiente de metodologías ágiles**, como GitFlow, para estructurar el desarrollo del proyecto y garantizar la colaboración efectiva entre los integrantes.
+
+5. **La plataforma tiene el potencial de generar un impacto social positivo**, al fomentar el hábito del ahorro, reducir el endeudamiento y promover la estabilidad económica en las familias peruanas.
+
+6. **Existen desafíos importantes en la implementación**, como la resistencia a adoptar nuevas tecnologías y la falta de interés inicial en la educación financiera, que requieren estrategias adicionales para ser superados.
+
+7. **El proyecto se alinea con los objetivos de desarrollo sostenible**, contribuyendo a la mejora de la calidad de vida, el bienestar económico y la reducción de la pobreza en los sectores más necesitados.
 
 <div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
 <div id='6.'><h5>6. Conclusiones.</h5></div>
