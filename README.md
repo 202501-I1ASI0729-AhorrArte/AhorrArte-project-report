@@ -2411,7 +2411,7 @@ Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Rivera Ayala, Gabriel Alejandro<br>Reyes Menacho, Camila Asunción<br>Cisneros Salas, Luis Ángel<br>Rodríguez Zulueta, Andrés Fernando<br>Rivera Ayala, Gabriel Alejandro</td>
+    <td align="center">Rivera Ayala, Gabriel Alejandro<br>Reyes Menacho, Camila Asunción<br>Cisneros Salas, Luis Ángel<br>Rodríguez Zulueta, Andrés Fernando</td>
   </tr>
   <tr>
     <td align="center">Sprint 4 - 3 - 2 – 1 Review Summary</td>
