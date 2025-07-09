@@ -1524,7 +1524,7 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 ![GitHub Pages Deployment](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Deploy-LandingPage.png)
 
-Enlace para acceder a la [landing page](https://upecinos-ai-opensource.github.io/AhorrArte-LandingPage/)
+Enlace para acceder a la [landing page](https://202501-i1asi0729-ahorrarte.github.io/AhorrArte-LandingPage/)
 
 
 |Sprint #|Date|Time|Location|Prepared By|Attendees|
@@ -1644,7 +1644,7 @@ Se llevó a cabo una reunión mediante google meet con el objetivo de asignarle 
     <th colspan="2" style="text-align: center;">Sprint Goal</th>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center;">Implementar una landing page sobre Saifu a su vez completando el informe de acuerdo a lo que se nos solicita</td>
+    <td colspan="2" style="text-align: center;">Implementar una landing page sobre AhorrArte a su vez completando el informe de acuerdo a lo que se nos solicita</td>
   </tr>
   <tr>
     <td style="text-align: center;">Sprint n Velocity</td>
@@ -2292,14 +2292,13 @@ Para esta entrega se ha logrado implementar y desplegar la segunda version del L
 - Backend
 
 <div id='5.2.3.6.'><h5>5.2.3.6. Services Documentation Evidence for Sprint Review</h5></div>
-En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/Upecinos-AI-OpenSource/Saifu-BackEnd.git
-Se adjunta el enlace del back end desplegado: 
+En esta sección se presentan los endpoints desarrollados durante el sprint y se adjuntan capturas de la UI de swagger con OpenApi. En el alcance de este sprint se han desarrollado los bounded context. Se adjunta el enlace al repositorio correspondiente: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-BackEnd
 
 ||||
 | :- | :- | :- |
 |Entity|EndPoint URL|Swagger|
-|Person|/api/v1/Person|!![foto_person_](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
-|User Consult|//api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
+|Person|/api/v1/Person|!![foto_person_](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Persons.png)|
+|User Consult|//api/v1/user_consults|![user_conults](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/userconsult.png)|
 
 <div id='5.2.3.7.'><h5>5.2.3.7. Software Deployment Evidence for Sprint Review</h5></div>
 # Documentación de Endpoints
@@ -2603,8 +2602,8 @@ Execution Evidence Backend
 ||||
 | :- | :- | :- |
 |Entity|EndPoint URL|Swagger|
-|Person|/api/v1/Person|!![foto_person](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/e8696d2a627b9d146cacb479c03450aa2ab72911/assets/person.png)|
-|User Consult|/api/v1/user_consults|![user_conults](https://github.com/Upecinos-AI-OpenSource/Saifu-project-report/blob/08b11fabfb0898f80d914458283e224007fcf399/assets/userconsult.png)|
+|Person|/api/v1/Person|!![foto_person](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/Persons.png)|
+|User Consult|/api/v1/user_consults|![user_conults](https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-project-report/blob/main/assets/userconsult.png)|
 |Users|/api/v1/users|![users](assets/Users.png)|
 |Families|/api/v1/families|![families](assets/Families.png)|
 |Plans|/api/v1/plans|![plans](assets/Plans.png)|
@@ -2776,7 +2775,7 @@ Landing page:
 
 El despliegue de la página de destino en GitHub Pages se ha actualizado después de haber realizado la fusión de la rama "develop" con la rama principal ("main"). Este proceso ha permitido actualizar la implementación de la página de destino.
 
-Enlace de despliegue del landing page: https://upecinos-ai-opensource.github.io/Saifu-LandingPage/index.html
+Enlace de despliegue del landing page: https://202501-i1asi0729-ahorrarte.github.io/AhorrArte-LandingPage/
 
 ![landing](https://github.com/user-attachments/assets/59f87f4e-9139-4e18-9318-9cb1583c5fcb)
 
@@ -3397,11 +3396,11 @@ Enlace del video subido a Stream:
 <div id='6.'><h5>6. Conclusiones.</h5></div>
 <div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
 
-1. **El proyecto Saifu aborda un problema crítico en Perú** al enfocarse en mejorar la educación financiera y promover una gestión responsable de los recursos económicos entre los sectores más vulnerables.
+1. **El proyecto AhorrArte aborda un problema crítico en Perú** al enfocarse en mejorar la educación financiera y promover una gestión responsable de los recursos económicos entre los sectores más vulnerables.
 
 2. **La segmentación del mercado fue precisa y efectiva**, identificando a los jefes de hogar de los niveles económicos D y E, así como a los jóvenes adultos, como los principales usuarios de la plataforma.
 
-3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a Saifu de otras soluciones existentes.
+3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a AhorrArte de otras soluciones existentes.
 
 4. **El equipo demostró un uso eficiente de metodologías ágiles**, como GitFlow, para estructurar el desarrollo del proyecto y garantizar la colaboración efectiva entre los integrantes.
 
