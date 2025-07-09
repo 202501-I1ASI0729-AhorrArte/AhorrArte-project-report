@@ -3411,24 +3411,6 @@ Enlace del video subido a Stream:
 
 7. **El proyecto se alinea con los objetivos de desarrollo sostenible**, contribuyendo a la mejora de la calidad de vida, el bienestar económico y la reducción de la pobreza en los sectores más necesitados.
 
-<div id='5.4.'><h5>5.4. Video About-the-Product</h5></div>
-<div id='6.'><h5>6. Conclusiones.</h5></div>
-<div id='6.1.'><h5> 6.1 Conclusiones y recomendaciones.</h5></div>
-
-1. **El proyecto AhorrArte aborda un problema crítico en Perú** al enfocarse en mejorar la educación financiera y promover una gestión responsable de los recursos económicos entre los sectores más vulnerables.
-
-2. **La segmentación del mercado fue precisa y efectiva**, identificando a los jefes de hogar de los niveles económicos D y E, así como a los jóvenes adultos, como los principales usuarios de la plataforma.
-
-3. **La integración tecnológica del proyecto es innovadora**, incluyendo herramientas como el registro de ingresos y egresos, proyecciones macroeconómicas y análisis financiero, que diferencian a AhorrArte de otras soluciones existentes.
-
-4. **El equipo demostró un uso eficiente de metodologías ágiles**, como GitFlow, para estructurar el desarrollo del proyecto y garantizar la colaboración efectiva entre los integrantes.
-
-5. **La plataforma tiene el potencial de generar un impacto social positivo**, al fomentar el hábito del ahorro, reducir el endeudamiento y promover la estabilidad económica en las familias peruanas.
-
-6. **Existen desafíos importantes en la implementación**, como la resistencia a adoptar nuevas tecnologías y la falta de interés inicial en la educación financiera, que requieren estrategias adicionales para ser superados.
-
-7. **El proyecto se alinea con los objetivos de desarrollo sostenible**, contribuyendo a la mejora de la calidad de vida, el bienestar económico y la reducción de la pobreza en los sectores más necesitados.
-
 <div id='6.2.'><h5> 6.2. Video About-the-Team</h5></div>
 
 A continuación, se presenta el video About the team, donde se presenta el aporte y cualidades de los integrantes del equipo de desarrollo:
@@ -3455,7 +3437,7 @@ Repositorio del Informe: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte
 
 Mobile Mockups, Wireframes y User Flows: https://www.figma.com/design/wS34ooS1MsNrCMC5vRUnpa/WIREFRA
 
-trello:https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
+Trello: https://trello.com/invite/b/680af8c08e1c360fa30a9292/ATTIb831f35fc589b7e7a37d8be770e12d884F92343F/finsuma-ahorrarte
 
 Landing Page: https://202501-i1asi0729-ahorrarte.github.io/AhorrArte-LandingPage/
 
