@@ -14,7 +14,7 @@
 ### Startup: FinSuma
 ### Producto: AhorrArte
 
-**Marzo - 2025**
+**Julio - 2025**
 
 ---
 
@@ -46,6 +46,8 @@
 ## Project Report Collaboration Insights
 
 **Enlace de la organización:** [FinSuma - AhorrArte](https://github.com/202501-I1ASI0729-AhorrArte)
+
+https://github.com/202501-I1ASI0729-AhorrArte
 
 ### TB1 - Distribución de Tareas
 
@@ -1084,6 +1086,8 @@ El wireframe de la vista desktop web browser de la landing page resultó de util
 
 Enlace para acceder al [Figma](https://www.figma.com/design/3nwEilm7eb90q706qCrjEj/WIREFRAMES_MOCKUPS----AHORRARTE?node-id=272-2412&t=EvwOrDl4KsWm2dAR-0)
 
+https://www.figma.com/design/3nwEilm7eb90q706qCrjEj/WIREFRAMES_MOCKUPS----AHORRARTE?node-id=272-2412&t=EvwOrDl4KsWm2dAR-0
+
 ##### Web Application para Desktop Web Browser
 
 Crear Cuenta:
@@ -1146,6 +1150,8 @@ Registro de Transacciones:
 <div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
 
 Enlace para acceder al [Figma](https://www.figma.com/design/3nwEilm7eb90q706qCrjEj/WIREFRAMES_MOCKUPS----AHORRARTE?node-id=272-2412&t=EvwOrDl4KsWm2dAR-0)
+
+https://www.figma.com/design/3nwEilm7eb90q706qCrjEj/WIREFRAMES_MOCKUPS----AHORRARTE?node-id=272-2412&t=EvwOrDl4KsWm2dAR-0
 
 Crear Cuenta:
 
