@@ -2462,8 +2462,8 @@ Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-
     <td align="center">WI01</td>
     <td align="center">TS01</td>
     <td align="center">WI01</td>
-    <td align="center">Conectar el Frontend con el Backend</td>
-    <td align="center">	Conectar el Frontend con el Backend</td>
+    <td align="center">Conectar FinancialData y FinalcialEducation</td>
+    <td align="center">Conectar FinancialData y FinalcialEducation</td>
     <td align="center">6</td>
     <td align="center">Rivera Ayala, Gabriel Alejandro</td>
     <td align="center">Done</td>
@@ -2472,8 +2472,8 @@ Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-
     <td align="center">WI02</td>
     <td align="center">TS02</td>
     <td align="center">WI02</td>
-    <td align="center">Relizar los testeos</td>
-    <td align="center">Relizar el conjunto de testing a nuestro proyecto para asegurar la calidad del software</td>
+    <td align="center">Conectar UserInflation y UserTransaction</td>
+    <td align="center">Conectar UserInflation y UserTransaction</td>
     <td align="center">3</td>
     <td align="center">Reyes Menacho, Camila Asunción</td>
     <td align="center">Done</td>
@@ -2482,8 +2482,8 @@ Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-
     <td align="center">WI03</td>
     <td align="center">TS03</td>
     <td align="center">WI03</td>
-    <td align="center">Correcciones al Backend</td>
-    <td align="center">Correcciones al Backend</td>
+    <td align="center">Conectar UserContext</td>
+    <td align="center">Conectar UserContext</td>
     <td align="center">3</td>
     <td align="center">Cisneros Salas, Luis Ángel</td>
     <td align="center">Done</td>
@@ -2492,8 +2492,8 @@ Enlace del repositorio: https://github.com/202501-I1ASI0729-AhorrArte/AhorrArte-
     <td align="center">WI04</td>
     <td align="center">TS04</td>
     <td align="center">WI04</td>
-    <td align="center">Controllers principales terminados</td>
-    <td align="center">Controllers principales terminados</td>
+    <td align="center">Conectar IAM e InflationReport</td>
+    <td align="center">Conectar IAM e InflationReport</td>
     <td align="center">4</td>
     <td align="center">Rodríguez Zulueta, Andrés Fernando</td>
     <td align="center">Done</td>
